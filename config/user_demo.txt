@@ -17,10 +17,7 @@ CCTV-14
 CCTV-15
 CCTV-16
 CCTV-17
-CETV1
-CETV2
-CETV4
-CETV5
+
 
 💰央视付费频道,#genre#
 文化精品
@@ -87,6 +84,8 @@ NewTV动画王国
 NewTV古装剧场
 NewTV家庭剧场
 NewTV明星大片
+NewTV超级电影
+NewTV超级电视剧
 黑莓电影
 纬来电影
 靖天映画
@@ -123,7 +122,6 @@ IPTV经典电影
 爱喜剧
 爱悬疑
 爱幼教
-爱娱乐
 爱院线
 动漫电影
 
