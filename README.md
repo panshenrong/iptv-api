@@ -127,7 +127,15 @@ https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
 ```bash
 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
 ```
-
+- 自定义数据源
+  ```bash
+  https://ghgo.xyz/raw.githubusercontent.com/panshenrong/iptv-api/master/output/user_result.txt
+  ```
+  或
+   ```bash
+ https://cdn.jsdelivr.net/gh/panshenrong/iptv-api@master/output/user_result.txt
+  ```
+   
 - 数据源：
 
 ```bash
