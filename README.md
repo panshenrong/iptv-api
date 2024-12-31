@@ -131,10 +131,11 @@ https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
   ```bash
   https://ghgo.xyz/raw.githubusercontent.com/panshenrong/iptv-api/master/output/user_result.txt
   ```
-  或
-   ```bash
+或
+
+ ```bash
  https://cdn.jsdelivr.net/gh/panshenrong/iptv-api@master/output/user_result.txt
-  ```
+ ```
    
 - 数据源：
 
