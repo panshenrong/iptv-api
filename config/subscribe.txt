@@ -8,7 +8,7 @@ https://live.fanmingming.cn/tv/m3u/ipv6.m3u
 https://ghgo.xyz/raw.githubusercontent.com/joevess/IPTV/main/home.m3u8
 https://aktv.top/live.txt
 http://175.178.251.183:6689/live.txt
-https://github.com/kimwang1978/collect-tv-txt/blob/main/live.m3u
+https://ghgo.xyz/raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 https://m3u.ibert.me/txt/fmml_dv6.txt
 https://m3u.ibert.me/txt/o_cn.txt
 https://m3u.ibert.me/txt/j_iptv.txt
