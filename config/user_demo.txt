@@ -57,9 +57,6 @@ CCTV-17
 CHC家庭影院
 CHC动作电影
 CHC高清电影
-淘剧场
-淘娱乐
-淘电影
 NewTV惊悚悬疑
 NewTV动作电影
 NewTV中国功夫
@@ -76,7 +73,6 @@ NewTV欢乐剧场
 NewTV军事评论
 NewTV热播精选
 黑莓电影
-经典电影
 IPTV经典电影
 1905电影网
 漫威电影
