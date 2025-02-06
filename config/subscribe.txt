@@ -22,9 +22,9 @@ http://www.terrykang.xyz:35455/douyuyqk.m3u
 http://117.144.58.42:35455/tv.m3u
 http://117.144.58.42:35455/yylunbo.m3u
 http://117.144.58.42:35455/douyuyqk.m3u
-http://47.76.41.124:35455/tv.m3u
-http://47.76.41.124:35455/yylunbo.m3u
-http://47.76.41.124:35455/douyuyqk.m3u
+http://dsm.huarunguoji.top:35455/tv.m3u
+http://dsm.huarunguoji.top:35455/yylunbo.m3u
+http://dsm.huarunguoji.top:35455/douyuyqk.m3u
 https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt
 http://47.120.41.246:8899/zb.txt
 http://8.138.7.223/live.txt
