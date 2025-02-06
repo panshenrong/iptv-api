@@ -26,5 +26,5 @@ http://47.76.41.124:35455/tv.m3u
 http://47.76.41.124:35455/yylunbo.m3u
 http://47.76.41.124:35455/douyuyqk.m3u
 https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt
-https://raw.githubusercontent.com/tianya7981/jiekou/refs/heads/main/野火959
+http://47.120.41.246:8899/zb.txt
 https://raw.bgithub.xyz/glh4545/glh4545.github.io/refs/heads/main/111.txt
