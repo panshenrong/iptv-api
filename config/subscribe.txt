@@ -27,4 +27,5 @@ http://47.76.41.124:35455/yylunbo.m3u
 http://47.76.41.124:35455/douyuyqk.m3u
 https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt
 http://47.120.41.246:8899/zb.txt
+http://8.138.7.223/live.txt
 https://raw.bgithub.xyz/glh4545/glh4545.github.io/refs/heads/main/111.txt
