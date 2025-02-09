@@ -33,3 +33,5 @@ http://47.120.41.246:8899/zb.txt
 http://8.138.7.223/live.txt
 https://raw.bgithub.xyz/glh4545/glh4545.github.io/refs/heads/main/111.txt
 https://raw.githubusercontent.com/wwb521/live/main/tv.txt
+https://livetv.wqwqwq.sbs/tv.m3u
+https://lu.wqwqwq.sbs/tv.m3u
