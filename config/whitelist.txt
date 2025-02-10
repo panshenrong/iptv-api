@@ -4,4 +4,4 @@
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 #接口
 http://www.freetv.top$!
-http://z.b.bkpcp.top$!
+http://z.b.bkpcp.top/m.php$!
