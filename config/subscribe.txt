@@ -37,3 +37,4 @@ https://livetv.wqwqwq.sbs/tv.m3u
 https://lu.wqwqwq.sbs/tv.m3u
 http://so.owo.vin/卫视
 http://so.owo.vin/cctv
+http://so.owo.vin/newtv
