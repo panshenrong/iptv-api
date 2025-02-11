@@ -41,6 +41,7 @@ replace_dict = {
     "-50-FPS":"",
     "-HEVC":"",
     "chc":"CHC",
+    "NewTV-":"NewTV",
     "CCTV1综合": "CCTV1",
     "CCTV2财经": "CCTV2",
     "CCTV3综艺": "CCTV3",
