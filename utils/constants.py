@@ -43,6 +43,8 @@ replace_dict = {
     "高清": "",
     "chc": "CHC",
     "NewTV-": "NewTV",
+    "西游记1": "西游记",
+    "西游记2": "西游记续集"，
     "CCTV1综合": "CCTV1",
     "CCTV2财经": "CCTV2",
     "CCTV3综艺": "CCTV3",
