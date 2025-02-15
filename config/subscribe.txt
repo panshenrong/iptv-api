@@ -22,9 +22,9 @@ http://231114.xyz:35455/douyuyqk.m3u
 http://117.144.58.42:35455/tv.m3u
 http://117.144.58.42:35455/yylunbo.m3u
 http://117.144.58.42:35455/douyuyqk.m3u
-http://home.dzlove.top:35455/tv.m3u
-http://home.dzlove.top:35455/yylunbo.m3u
-http://home.dzlove.top:35455/douyuyqk.m3u
+http://2000.run:35455/tv.m3u
+http://2000.run:35455/yylunbo.m3u
+http://2000.run:35455/douyuyqk.m3u
 http://newtv.fun:35455/tv.m3u
 http://newtv.fun:35455/yylunbo.m3u
 http://newtv.fun:35455/douyuyqk.m3u
