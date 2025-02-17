@@ -38,3 +38,4 @@ https://lu.wqwqwq.sbs/tv.m3u
 http://so.owo.vin/卫视
 http://so.owo.vin/cctv
 http://so.owo.vin/newtv
+https://raw.githubusercontent.com/HerbertHe/iptv-sources/gh-pages/txt/merged.txt
