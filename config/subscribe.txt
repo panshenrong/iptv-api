@@ -15,7 +15,12 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-http://www.freetv.top/migu.m3u
+
+#自定义
+#http://www.freetv.top/migu.m3u
+http://yc.myds.me:35455/tv.m3u
+http://yc.myds.me:35455/douyuyqk.m3u
+http://yc.myds.me:35455/yylunbo.m3u
 http://231114.xyz:35455/tv.m3u
 http://231114.xyz:35455/yylunbo.m3u
 http://231114.xyz:35455/douyuyqk.m3u
