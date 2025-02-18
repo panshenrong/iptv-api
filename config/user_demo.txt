@@ -54,10 +54,10 @@ CHC家庭影院
 CHC动作电影
 CHC影迷电影
 新片放映厅
-NewTV超级电视剧
-NewTV超级电影
-NewTV黑莓电影
-NewTV黑莓动画
+超级电视剧
+超级电影
+黑莓电影
+黑莓动画
 IPTV经典电影
 
 🪁动画频道,#genre#
