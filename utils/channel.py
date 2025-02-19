@@ -479,17 +479,17 @@ def append_data_to_info_data(info_data, cate, name, data, origin=None, check=Tru
                 if not white_info:
                     if pure_url in urls:
                         continue
-                    if url_host in url_hosts:
-                        for p_url in urls:
-                            if get_url_host(p_url) == url_host and len(p_url) < len(pure_url):
-                                urls.remove(p_url)
-                                urls.add(pure_url)
-                                for index, info in enumerate(info_data[cate][name]):
-                                    if info[0] and get_url_host(info[0]) == url_host:
-                                        info_data[cate][name][index] = (url, date, resolution, url_origin)
-                                        break
-                                break
-                        continue
+                    # if url_host in url_hosts:
+                    #     for p_url in urls:
+                    #         if get_url_host(p_url) == url_host and len(p_url) < len(pure_url):
+                    #             urls.remove(p_url)
+                    #             urls.add(pure_url)
+                    #             for index, info in enumerate(info_data[cate][name]):
+                    #                 if info[0] and get_url_host(info[0]) == url_host:
+                    #                     info_data[cate][name][index] = (url, date, resolution, url_origin)
+                    #                     break
+                    #             break
+                    #     continue
                 if white_info or (whitelist and check_url_by_keywords(url, whitelist)):
                     url_origin = "whitelist"
                 if (
