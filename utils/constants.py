@@ -30,16 +30,15 @@ demo_txt_pattern = r"^([^,，]+)(?:[,，])?(?!#genre#)" + r"(" + url_pattern + r
 
 txt_pattern = r"^([^,，]+)(?:[,，])(?!#genre#)" + r"(" + url_pattern + r")"
 
-m3u_pattern = r"^#EXTINF:-1.*?(?:，|,)(.*?)\n" + r"(" + url_pattern + r")"
+m3u_pattern = r"^#EXTINF:-1(?:[^\n]*?)(?:，|,)([^,]+)\s*\n" + r"(" + url_pattern + r")"
 
-sub_pattern = r"-|_|\((.*?)\)|\（(.*?)\）|\[(.*?)\]|\「(.*?)\」| |｜|频道|普清|标清|高清|HD|hd|超清|超高|超高清|中央|央视|电视台|台|电信|联通|移动|-50-FPS|-HEVC|-高码|NewTV-"
+sub_pattern = r"NewTV-|iHOT-|-HEVC|-50-FPS|-|_|\((.*?)\)|\（(.*?)\）|\[(.*?)\]|\「(.*?)\」| " \
+              r"|｜|频道|普清|标清|高清|HD|hd|超清|超高|超高清|中央|央视|电视台|台|电信|联通|移动|高码"
 
 replace_dict = {
     "plus": "+",
     "PLUS": "+",
     "＋": "+",
-    "chc": "CHC",
-    "cctv":"CCTV",
     "CCTV1综合": "CCTV1",
     "CCTV2财经": "CCTV2",
     "CCTV3综艺": "CCTV3",
