@@ -41,5 +41,5 @@ https://lu.wqwqwq.sbs/tv.m3u
 #http://so.owo.vin/卫视
 #http://so.owo.vin/cctv
 #http://so.owo.vin/newtv
-https://freetv.fun/test_channels_new.m3u
+#https://freetv.fun/test_channels_new.m3u
 https://raw.githubusercontent.com/hero1898/tv/main/IPTV.txt
