@@ -21,9 +21,9 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 http://yc.myds.me:35455/tv.m3u
 http://yc.myds.me:35455/douyuyqk.m3u
 http://yc.myds.me:35455/yylunbo.m3u
-http://231114.xyz:35455/tv.m3u
-http://231114.xyz:35455/yylunbo.m3u
-http://231114.xyz:35455/douyuyqk.m3u
+http://www.clmy.cc:35455/tv.m3u
+http://www.clmy.cc:35455/yylunbo.m3u
+http://www.clmy.cc:35455/douyuyqk.m3u
 http://hangfun.top:35455/tv.m3u
 http://hangfun.top:35455/yylunbo.m3u
 http://hangfun.top:35455/douyuyqk.m3u
