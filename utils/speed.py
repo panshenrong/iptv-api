@@ -360,7 +360,7 @@ def sort_urls(name, data, supply=config.open_supply, filter_speed=config.open_fi
                 try:
                     if logger:
                         logger.info(
-                            f"Name: {name}, URL: {result["url"]}, IPv_Type: {ipv_type}, Date: {date}, Delay: {avg_delay} ms, Speed: {avg_speed:.2f} M/s, Resolution: {resolution}"
+                            f"Name: {name}, URL: {result['url']}, IPv_Type: {ipv_type}, Date: {date}, Delay: {avg_delay} ms, Speed: {avg_speed:.2f} M/s, Resolution: {resolution}"
                         )
                 except Exception as e:
                     print(e)

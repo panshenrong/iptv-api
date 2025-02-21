@@ -494,24 +494,24 @@ def append_data_to_info_data(info_data, cate, name, data, origin=None, check=Tru
                         ipv_type = "ipv6" if check_url_ipv6(pure_url) else "ipv4"
                         if ipv_type_data:
                             ipv_type_data[url_host] = ipv_type
-                if not white_info:
-                    if url_host in url_hosts:
-                        for p_url in urls:
-                            if get_url_host(p_url) == url_host and len(p_url) < len(pure_url):
-                                urls.remove(p_url)
-                                urls.add(pure_url)
-                                for index, info in enumerate(info_data[cate][name]):
-                                    if info["url"] and get_url_host(info["url"]) == url_host:
-                                        info_data[cate][name][index] = {
-                                            "url": url,
-                                            "date": date,
-                                            "resolution": resolution,
-                                            "origin": url_origin,
-                                            "ipv_type": ipv_type
-                                        }
-                                        break
-                                break
-                        continue
+                # if not white_info:
+                #     if url_host in url_hosts:
+                #         for p_url in urls:
+                #             if get_url_host(p_url) == url_host and len(p_url) < len(pure_url):
+                #                 urls.remove(p_url)
+                #                 urls.add(pure_url)
+                #                 for index, info in enumerate(info_data[cate][name]):
+                #                     if info["url"] and get_url_host(info["url"]) == url_host:
+                #                         info_data[cate][name][index] = {
+                #                             "url": url,
+                #                             "date": date,
+                #                             "resolution": resolution,
+                #                             "origin": url_origin,
+                #                             "ipv_type": ipv_type
+                #                         }
+                #                         break
+                #                 break
+                #         continue
                 if white_info or (whitelist and check_url_by_keywords(url, whitelist)):
                     url_origin = "whitelist"
                 if (
@@ -722,7 +722,7 @@ def write_channel_to_file(data, ipv6=False, callback=None):
         content = ""
         for cate, channel_obj in data.items():
             print(f"\n{cate}:", end=" ")
-            content += f"{'\n\n' if not first_cate else ''}{cate},#genre#"
+            content += ('\n\n' if not first_cate else '') + f"{cate},#genre#"
             first_cate = False
             channel_obj_keys = channel_obj.keys()
             names_len = len(list(channel_obj_keys))

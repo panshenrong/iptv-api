@@ -19,7 +19,7 @@ sort_log_path = os.path.join(output_path, "sort.log")
 
 log_path = os.path.join(output_path, "log.log")
 
-url_host_pattern = re.compile(r"((https?|rtmp)://)?(\[[0-9a-fA-F:]+]|([\w-]+\.)+[\w-]+)")
+url_host_pattern = re.compile(r"((https?|rtmp)://)?(\[[0-9a-fA-F:]+\]|[\w-]+(?:\.[\w-]+)*)(?::\d+)?")
 
 url_pattern = re.compile(url_host_pattern.pattern + r"(/.*)?")
 
@@ -35,10 +35,11 @@ multiline_txt_pattern = re.compile(r"^([^,，]+)[,，](?!#genre#)" + r"(" + url_
 
 m3u_pattern = re.compile(r"^#EXTINF:-1.*?[，,](.*?)\n" + r"(" + url_pattern.pattern + r")")
 
-multiline_m3u_pattern = re.compile(r"^#EXTINF:-1.*?[，,](.*?)\n" + r"(" + url_pattern.pattern + r")", re.MULTILINE)
+multiline_m3u_pattern = re.compile(r"^#EXTINF:-1(?:[^\n]*?)(?:，|,)([^,]+)\s*\n" + r"(" + url_pattern.pattern + r")", re.MULTILINE)
 
 sub_pattern = re.compile(
-    r"-|_|\((.*?)\)|（(.*?)）|\[(.*?)]|「(.*?)」| |｜|频道|普清|标清|高清|HD|hd|超清|超高|超高清|中央|央视|电视台|台|电信|联通|移动")
+    r"NewTV-|iHOT-|-HEVC|-50-FPS|-AVS|-|_|\((.*?)\)|（(.*?)）|\[(.*?)]|「(.*?)」| "
+    r"|｜|频道|普清|标清|高清|HD|hd|超清|超高|超高清|中央|央视|电视台|台|电信|联通|移动|高码")
 
 replace_dict = {
     "plus": "+",
