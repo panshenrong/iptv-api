@@ -38,7 +38,7 @@ m3u_pattern = re.compile(r"^#EXTINF:-1.*?[，,](.*?)\n" + r"(" + url_pattern.pat
 multiline_m3u_pattern = re.compile(r"^#EXTINF:-1(?:[^\n]*?)(?:，|,)([^,]+)\s*\n" + r"(" + url_pattern.pattern + r")", re.MULTILINE)
 
 sub_pattern = re.compile(
-    r"NewTV-|iHOT-|-HEVC|-50-FPS|-AVS|-|_|\((.*?)\)|（(.*?)）|\[(.*?)]|「(.*?)」| "
+    r"NewTV-|iHOT-|-BPTV|-HEVC|-50-FPS|-AVS|-|_|\((.*?)\)|（(.*?)）|\[(.*?)]|「(.*?)」| "
     r"|｜|频道|普清|标清|高清|HD|hd|超清|超高|超高清|中央|央视|电视台|台|电信|联通|移动|高码")
 
 replace_dict = {
