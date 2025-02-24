@@ -33,14 +33,8 @@ http://xiaoya.crccxw.top:35455/douyuyqk.m3u
 http://newtv.fun:35455/tv.m3u
 http://newtv.fun:35455/yylunbo.m3u
 http://newtv.fun:35455/douyuyqk.m3u
-# http://47.120.41.246:8899/zb.txt
-# http://8.138.7.223/live.txt
+http://t8622699o8.vicp.fun:60024/tv.m3u
+http://t8622699o8.vicp.fun:60024/yylunbo.m3u
+http://t8622699o8.vicp.fun:60024/douyuyqk.m3u
 https://raw.githubusercontent.com/wwb521/live/main/tv.txt
-https://livetv.wqwqwq.sbs/tv.m3u
-https://lu.wqwqwq.sbs/tv.m3u
 https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u
-# http://so.owo.vin/卫视
-# http://so.owo.vin/cctv
-# http://so.owo.vin/newtv
-# https://freetv.fun/test_channels_new.m3u
-# https://raw.githubusercontent.com/hero1898/tv/main/IPTV.txt
