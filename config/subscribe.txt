@@ -27,9 +27,9 @@ http://www.clmy.cc:35455/douyuyqk.m3u
 http://lt.hxtre.com:35455/tv.m3u
 http://lt.hxtre.com:35455/yylunbo.m3u
 http://lt.hxtre.com:35455/douyuyqk.m3u
-http://xiaoya.crccxw.top:35455/tv.m3u
-http://xiaoya.crccxw.top:35455/yylunbo.m3u
-http://xiaoya.crccxw.top:35455/douyuyqk.m3u
+http://61.160.112.102:35455/tv.m3u
+http://61.160.112.102:35455/yylunbo.m3u
+http://61.160.112.102:35455/douyuyqk.m3u
 http://newtv.fun:35455/tv.m3u
 http://newtv.fun:35455/yylunbo.m3u
 http://newtv.fun:35455/douyuyqk.m3u
