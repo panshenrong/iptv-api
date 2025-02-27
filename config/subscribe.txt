@@ -21,6 +21,9 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 http://yc.myds.me:35455/tv.m3u
 http://yc.myds.me:35455/douyuyqk.m3u
 http://yc.myds.me:35455/yylunbo.m3u
+http://36.105.100.208:35455/tv.m3u
+http://36.105.100.208:35455/douyuyqk.m3u
+http://36.105.100.208:35455/yylunbo.m3u
 http://www.clmy.cc:35455/tv.m3u
 http://www.clmy.cc:35455/yylunbo.m3u
 http://www.clmy.cc:35455/douyuyqk.m3u
@@ -33,9 +36,9 @@ http://61.160.112.102:35455/douyuyqk.m3u
 http://newtv.fun:35455/tv.m3u
 http://newtv.fun:35455/yylunbo.m3u
 http://newtv.fun:35455/douyuyqk.m3u
-http://iptv77.iptv66.eu.org:35455//tv.m3u
-http://iptv77.iptv66.eu.org:35455//yylunbo.m3u
-http://iptv77.iptv66.eu.org:35455//douyuyqk.m3u
+http://iptv77.iptv66.eu.org:35455/tv.m3u
+http://iptv77.iptv66.eu.org:35455/yylunbo.m3u
+http://iptv77.iptv66.eu.org:35455/douyuyqk.m3u
 http://t8622699o8.vicp.fun:60024/tv.m3u
 http://t8622699o8.vicp.fun:60024/yylunbo.m3u
 http://t8622699o8.vicp.fun:60024/douyuyqk.m3u
