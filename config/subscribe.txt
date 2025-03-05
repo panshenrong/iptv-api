@@ -25,9 +25,9 @@ http://yc.myds.me:35455/yylunbo.m3u
 http://1752e145z8.vicp.fun:35455/tv.m3u
 http://1752e145z8.vicp.fun:35455/yylunbo.m3u
 http://1752e145z8.vicp.fun:35455/douyuyqk.m3u
-http://itv.nctv.top:35455/tv.m3u
-http://itv.nctv.top:35455/yylunbo.m3u
-http://itv.nctv.top:35455/douyuyqk.m3u
+http://xiaoya.crccxw.top:35455/tv.m3u
+http://xiaoya.crccxw.top:35455/yylunbo.m3u
+http://xiaoya.crccxw.top:35455/douyuyqk.m3u
 http://1.94.31.214:35455/tv.m3u
 http://1.94.31.214:35455/yylunbo.m3u
 http://1.94.31.214:35455/douyuyqk.m3u
