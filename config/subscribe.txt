@@ -34,9 +34,9 @@ http://1.94.31.214:35455/douyuyqk.m3u
 http://fn.271919.xyz:35455/tv.m3u
 http://fn.271919.xyz:35455/yylunbo.m3u
 http://fn.271919.xyz:35455/douyuyqk.m3u
-http://iptv.sufa518.cn:8090/tv.m3u
-http://iptv.sufa518.cn:8090/yylunbo.m3u
-http://iptv.sufa518.cn:8090/douyuyqk.m3u
+https://iptv.sufa518.cn:8090/tv.m3u
+https://iptv.sufa518.cn:8090/yylunbo.m3u
+https://iptv.sufa518.cn:8090/douyuyqk.m3u
 http://lt.hxtre.com:35455/tv.m3u
 http://lt.hxtre.com:35455/yylunbo.m3u
 http://lt.hxtre.com:35455/douyuyqk.m3u
