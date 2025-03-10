@@ -25,6 +25,8 @@ http://yc.myds.me:35455/yylunbo.m3u
 http://8.218.190.107:80/tv.m3u
 http://8.218.190.107:80/yylunbo.m3u
 http://8.218.190.107:80/douyuyqk.m3u
+https://live.metshop.top/yylunbo.m3u
+https://live.metshop.top/douyuyqk.m3u
 http://47.242.229.105:35455/tv.m3u
 http://47.242.229.105:35455/yylunbo.m3u
 http://47.242.229.105:35455/douyuyqk.m3u
@@ -34,12 +36,9 @@ http://1.94.31.214:35455/douyuyqk.m3u
 http://xiaoya.crccxw.top:35455/tv.m3u
 http://xiaoya.crccxw.top:35455/yylunbo.m3u
 http://xiaoya.crccxw.top:35455/douyuyqk.m3u
-https://iptv.sufa518.cn:8090/tv.m3u
-https://iptv.sufa518.cn:8090/yylunbo.m3u
-https://iptv.sufa518.cn:8090/douyuyqk.m3u
-http://ip.lpop.cn:35455/tv.m3u
-http://ip.lpop.cn:35455/yylunbo.m3u
-http://ip.lpop.cn:35455/douyuyqk.m3u
+http:///home.kuaidi521.com:35455/tv.m3u
+http:///home.kuaidi521.com:35455/yylunbo.m3u
+http:///home.kuaidi521.com:35455/douyuyqk.m3u
 http://1752e145z8.vicp.fun:35455/tv.m3u
 http://1752e145z8.vicp.fun:35455/yylunbo.m3u
 http://1752e145z8.vicp.fun:35455/douyuyqk.m3u
