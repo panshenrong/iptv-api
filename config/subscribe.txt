@@ -55,6 +55,8 @@ http://t8622699o8.vicp.fun:60024/douyuyqk.m3u
 http://docker.hbwhphb.fun:35455/tv.m3u
 http://docker.hbwhphb.fun:35455/yylunbo.m3u
 http://docker.hbwhphb.fun:35455/douyuyqk.m3u
+https://lunbo.freetv.top/yylunbo.m3u
+https://lunbo.freetv.top/douyuyqk.m3u
 https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
 https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u
 http://so.owo.vin/cctv
