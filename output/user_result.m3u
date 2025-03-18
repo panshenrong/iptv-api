@@ -1,12 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-03-18 13:26:00
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-03-18 18:34:46
 http://yc.myds.me:35455/gaoma/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://yc.myds.me:35455/gaoma/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
@@ -41,6 +39,8 @@ http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
 http://124.128.73.58:9901/tsfile/live/0001_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://lt.hxtre.com:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
+http://112.99.193.34:9901/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 http://yc.myds.me:35455/gaoma/cctv2.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
@@ -1972,6 +1972,10 @@ http://xiaoya.crccxw.top:35455/bptv/10000100000000050000000003887494.m3u8
 #EXTINF:-1 tvg-name="BTV-重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BTV-重温经典.png" group-title="🎬数字电视",BTV-重温经典
 http://227w9f5104.zicp.fun:35455/bptv/10000100000000050000000003887494.m3u8
 #EXTINF:-1 tvg-name="BTV-重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BTV-重温经典.png" group-title="🎬数字电视",BTV-重温经典
+http://www.xzbn.site:35455/bptv/10000100000000050000000003887494.m3u8
+#EXTINF:-1 tvg-name="BTV-重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BTV-重温经典.png" group-title="🎬数字电视",BTV-重温经典
+http://www.zhch682022.cn:35455/bptv/10000100000000050000000003887494.m3u8
+#EXTINF:-1 tvg-name="BTV-重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BTV-重温经典.png" group-title="🎬数字电视",BTV-重温经典
 http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887494.m3u8
 #EXTINF:-1 tvg-name="BTV-重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BTV-重温经典.png" group-title="🎬数字电视",BTV-重温经典
 http://t8622699o8.vicp.fun:60024/bptv/10000100000000050000000003887494.m3u8
@@ -1986,6 +1990,10 @@ http://xiaoya.crccxw.top:35455/bptv/10000100000000050000000003887495.m3u8
 #EXTINF:-1 tvg-name="萌宠TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萌宠TV.png" group-title="🎬数字电视",萌宠TV
 http://227w9f5104.zicp.fun:35455/bptv/10000100000000050000000003887495.m3u8
 #EXTINF:-1 tvg-name="萌宠TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萌宠TV.png" group-title="🎬数字电视",萌宠TV
+http://www.xzbn.site:35455/bptv/10000100000000050000000003887495.m3u8
+#EXTINF:-1 tvg-name="萌宠TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萌宠TV.png" group-title="🎬数字电视",萌宠TV
+http://www.zhch682022.cn:35455/bptv/10000100000000050000000003887495.m3u8
+#EXTINF:-1 tvg-name="萌宠TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萌宠TV.png" group-title="🎬数字电视",萌宠TV
 http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887495.m3u8
 #EXTINF:-1 tvg-name="萌宠TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萌宠TV.png" group-title="🎬数字电视",萌宠TV
 http://t8622699o8.vicp.fun:60024/bptv/10000100000000050000000003887495.m3u8
@@ -1999,6 +2007,10 @@ http://3501776.xyz:35455/bptv/10000100000000050000000003887496.m3u8
 http://xiaoya.crccxw.top:35455/bptv/10000100000000050000000003887496.m3u8
 #EXTINF:-1 tvg-name="淘BABY" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘BABY.png" group-title="🎬数字电视",淘BABY
 http://227w9f5104.zicp.fun:35455/bptv/10000100000000050000000003887496.m3u8
+#EXTINF:-1 tvg-name="淘BABY" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘BABY.png" group-title="🎬数字电视",淘BABY
+http://www.xzbn.site:35455/bptv/10000100000000050000000003887496.m3u8
+#EXTINF:-1 tvg-name="淘BABY" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘BABY.png" group-title="🎬数字电视",淘BABY
+http://www.zhch682022.cn:35455/bptv/10000100000000050000000003887496.m3u8
 #EXTINF:-1 tvg-name="淘BABY" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘BABY.png" group-title="🎬数字电视",淘BABY
 http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887496.m3u8
 #EXTINF:-1 tvg-name="淘BABY" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘BABY.png" group-title="🎬数字电视",淘BABY
@@ -2030,6 +2042,10 @@ http://xiaoya.crccxw.top:35455/bptv/10000100000000050000000003887498.m3u8
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘电影.png" group-title="🎬数字电视",淘电影
 http://227w9f5104.zicp.fun:35455/bptv/10000100000000050000000003887498.m3u8
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘电影.png" group-title="🎬数字电视",淘电影
+http://www.xzbn.site:35455/bptv/10000100000000050000000003887498.m3u8
+#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘电影.png" group-title="🎬数字电视",淘电影
+http://www.zhch682022.cn:35455/bptv/10000100000000050000000003887498.m3u8
+#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘电影.png" group-title="🎬数字电视",淘电影
 http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887498.m3u8
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘电影.png" group-title="🎬数字电视",淘电影
 http://t8622699o8.vicp.fun:60024/bptv/10000100000000050000000003887498.m3u8
@@ -2049,6 +2065,10 @@ http://3501776.xyz:35455/bptv/10000100000000050000000003887497.m3u8
 http://xiaoya.crccxw.top:35455/bptv/10000100000000050000000003887497.m3u8
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="🎬数字电视",淘剧场
 http://227w9f5104.zicp.fun:35455/bptv/10000100000000050000000003887497.m3u8
+#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="🎬数字电视",淘剧场
+http://www.xzbn.site:35455/bptv/10000100000000050000000003887497.m3u8
+#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="🎬数字电视",淘剧场
+http://www.zhch682022.cn:35455/bptv/10000100000000050000000003887497.m3u8
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="🎬数字电视",淘剧场
 http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887497.m3u8
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="🎬数字电视",淘剧场
@@ -2087,8 +2107,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225769/2/index.
 http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="🎬数字电视",黑莓电影
 http://111.29.9.33:6610/000000001000/1000000004000019624/index.m3u8?channel-id=bestzb&Contentid=1000000004000019624&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="🎬数字电视",黑莓电影
-http://8.218.190.107/itv/1000000004000019624.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="🎬数字电视",黑莓电影
 http://www.douzhicloud.site:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="🎬数字电视",黑莓电影
@@ -2132,7 +2150,7 @@ http://36.105.100.208:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🎬数字电视",黑莓动画
 http://146.56.165.66:7788/TVOD/2000000003000000002/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🎬数字电视",黑莓动画
-http://8.218.190.107/itv/1000000004000021734.m3u8?cdn=ystenlive
+http://www.douzhicloud.site:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="爱院线" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱院线.png" group-title="🎬数字电视",爱院线
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000000/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034
 #EXTINF:-1 tvg-name="爱院线" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱院线.png" group-title="🎬数字电视",爱院线
@@ -2141,8 +2159,6 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000034/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="爱院线" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱院线.png" group-title="🎬数字电视",爱院线
 http://146.235.213.45:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-name="爱院线" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱院线.png" group-title="🎬数字电视",爱院线
-http://8.218.190.107/itv/6000000006000030630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱院线" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱院线.png" group-title="🎬数字电视",爱院线
 http://www.douzhicloud.site:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱院线" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱院线.png" group-title="🎬数字电视",爱院线
@@ -2154,31 +2170,15 @@ http://yc.myds.me:35455/yy/1354143938
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
 http://yc.myds.me:35455/yy/1382747970
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
+http://yc.myds.me:35455/yy/25055036
+#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
+http://yc.myds.me:35455/yy/1354768831
+#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
 http://yc.myds.me:35455/yy/22777075
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
 http://yc.myds.me:35455/yy/23993334
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
-http://yc.myds.me:35455/yy/25055036
-#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
 http://yc.myds.me:35455/yy/1382788679
-#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
-http://yc.myds.me:35455/yy/1354768831
-#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
-http://8.218.190.107/yy/26664495
-#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
-http://8.218.190.107/yy/1354143938
-#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
-http://8.218.190.107/yy/1382747970
-#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
-http://8.218.190.107/yy/22777075
-#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
-http://8.218.190.107/yy/23993334
-#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
-http://8.218.190.107/yy/25055036
-#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
-http://8.218.190.107/yy/1382788679
-#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
-http://8.218.190.107/yy/1354768831
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
 http://www.douzhicloud.site:35455/yy/26664495
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
@@ -2186,7 +2186,23 @@ http://www.douzhicloud.site:35455/yy/1354143938
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
 http://www.douzhicloud.site:35455/yy/1382747970
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
+http://www.douzhicloud.site:35455/yy/25055036
+#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
+http://www.douzhicloud.site:35455/yy/1354768831
+#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
 http://www.douzhicloud.site:35455/yy/22777075
+#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
+http://www.douzhicloud.site:35455/yy/23993334
+#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
+http://www.douzhicloud.site:35455/yy/1382788679
+#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
+http://3501776.xyz:35455/yy/26664495
+#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
+http://3501776.xyz:35455/yy/1354143938
+#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
+http://3501776.xyz:35455/yy/1382747970
+#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
+http://3501776.xyz:35455/yy/25055036
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="🪁动画频道",少儿动画
 http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="🪁动画频道",少儿动画
@@ -2292,6 +2308,8 @@ http://36.105.100.208:35455/itv/5000000011000031113.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://139.196.151.191:2051/rtp/239.45.3.134:5140
 #EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
+http://yc.myds.me:35455/yy/24180320
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
 http://43.138.0.72:35455/yy/24180320
 #EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
 http://61.133.118.228:5001/yy/24180320
@@ -2301,6 +2319,30 @@ http://8.218.190.107:80/yy/24180320
 http://luobo.bkpcp.top/yy/24180320
 #EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
 https://lunbo.freetv.top/yy/24180320
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
+http://www.douzhicloud.site:35455/yy/24180320
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
+http://3501776.xyz:35455/yy/24180320
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
+http://1.94.31.214:35455/yy/24180320
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
+http://xiaoya.crccxw.top:35455/yy/24180320
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
+http://227w9f5104.zicp.fun:35455/yy/24180320
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
+http://www.xzbn.site:35455/yy/24180320
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
+http://www.zhch682022.cn:35455/yy/24180320
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
+http://home.kuaidi521.com:35455/yy/24180320
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
+http://t8622699o8.vicp.fun:60024/yy/24180320
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
+http://jiaojirentv.top/2020/yy.php?id=22777075
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
+https://lunbo.freetv.top/yy/22777075
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
+https://live.metshop.top/yy/22777075
 #EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱动漫.png" group-title="🪁动画频道",爱动漫
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
 #EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱动漫.png" group-title="🪁动画频道",爱动漫
@@ -2327,8 +2369,6 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000000/index.m3u8?
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱动漫.png" group-title="🪁动画频道",爱动漫
 http://146.235.213.45:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱动漫.png" group-title="🪁动画频道",爱动漫
-http://8.218.190.107/itv/6000000006000280630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱动漫.png" group-title="🪁动画频道",爱动漫
 http://www.douzhicloud.site:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱动漫.png" group-title="🪁动画频道",爱动漫
@@ -2526,8 +2566,6 @@ http://dns.yiandrive.com:15907/douyu/1997723
 #EXTINF:-1 tvg-name="魔术师丶西索" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魔术师丶西索.png" group-title="🪁动画频道",魔术师丶西索
 http://yc.myds.me:35455/douyu/6610883
 #EXTINF:-1 tvg-name="魔术师丶西索" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魔术师丶西索.png" group-title="🪁动画频道",魔术师丶西索
-http://8.218.190.107/douyu/6610883
-#EXTINF:-1 tvg-name="魔术师丶西索" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魔术师丶西索.png" group-title="🪁动画频道",魔术师丶西索
 http://www.douzhicloud.site:35455/douyu/6610883
 #EXTINF:-1 tvg-name="魔术师丶西索" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魔术师丶西索.png" group-title="🪁动画频道",魔术师丶西索
 http://3501776.xyz:35455/douyu/6610883
@@ -2539,6 +2577,8 @@ http://xiaoya.crccxw.top:35455/douyu/6610883
 http://227w9f5104.zicp.fun:35455/douyu/6610883
 #EXTINF:-1 tvg-name="魔术师丶西索" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魔术师丶西索.png" group-title="🪁动画频道",魔术师丶西索
 http://www.xzbn.site:35455/douyu/6610883
+#EXTINF:-1 tvg-name="魔术师丶西索" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魔术师丶西索.png" group-title="🪁动画频道",魔术师丶西索
+http://www.zhch682022.cn:35455/douyu/6610883
 #EXTINF:-1 tvg-name="魔术师丶西索" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魔术师丶西索.png" group-title="🪁动画频道",魔术师丶西索
 http://home.kuaidi521.com:35455/douyu/6610883
 #EXTINF:-1 tvg-name="魔术师丶西索" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魔术师丶西索.png" group-title="🪁动画频道",魔术师丶西索
@@ -2572,8 +2612,6 @@ http://dns.yiandrive.com:15907/huya/11601963
 #EXTINF:-1 tvg-name="草帽丶海贼团" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/草帽丶海贼团.png" group-title="🪁动画频道",草帽丶海贼团
 http://yc.myds.me:35455/douyu/997925
 #EXTINF:-1 tvg-name="草帽丶海贼团" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/草帽丶海贼团.png" group-title="🪁动画频道",草帽丶海贼团
-http://8.218.190.107/douyu/997925
-#EXTINF:-1 tvg-name="草帽丶海贼团" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/草帽丶海贼团.png" group-title="🪁动画频道",草帽丶海贼团
 http://www.douzhicloud.site:35455/douyu/997925
 #EXTINF:-1 tvg-name="草帽丶海贼团" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/草帽丶海贼团.png" group-title="🪁动画频道",草帽丶海贼团
 http://3501776.xyz:35455/douyu/997925
@@ -2585,6 +2623,8 @@ http://xiaoya.crccxw.top:35455/douyu/997925
 http://227w9f5104.zicp.fun:35455/douyu/997925
 #EXTINF:-1 tvg-name="草帽丶海贼团" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/草帽丶海贼团.png" group-title="🪁动画频道",草帽丶海贼团
 http://www.xzbn.site:35455/douyu/997925
+#EXTINF:-1 tvg-name="草帽丶海贼团" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/草帽丶海贼团.png" group-title="🪁动画频道",草帽丶海贼团
+http://www.zhch682022.cn:35455/douyu/997925
 #EXTINF:-1 tvg-name="草帽丶海贼团" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/草帽丶海贼团.png" group-title="🪁动画频道",草帽丶海贼团
 http://home.kuaidi521.com:35455/douyu/997925
 #EXTINF:-1 tvg-name="草帽丶海贼团" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/草帽丶海贼团.png" group-title="🪁动画频道",草帽丶海贼团
@@ -2613,6 +2653,22 @@ https://live.iill.top/huya/23865142
 http://120.77.28.4:8648/yy.php?id=1354282410
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
 http://live.metshop.top/huya/26355790
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
+http://rihou.cc:555/huyad.php?id=23865142
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
+http://jiaojirentv.top/2020/yy.php?id=1354930909
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
+http://jiaojirentv.top/2020/yy.php?id=1382749896
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
+http://jiaojirentv.top/2020/yy.php?id=1382736914
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
+https://lunbo.freetv.top/yy/1354930909
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
+https://lunbo.freetv.top/yy/1382749896
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
+https://lunbo.freetv.top/yy/1382736914
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
+https://live.metshop.top/yy/1354930909
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="🏛经典剧场",天龙八部
 http://yc.myds.me:35455/yy/1351814644
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="🏛经典剧场",天龙八部
@@ -2644,15 +2700,15 @@ https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMT
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="🏛经典剧场",天龙八部
 http://120.77.28.4:8648/yy.php?id=1351814644
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="🏛经典剧场",天龙八部
-http://8.218.190.107/yy/1351814644
-#EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="🏛经典剧场",天龙八部
-http://8.218.190.107/yy/1382736855
-#EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="🏛经典剧场",天龙八部
 http://www.douzhicloud.site:35455/yy/1351814644
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="🏛经典剧场",天龙八部
 http://www.douzhicloud.site:35455/yy/1382736855
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="🏛经典剧场",天龙八部
 http://3501776.xyz:35455/yy/1351814644
+#EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="🏛经典剧场",天龙八部
+http://3501776.xyz:35455/yy/1382736855
+#EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="🏛经典剧场",天龙八部
+http://1.94.31.214:35455/yy/1351814644
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="🏛经典剧场",鹿鼎记
 http://yc.myds.me:35455/yy/1460463356
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="🏛经典剧场",鹿鼎记
@@ -2668,8 +2724,6 @@ https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="🏛经典剧场",鹿鼎记
 http://120.77.28.4:8648/yy.php?id=1382704650
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="🏛经典剧场",鹿鼎记
-http://8.218.190.107/yy/1460463356
-#EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="🏛经典剧场",鹿鼎记
 http://www.douzhicloud.site:35455/yy/1460463356
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="🏛经典剧场",鹿鼎记
 http://3501776.xyz:35455/yy/1460463356
@@ -2681,6 +2735,8 @@ http://xiaoya.crccxw.top:35455/yy/1460463356
 http://227w9f5104.zicp.fun:35455/yy/1460463356
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="🏛经典剧场",鹿鼎记
 http://www.xzbn.site:35455/yy/1460463356
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="🏛经典剧场",鹿鼎记
+http://www.zhch682022.cn:35455/yy/1460463356
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="🏛经典剧场",鹿鼎记
 http://home.kuaidi521.com:35455/yy/1460463356
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="🏛经典剧场",鹿鼎记
@@ -2705,6 +2761,14 @@ https://live.iill.top/huya/11602081
 http://120.77.28.4:8648/yy.php?id=1354936241
 #EXTINF:-1 tvg-name="三国演义" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三国演义.png" group-title="🏛经典剧场",三国演义
 http://live.metshop.top/huya/11602081
+#EXTINF:-1 tvg-name="三国演义" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三国演义.png" group-title="🏛经典剧场",三国演义
+http://rihou.cc:555/huyad.php?id=11602081
+#EXTINF:-1 tvg-name="三国演义" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三国演义.png" group-title="🏛经典剧场",三国演义
+http://jiaojirentv.top/2020/yy.php?id=32788000
+#EXTINF:-1 tvg-name="三国演义" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三国演义.png" group-title="🏛经典剧场",三国演义
+https://lunbo.freetv.top/yy/32788000
+#EXTINF:-1 tvg-name="三国演义" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三国演义.png" group-title="🏛经典剧场",三国演义
+https://live.metshop.top/yy/32788000
 #EXTINF:-1 tvg-name="水浒传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/水浒传.png" group-title="🏛经典剧场",水浒传
 http://yc.myds.me:35455/yy/1353873252
 #EXTINF:-1 tvg-name="水浒传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/水浒传.png" group-title="🏛经典剧场",水浒传
@@ -2715,8 +2779,6 @@ http://8.218.190.107:80/yy/1353873252
 https://lunbo.freetv.top/yy/1353215589
 #EXTINF:-1 tvg-name="水浒传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/水浒传.png" group-title="🏛经典剧场",水浒传
 http://www.clmy.cc:35455/yy/1353873252
-#EXTINF:-1 tvg-name="水浒传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/水浒传.png" group-title="🏛经典剧场",水浒传
-http://8.218.190.107/yy/1353873252
 #EXTINF:-1 tvg-name="水浒传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/水浒传.png" group-title="🏛经典剧场",水浒传
 http://www.douzhicloud.site:35455/yy/1353873252
 #EXTINF:-1 tvg-name="水浒传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/水浒传.png" group-title="🏛经典剧场",水浒传
@@ -2730,13 +2792,13 @@ http://227w9f5104.zicp.fun:35455/yy/1353873252
 #EXTINF:-1 tvg-name="水浒传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/水浒传.png" group-title="🏛经典剧场",水浒传
 http://www.xzbn.site:35455/yy/1353873252
 #EXTINF:-1 tvg-name="水浒传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/水浒传.png" group-title="🏛经典剧场",水浒传
+http://www.zhch682022.cn:35455/yy/1353873252
+#EXTINF:-1 tvg-name="水浒传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/水浒传.png" group-title="🏛经典剧场",水浒传
 http://home.kuaidi521.com:35455/yy/1353873252
 #EXTINF:-1 tvg-name="水浒传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/水浒传.png" group-title="🏛经典剧场",水浒传
 http://t8622699o8.vicp.fun:60024/yy/1353873252
 #EXTINF:-1 tvg-name="红楼梦1987经典版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/红楼梦1987经典版.png" group-title="🏛经典剧场",红楼梦1987经典版
 http://yc.myds.me:35455/yy/1382745084
-#EXTINF:-1 tvg-name="红楼梦1987经典版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/红楼梦1987经典版.png" group-title="🏛经典剧场",红楼梦1987经典版
-http://8.218.190.107/yy/1382745084
 #EXTINF:-1 tvg-name="红楼梦1987经典版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/红楼梦1987经典版.png" group-title="🏛经典剧场",红楼梦1987经典版
 http://www.douzhicloud.site:35455/yy/1382745084
 #EXTINF:-1 tvg-name="红楼梦1987经典版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/红楼梦1987经典版.png" group-title="🏛经典剧场",红楼梦1987经典版
@@ -2750,9 +2812,17 @@ http://227w9f5104.zicp.fun:35455/yy/1382745084
 #EXTINF:-1 tvg-name="红楼梦1987经典版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/红楼梦1987经典版.png" group-title="🏛经典剧场",红楼梦1987经典版
 http://www.xzbn.site:35455/yy/1382745084
 #EXTINF:-1 tvg-name="红楼梦1987经典版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/红楼梦1987经典版.png" group-title="🏛经典剧场",红楼梦1987经典版
+http://www.zhch682022.cn:35455/yy/1382745084
+#EXTINF:-1 tvg-name="红楼梦1987经典版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/红楼梦1987经典版.png" group-title="🏛经典剧场",红楼梦1987经典版
 http://home.kuaidi521.com:35455/yy/1382745084
 #EXTINF:-1 tvg-name="红楼梦1987经典版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/红楼梦1987经典版.png" group-title="🏛经典剧场",红楼梦1987经典版
 http://t8622699o8.vicp.fun:60024/yy/1382745084
+#EXTINF:-1 tvg-name="红楼梦1987经典版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/红楼梦1987经典版.png" group-title="🏛经典剧场",红楼梦1987经典版
+http://jiaojirentv.top/2020/yy.php?id=1382745084
+#EXTINF:-1 tvg-name="红楼梦1987经典版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/红楼梦1987经典版.png" group-title="🏛经典剧场",红楼梦1987经典版
+https://lunbo.freetv.top/yy/1382745084
+#EXTINF:-1 tvg-name="红楼梦1987经典版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/红楼梦1987经典版.png" group-title="🏛经典剧场",红楼梦1987经典版
+https://live.metshop.top/yy/1382745084
 #EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="🏛经典剧场",新白娘子传奇
 http://yc.myds.me:35455/yy/1354490667
 #EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="🏛经典剧场",新白娘子传奇
@@ -2772,8 +2842,6 @@ http://1.94.31.214:35455/yy/1354490667
 #EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="🏛经典剧场",新白娘子传奇
 http://120.77.28.4:8648/yy.php?id=1354490667
 #EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="🏛经典剧场",新白娘子传奇
-http://8.218.190.107/yy/1354490667
-#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="🏛经典剧场",新白娘子传奇
 http://www.douzhicloud.site:35455/yy/1354490667
 #EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="🏛经典剧场",新白娘子传奇
 http://3501776.xyz:35455/yy/1354490667
@@ -2784,9 +2852,15 @@ http://227w9f5104.zicp.fun:35455/yy/1354490667
 #EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="🏛经典剧场",新白娘子传奇
 http://www.xzbn.site:35455/yy/1354490667
 #EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="🏛经典剧场",新白娘子传奇
+http://www.zhch682022.cn:35455/yy/1354490667
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="🏛经典剧场",新白娘子传奇
 http://home.kuaidi521.com:35455/yy/1354490667
 #EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="🏛经典剧场",新白娘子传奇
 http://t8622699o8.vicp.fun:60024/yy/1354490667
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="🏛经典剧场",新白娘子传奇
+http://jiaojirentv.top/2020/yy.php?id=1354490667
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新白娘子传奇.png" group-title="🏛经典剧场",新白娘子传奇
+https://live.metshop.top/yy/1354490667
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="🏛经典剧场",封神榜
 http://yc.myds.me:35455/yy/1353426319
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="🏛经典剧场",封神榜
@@ -2802,8 +2876,6 @@ http://www.clmy.cc:35455/yy/1353426319
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="🏛经典剧场",封神榜
 http://120.77.28.4:8648/yy.php?id=1353426319
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="🏛经典剧场",封神榜
-http://8.218.190.107/yy/1353426319
-#EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="🏛经典剧场",封神榜
 http://www.douzhicloud.site:35455/yy/1353426319
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="🏛经典剧场",封神榜
 http://3501776.xyz:35455/yy/1353426319
@@ -2816,15 +2888,21 @@ http://227w9f5104.zicp.fun:35455/yy/1353426319
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="🏛经典剧场",封神榜
 http://www.xzbn.site:35455/yy/1353426319
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="🏛经典剧场",封神榜
+http://www.zhch682022.cn:35455/yy/1353426319
+#EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="🏛经典剧场",封神榜
 http://home.kuaidi521.com:35455/yy/1353426319
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="🏛经典剧场",封神榜
 http://t8622699o8.vicp.fun:60024/yy/1353426319
+#EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="🏛经典剧场",封神榜
+http://cfss.cc/cdn/yy/1353426319.flv
+#EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="🏛经典剧场",封神榜
+https://lunbo.freetv.top/yy/1353426319
+#EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="🏛经典剧场",封神榜
+https://live.metshop.top/yy/1353426319
 #EXTINF:-1 tvg-name="宝莲灯前传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宝莲灯前传.png" group-title="🏛经典剧场",宝莲灯前传
 http://yc.myds.me:35455/yy/1354931631
 #EXTINF:-1 tvg-name="宝莲灯前传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宝莲灯前传.png" group-title="🏛经典剧场",宝莲灯前传
 http://120.77.28.4:8648/yy.php?id=1354931631
-#EXTINF:-1 tvg-name="宝莲灯前传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宝莲灯前传.png" group-title="🏛经典剧场",宝莲灯前传
-http://8.218.190.107/yy/1354931631
 #EXTINF:-1 tvg-name="宝莲灯前传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宝莲灯前传.png" group-title="🏛经典剧场",宝莲灯前传
 http://www.douzhicloud.site:35455/yy/1354931631
 #EXTINF:-1 tvg-name="宝莲灯前传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宝莲灯前传.png" group-title="🏛经典剧场",宝莲灯前传
@@ -2838,9 +2916,17 @@ http://227w9f5104.zicp.fun:35455/yy/1354931631
 #EXTINF:-1 tvg-name="宝莲灯前传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宝莲灯前传.png" group-title="🏛经典剧场",宝莲灯前传
 http://www.xzbn.site:35455/yy/1354931631
 #EXTINF:-1 tvg-name="宝莲灯前传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宝莲灯前传.png" group-title="🏛经典剧场",宝莲灯前传
+http://www.zhch682022.cn:35455/yy/1354931631
+#EXTINF:-1 tvg-name="宝莲灯前传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宝莲灯前传.png" group-title="🏛经典剧场",宝莲灯前传
 http://home.kuaidi521.com:35455/yy/1354931631
 #EXTINF:-1 tvg-name="宝莲灯前传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宝莲灯前传.png" group-title="🏛经典剧场",宝莲灯前传
 http://t8622699o8.vicp.fun:60024/yy/1354931631
+#EXTINF:-1 tvg-name="宝莲灯前传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宝莲灯前传.png" group-title="🏛经典剧场",宝莲灯前传
+http://jiaojirentv.top/2020/yy.php?id=1354931631
+#EXTINF:-1 tvg-name="宝莲灯前传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宝莲灯前传.png" group-title="🏛经典剧场",宝莲灯前传
+https://lunbo.freetv.top/yy/1354931631
+#EXTINF:-1 tvg-name="宝莲灯前传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宝莲灯前传.png" group-title="🏛经典剧场",宝莲灯前传
+https://live.metshop.top/yy/1354931631
 #EXTINF:-1 tvg-name="上海滩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海滩.png" group-title="🏛经典剧场",上海滩
 http://yc.myds.me:35455/yy/1382745184
 #EXTINF:-1 tvg-name="上海滩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海滩.png" group-title="🏛经典剧场",上海滩
@@ -2866,8 +2952,6 @@ https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-name="上海滩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海滩.png" group-title="🏛经典剧场",上海滩
 http://120.77.28.4:8648/yy.php?id=1382745184
 #EXTINF:-1 tvg-name="上海滩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海滩.png" group-title="🏛经典剧场",上海滩
-http://8.218.190.107/yy/1382745184
-#EXTINF:-1 tvg-name="上海滩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海滩.png" group-title="🏛经典剧场",上海滩
 http://www.douzhicloud.site:35455/yy/1382745184
 #EXTINF:-1 tvg-name="上海滩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海滩.png" group-title="🏛经典剧场",上海滩
 http://3501776.xyz:35455/yy/1382745184
@@ -2880,15 +2964,17 @@ http://227w9f5104.zicp.fun:35455/yy/1382745184
 #EXTINF:-1 tvg-name="上海滩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海滩.png" group-title="🏛经典剧场",上海滩
 http://www.xzbn.site:35455/yy/1382745184
 #EXTINF:-1 tvg-name="上海滩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海滩.png" group-title="🏛经典剧场",上海滩
+http://www.zhch682022.cn:35455/yy/1382745184
+#EXTINF:-1 tvg-name="上海滩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海滩.png" group-title="🏛经典剧场",上海滩
 http://home.kuaidi521.com:35455/yy/1382745184
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/射雕英雄传.png" group-title="🏛经典剧场",射雕英雄传
 http://120.77.28.4:8648/yy.php?id=1354210357
+#EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/射雕英雄传.png" group-title="🏛经典剧场",射雕英雄传
+https://vip.ffzy-play7.com/20221227/9986_8397df12/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙微服私访记.png" group-title="🏛经典剧场",康熙微服私访记
 http://yc.myds.me:35455/yy/1352811698
 #EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙微服私访记.png" group-title="🏛经典剧场",康熙微服私访记
 http://120.77.28.4:8648/yy.php?id=1352811698
-#EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙微服私访记.png" group-title="🏛经典剧场",康熙微服私访记
-http://8.218.190.107/yy/1352811698
 #EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙微服私访记.png" group-title="🏛经典剧场",康熙微服私访记
 http://www.douzhicloud.site:35455/yy/1352811698
 #EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙微服私访记.png" group-title="🏛经典剧场",康熙微服私访记
@@ -2902,9 +2988,17 @@ http://227w9f5104.zicp.fun:35455/yy/1352811698
 #EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙微服私访记.png" group-title="🏛经典剧场",康熙微服私访记
 http://www.xzbn.site:35455/yy/1352811698
 #EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙微服私访记.png" group-title="🏛经典剧场",康熙微服私访记
+http://www.zhch682022.cn:35455/yy/1352811698
+#EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙微服私访记.png" group-title="🏛经典剧场",康熙微服私访记
 http://home.kuaidi521.com:35455/yy/1352811698
 #EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙微服私访记.png" group-title="🏛经典剧场",康熙微服私访记
 http://t8622699o8.vicp.fun:60024/yy/1352811698
+#EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙微服私访记.png" group-title="🏛经典剧场",康熙微服私访记
+http://jiaojirentv.top/2020/yy.php?id=1352811698
+#EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙微服私访记.png" group-title="🏛经典剧场",康熙微服私访记
+https://lunbo.freetv.top/yy/1352811698
+#EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康熙微服私访记.png" group-title="🏛经典剧场",康熙微服私访记
+https://live.metshop.top/yy/1352811698
 #EXTINF:-1 tvg-name="狂飙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/狂飙.png" group-title="🏛经典剧场",狂飙
 http://yc.myds.me:35455/yy/1355142167
 #EXTINF:-1 tvg-name="狂飙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/狂飙.png" group-title="🏛经典剧场",狂飙
@@ -2919,12 +3013,6 @@ https://www.goodiptv.club/yy/14072363
 http://dl.wifi942.com:66/jsyd/jsyd.php?id=GITV-JS-41
 #EXTINF:-1 tvg-name="狂飙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/狂飙.png" group-title="🏛经典剧场",狂飙
 http://120.77.28.4:8648/yy.php?id=1354790484
-#EXTINF:-1 tvg-name="狂飙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/狂飙.png" group-title="🏛经典剧场",狂飙
-http://8.218.190.107/yy/1355142167
-#EXTINF:-1 tvg-name="狂飙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/狂飙.png" group-title="🏛经典剧场",狂飙
-http://8.218.190.107/yy/1382754187
-#EXTINF:-1 tvg-name="狂飙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/狂飙.png" group-title="🏛经典剧场",狂飙
-http://8.218.190.107/yy/1382627144
 #EXTINF:-1 tvg-name="狂飙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/狂飙.png" group-title="🏛经典剧场",狂飙
 http://www.douzhicloud.site:35455/yy/1355142167
 #EXTINF:-1 tvg-name="狂飙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/狂飙.png" group-title="🏛经典剧场",狂飙
@@ -2945,10 +3033,14 @@ http://1.94.31.214:35455/yy/1382627144
 http://xiaoya.crccxw.top:35455/yy/1355142167
 #EXTINF:-1 tvg-name="狂飙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/狂飙.png" group-title="🏛经典剧场",狂飙
 http://xiaoya.crccxw.top:35455/yy/1382754187
+#EXTINF:-1 tvg-name="狂飙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/狂飙.png" group-title="🏛经典剧场",狂飙
+http://xiaoya.crccxw.top:35455/yy/1382627144
+#EXTINF:-1 tvg-name="狂飙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/狂飙.png" group-title="🏛经典剧场",狂飙
+http://227w9f5104.zicp.fun:35455/yy/1355142167
+#EXTINF:-1 tvg-name="狂飙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/狂飙.png" group-title="🏛经典剧场",狂飙
+http://227w9f5104.zicp.fun:35455/yy/1382754187
 #EXTINF:-1 tvg-name="少年包青天蓝光版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少年包青天蓝光版.png" group-title="🏛经典剧场",少年包青天蓝光版
 http://yc.myds.me:35455/yy/38498680
-#EXTINF:-1 tvg-name="少年包青天蓝光版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少年包青天蓝光版.png" group-title="🏛经典剧场",少年包青天蓝光版
-http://8.218.190.107/yy/38498680
 #EXTINF:-1 tvg-name="少年包青天蓝光版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少年包青天蓝光版.png" group-title="🏛经典剧场",少年包青天蓝光版
 http://www.douzhicloud.site:35455/yy/38498680
 #EXTINF:-1 tvg-name="少年包青天蓝光版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少年包青天蓝光版.png" group-title="🏛经典剧场",少年包青天蓝光版
@@ -2962,6 +3054,8 @@ http://227w9f5104.zicp.fun:35455/yy/38498680
 #EXTINF:-1 tvg-name="少年包青天蓝光版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少年包青天蓝光版.png" group-title="🏛经典剧场",少年包青天蓝光版
 http://www.xzbn.site:35455/yy/38498680
 #EXTINF:-1 tvg-name="少年包青天蓝光版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少年包青天蓝光版.png" group-title="🏛经典剧场",少年包青天蓝光版
+http://www.zhch682022.cn:35455/yy/38498680
+#EXTINF:-1 tvg-name="少年包青天蓝光版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少年包青天蓝光版.png" group-title="🏛经典剧场",少年包青天蓝光版
 http://home.kuaidi521.com:35455/yy/38498680
 #EXTINF:-1 tvg-name="少年包青天蓝光版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少年包青天蓝光版.png" group-title="🏛经典剧场",少年包青天蓝光版
 http://t8622699o8.vicp.fun:60024/yy/38498680
@@ -2973,8 +3067,6 @@ http://124.248.69.76:26781/huya/11352964
 https://live.iill.top/huya/11352964
 #EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神雕侠侣.png" group-title="🏛经典剧场",神雕侠侣
 http://120.77.28.4:8648/yy.php?id=1382704651
-#EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神雕侠侣.png" group-title="🏛经典剧场",神雕侠侣
-http://8.218.190.107/yy/1351762426
 #EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神雕侠侣.png" group-title="🏛经典剧场",神雕侠侣
 http://www.douzhicloud.site:35455/yy/1351762426
 #EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神雕侠侣.png" group-title="🏛经典剧场",神雕侠侣
@@ -2988,11 +3080,21 @@ http://227w9f5104.zicp.fun:35455/yy/1351762426
 #EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神雕侠侣.png" group-title="🏛经典剧场",神雕侠侣
 http://www.xzbn.site:35455/yy/1351762426
 #EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神雕侠侣.png" group-title="🏛经典剧场",神雕侠侣
+http://www.zhch682022.cn:35455/yy/1351762426
+#EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神雕侠侣.png" group-title="🏛经典剧场",神雕侠侣
 http://home.kuaidi521.com:35455/yy/1351762426
 #EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神雕侠侣.png" group-title="🏛经典剧场",神雕侠侣
 http://t8622699o8.vicp.fun:60024/yy/1351762426
 #EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神雕侠侣.png" group-title="🏛经典剧场",神雕侠侣
 http://live.metshop.top/huya/11352964
+#EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神雕侠侣.png" group-title="🏛经典剧场",神雕侠侣
+http://rihou.cc:555/huyad.php?id=11352964
+#EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神雕侠侣.png" group-title="🏛经典剧场",神雕侠侣
+http://jiaojirentv.top/2020/yy.php?id=1351762426
+#EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神雕侠侣.png" group-title="🏛经典剧场",神雕侠侣
+https://lunbo.freetv.top/yy/1351762426
+#EXTINF:-1 tvg-name="神雕侠侣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神雕侠侣.png" group-title="🏛经典剧场",神雕侠侣
+https://live.metshop.top/yy/1351762426
 #EXTINF:-1 tvg-name="神探狄仁杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探狄仁杰.png" group-title="🏛经典剧场",神探狄仁杰
 http://yc.myds.me:35455/yy/38338029
 #EXTINF:-1 tvg-name="神探狄仁杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探狄仁杰.png" group-title="🏛经典剧场",神探狄仁杰
@@ -3006,8 +3108,6 @@ http://120.77.28.4:8648/yy.php?id=1382705592
 #EXTINF:-1 tvg-name="神探狄仁杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探狄仁杰.png" group-title="🏛经典剧场",神探狄仁杰
 http://diyp.zxxoo.work/douyu/10120371
 #EXTINF:-1 tvg-name="神探狄仁杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探狄仁杰.png" group-title="🏛经典剧场",神探狄仁杰
-http://8.218.190.107/yy/38338029
-#EXTINF:-1 tvg-name="神探狄仁杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探狄仁杰.png" group-title="🏛经典剧场",神探狄仁杰
 http://www.douzhicloud.site:35455/yy/38338029
 #EXTINF:-1 tvg-name="神探狄仁杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探狄仁杰.png" group-title="🏛经典剧场",神探狄仁杰
 http://3501776.xyz:35455/yy/38338029
@@ -3020,11 +3120,17 @@ http://227w9f5104.zicp.fun:35455/yy/38338029
 #EXTINF:-1 tvg-name="神探狄仁杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探狄仁杰.png" group-title="🏛经典剧场",神探狄仁杰
 http://www.xzbn.site:35455/yy/38338029
 #EXTINF:-1 tvg-name="神探狄仁杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探狄仁杰.png" group-title="🏛经典剧场",神探狄仁杰
+http://www.zhch682022.cn:35455/yy/38338029
+#EXTINF:-1 tvg-name="神探狄仁杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探狄仁杰.png" group-title="🏛经典剧场",神探狄仁杰
 http://home.kuaidi521.com:35455/yy/38338029
 #EXTINF:-1 tvg-name="神探狄仁杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探狄仁杰.png" group-title="🏛经典剧场",神探狄仁杰
 http://t8622699o8.vicp.fun:60024/yy/38338029
-#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
-http://yc.myds.me:35455/yy/1354755003
+#EXTINF:-1 tvg-name="神探狄仁杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探狄仁杰.png" group-title="🏛经典剧场",神探狄仁杰
+http://jiaojirentv.top/2020/yy.php?id=38338029
+#EXTINF:-1 tvg-name="神探狄仁杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探狄仁杰.png" group-title="🏛经典剧场",神探狄仁杰
+https://lunbo.freetv.top/yy/38338029
+#EXTINF:-1 tvg-name="神探狄仁杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探狄仁杰.png" group-title="🏛经典剧场",神探狄仁杰
+https://live.metshop.top/yy/38338029
 #EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
 http://yc.myds.me:35455/yy/33300793
 #EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
@@ -3034,77 +3140,73 @@ https://live.iill.top/huya/23734246
 #EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
 http://120.77.28.4:8648/yy.php?id=1449856066
 #EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
-http://8.218.190.107/yy/1354755003
-#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
-http://8.218.190.107/yy/33300793
-#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
-http://www.douzhicloud.site:35455/yy/1354755003
-#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
 http://www.douzhicloud.site:35455/yy/33300793
-#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
-http://3501776.xyz:35455/yy/1354755003
 #EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
 http://3501776.xyz:35455/yy/33300793
 #EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
-http://1.94.31.214:35455/yy/1354755003
-#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
 http://1.94.31.214:35455/yy/33300793
-#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
-http://xiaoya.crccxw.top:35455/yy/1354755003
 #EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
 http://xiaoya.crccxw.top:35455/yy/33300793
 #EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
-http://227w9f5104.zicp.fun:35455/yy/1354755003
-#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
 http://227w9f5104.zicp.fun:35455/yy/33300793
-#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
-http://www.xzbn.site:35455/yy/1354755003
 #EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
 http://www.xzbn.site:35455/yy/33300793
 #EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
-http://home.kuaidi521.com:35455/yy/1354755003
-#EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
-http://yc.myds.me:35455/yy/1382745191
+http://www.zhch682022.cn:35455/yy/33300793
+#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
+http://home.kuaidi521.com:35455/yy/33300793
+#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
+http://t8622699o8.vicp.fun:60024/yy/33300793
+#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
+http://live.metshop.top/huya/11342403
+#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
+http://rihou.cc:555/huyad.php?id=23734246
+#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
+http://jiaojirentv.top/2020/yy.php?id=1449856066
+#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
+https://lunbo.freetv.top/yy/1449856066
+#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
+https://live.metshop.top/yy/1449856066
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
 http://yc.myds.me:35455/yy/1353892468
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
+http://yc.myds.me:35455/yy/1382745191
+#EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
 http://120.77.28.4:8648/yy.php?id=1382745191
-#EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
-http://8.218.190.107/yy/1382745191
-#EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
-http://8.218.190.107/yy/1353892468
-#EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
-http://www.douzhicloud.site:35455/yy/1382745191
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
 http://www.douzhicloud.site:35455/yy/1353892468
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
-http://3501776.xyz:35455/yy/1382745191
+http://www.douzhicloud.site:35455/yy/1382745191
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
 http://3501776.xyz:35455/yy/1353892468
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
-http://1.94.31.214:35455/yy/1382745191
+http://3501776.xyz:35455/yy/1382745191
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
 http://1.94.31.214:35455/yy/1353892468
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
-http://xiaoya.crccxw.top:35455/yy/1382745191
+http://1.94.31.214:35455/yy/1382745191
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
 http://xiaoya.crccxw.top:35455/yy/1353892468
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
-http://227w9f5104.zicp.fun:35455/yy/1382745191
+http://xiaoya.crccxw.top:35455/yy/1382745191
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
 http://227w9f5104.zicp.fun:35455/yy/1353892468
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
-http://www.xzbn.site:35455/yy/1382745191
+http://227w9f5104.zicp.fun:35455/yy/1382745191
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
 http://www.xzbn.site:35455/yy/1353892468
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
-http://home.kuaidi521.com:35455/yy/1382745191
+http://www.xzbn.site:35455/yy/1382745191
+#EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
+http://www.zhch682022.cn:35455/yy/1353892468
+#EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
+http://www.zhch682022.cn:35455/yy/1382745191
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
 http://home.kuaidi521.com:35455/yy/1353892468
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
-http://t8622699o8.vicp.fun:60024/yy/1382745191
-#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
-http://yc.myds.me:35455/yy/1382851594
+http://home.kuaidi521.com:35455/yy/1382745191
+#EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
+http://t8622699o8.vicp.fun:60024/yy/1353892468
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
 http://yc.myds.me:35455/yy/1354926650
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
@@ -3112,37 +3214,39 @@ http://yc.myds.me:35455/yy/1382746276
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
 http://120.77.28.4:8648/yy.php?id=1354926650
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
-http://8.218.190.107/yy/1382851594
-#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
-http://8.218.190.107/yy/1354926650
-#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
-http://8.218.190.107/yy/1382746276
-#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
-http://www.douzhicloud.site:35455/yy/1382851594
-#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
 http://www.douzhicloud.site:35455/yy/1354926650
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
 http://www.douzhicloud.site:35455/yy/1382746276
-#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
-http://3501776.xyz:35455/yy/1382851594
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
 http://3501776.xyz:35455/yy/1354926650
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
 http://3501776.xyz:35455/yy/1382746276
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
-http://1.94.31.214:35455/yy/1382851594
-#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
 http://1.94.31.214:35455/yy/1354926650
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
 http://1.94.31.214:35455/yy/1382746276
-#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
-http://xiaoya.crccxw.top:35455/yy/1382851594
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
 http://xiaoya.crccxw.top:35455/yy/1354926650
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
 http://xiaoya.crccxw.top:35455/yy/1382746276
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
-http://227w9f5104.zicp.fun:35455/yy/1382851594
+http://227w9f5104.zicp.fun:35455/yy/1354926650
+#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
+http://227w9f5104.zicp.fun:35455/yy/1382746276
+#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
+http://www.xzbn.site:35455/yy/1354926650
+#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
+http://www.xzbn.site:35455/yy/1382746276
+#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
+http://www.zhch682022.cn:35455/yy/1354926650
+#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
+http://www.zhch682022.cn:35455/yy/1382746276
+#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
+http://home.kuaidi521.com:35455/yy/1354926650
+#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
+http://home.kuaidi521.com:35455/yy/1382746276
+#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
+http://t8622699o8.vicp.fun:60024/yy/1354926650
 #EXTINF:-1 tvg-name="亮剑" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/亮剑.png" group-title="🏛经典剧场",亮剑
 http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-name="亮剑" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/亮剑.png" group-title="🏛经典剧场",亮剑
@@ -3159,10 +3263,6 @@ https://live.iill.top/huya/11342430
 http://120.77.28.4:8648/yy.php?id=1382828766
 #EXTINF:-1 tvg-name="士兵突击" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/士兵突击.png" group-title="🏛经典剧场",士兵突击
 http://diyp.zxxoo.work/douyu/10348728
-#EXTINF:-1 tvg-name="士兵突击" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/士兵突击.png" group-title="🏛经典剧场",士兵突击
-http://8.218.190.107/yy/1382851600
-#EXTINF:-1 tvg-name="士兵突击" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/士兵突击.png" group-title="🏛经典剧场",士兵突击
-http://8.218.190.107/yy/1382828766
 #EXTINF:-1 tvg-name="士兵突击" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/士兵突击.png" group-title="🏛经典剧场",士兵突击
 http://www.douzhicloud.site:35455/yy/1382851600
 #EXTINF:-1 tvg-name="士兵突击" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/士兵突击.png" group-title="🏛经典剧场",士兵突击
@@ -3187,14 +3287,14 @@ http://227w9f5104.zicp.fun:35455/yy/1382828766
 http://www.xzbn.site:35455/yy/1382851600
 #EXTINF:-1 tvg-name="士兵突击" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/士兵突击.png" group-title="🏛经典剧场",士兵突击
 http://www.xzbn.site:35455/yy/1382828766
+#EXTINF:-1 tvg-name="士兵突击" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/士兵突击.png" group-title="🏛经典剧场",士兵突击
+http://www.zhch682022.cn:35455/yy/1382851600
+#EXTINF:-1 tvg-name="士兵突击" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/士兵突击.png" group-title="🏛经典剧场",士兵突击
+http://www.zhch682022.cn:35455/yy/1382828766
 #EXTINF:-1 tvg-name="林正英-经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英-经典电影.png" group-title="🏛经典剧场",林正英-经典电影
 http://yc.myds.me:35455/yy/34229877
 #EXTINF:-1 tvg-name="林正英-经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英-经典电影.png" group-title="🏛经典剧场",林正英-经典电影
 http://yc.myds.me:35455/yy/1461666695
-#EXTINF:-1 tvg-name="林正英-经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英-经典电影.png" group-title="🏛经典剧场",林正英-经典电影
-http://8.218.190.107/yy/34229877
-#EXTINF:-1 tvg-name="林正英-经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英-经典电影.png" group-title="🏛经典剧场",林正英-经典电影
-http://8.218.190.107/yy/1461666695
 #EXTINF:-1 tvg-name="林正英-经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英-经典电影.png" group-title="🏛经典剧场",林正英-经典电影
 http://www.douzhicloud.site:35455/yy/34229877
 #EXTINF:-1 tvg-name="林正英-经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英-经典电影.png" group-title="🏛经典剧场",林正英-经典电影
@@ -3220,6 +3320,10 @@ http://www.xzbn.site:35455/yy/34229877
 #EXTINF:-1 tvg-name="林正英-经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英-经典电影.png" group-title="🏛经典剧场",林正英-经典电影
 http://www.xzbn.site:35455/yy/1461666695
 #EXTINF:-1 tvg-name="林正英-经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英-经典电影.png" group-title="🏛经典剧场",林正英-经典电影
+http://www.zhch682022.cn:35455/yy/34229877
+#EXTINF:-1 tvg-name="林正英-经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英-经典电影.png" group-title="🏛经典剧场",林正英-经典电影
+http://www.zhch682022.cn:35455/yy/1461666695
+#EXTINF:-1 tvg-name="林正英-经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英-经典电影.png" group-title="🏛经典剧场",林正英-经典电影
 http://home.kuaidi521.com:35455/yy/34229877
 #EXTINF:-1 tvg-name="林正英-经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英-经典电影.png" group-title="🏛经典剧场",林正英-经典电影
 http://home.kuaidi521.com:35455/yy/1461666695
@@ -3231,8 +3335,6 @@ http://t8622699o8.vicp.fun:60024/yy/1461666695
 http://zzy789.xyz/douyu1.php?id=3113309
 #EXTINF:-1 tvg-name="西游记后传 蓝光" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记后传 蓝光.png" group-title="🏛经典剧场",西游记后传 蓝光
 http://yc.myds.me:35455/yy/1353392400
-#EXTINF:-1 tvg-name="西游记后传 蓝光" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记后传 蓝光.png" group-title="🏛经典剧场",西游记后传 蓝光
-http://8.218.190.107/yy/1353392400
 #EXTINF:-1 tvg-name="西游记后传 蓝光" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记后传 蓝光.png" group-title="🏛经典剧场",西游记后传 蓝光
 http://www.douzhicloud.site:35455/yy/1353392400
 #EXTINF:-1 tvg-name="西游记后传 蓝光" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记后传 蓝光.png" group-title="🏛经典剧场",西游记后传 蓝光
@@ -3246,13 +3348,13 @@ http://227w9f5104.zicp.fun:35455/yy/1353392400
 #EXTINF:-1 tvg-name="西游记后传 蓝光" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记后传 蓝光.png" group-title="🏛经典剧场",西游记后传 蓝光
 http://www.xzbn.site:35455/yy/1353392400
 #EXTINF:-1 tvg-name="西游记后传 蓝光" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记后传 蓝光.png" group-title="🏛经典剧场",西游记后传 蓝光
+http://www.zhch682022.cn:35455/yy/1353392400
+#EXTINF:-1 tvg-name="西游记后传 蓝光" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记后传 蓝光.png" group-title="🏛经典剧场",西游记后传 蓝光
 http://home.kuaidi521.com:35455/yy/1353392400
 #EXTINF:-1 tvg-name="西游记后传 蓝光" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记后传 蓝光.png" group-title="🏛经典剧场",西游记后传 蓝光
 http://t8622699o8.vicp.fun:60024/yy/1353392400
 #EXTINF:-1 tvg-name="爱情公寓vip" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓vip.png" group-title="🏛经典剧场",爱情公寓vip
 http://yc.myds.me:35455/douyu/6863367
-#EXTINF:-1 tvg-name="爱情公寓vip" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓vip.png" group-title="🏛经典剧场",爱情公寓vip
-http://8.218.190.107/douyu/6863367
 #EXTINF:-1 tvg-name="爱情公寓vip" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓vip.png" group-title="🏛经典剧场",爱情公寓vip
 http://www.douzhicloud.site:35455/douyu/6863367
 #EXTINF:-1 tvg-name="爱情公寓vip" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓vip.png" group-title="🏛经典剧场",爱情公寓vip
@@ -3266,59 +3368,61 @@ http://227w9f5104.zicp.fun:35455/douyu/6863367
 #EXTINF:-1 tvg-name="爱情公寓vip" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓vip.png" group-title="🏛经典剧场",爱情公寓vip
 http://www.xzbn.site:35455/douyu/6863367
 #EXTINF:-1 tvg-name="爱情公寓vip" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓vip.png" group-title="🏛经典剧场",爱情公寓vip
+http://www.zhch682022.cn:35455/douyu/6863367
+#EXTINF:-1 tvg-name="爱情公寓vip" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓vip.png" group-title="🏛经典剧场",爱情公寓vip
 http://home.kuaidi521.com:35455/douyu/6863367
 #EXTINF:-1 tvg-name="爱情公寓vip" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓vip.png" group-title="🏛经典剧场",爱情公寓vip
 http://t8622699o8.vicp.fun:60024/douyu/6863367
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
-http://yc.myds.me:35455/yy/21092633
-#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
 http://yc.myds.me:35455/yy/1355652820
+#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
+http://yc.myds.me:35455/yy/21092633
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
 http://120.77.28.4:8648/yy.php?id=1394000563
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
-http://8.218.190.107/yy/21092633
-#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
-http://8.218.190.107/yy/1355652820
+http://www.douzhicloud.site:35455/yy/1355652820
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
 http://www.douzhicloud.site:35455/yy/21092633
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
-http://www.douzhicloud.site:35455/yy/1355652820
+http://3501776.xyz:35455/yy/1355652820
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
 http://3501776.xyz:35455/yy/21092633
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
-http://3501776.xyz:35455/yy/1355652820
+http://1.94.31.214:35455/yy/1355652820
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
 http://1.94.31.214:35455/yy/21092633
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
-http://1.94.31.214:35455/yy/1355652820
+http://xiaoya.crccxw.top:35455/yy/1355652820
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
 http://xiaoya.crccxw.top:35455/yy/21092633
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
-http://xiaoya.crccxw.top:35455/yy/1355652820
+http://227w9f5104.zicp.fun:35455/yy/1355652820
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
 http://227w9f5104.zicp.fun:35455/yy/21092633
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
-http://227w9f5104.zicp.fun:35455/yy/1355652820
+http://www.xzbn.site:35455/yy/1355652820
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
 http://www.xzbn.site:35455/yy/21092633
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
-http://www.xzbn.site:35455/yy/1355652820
+http://www.zhch682022.cn:35455/yy/1355652820
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
-http://home.kuaidi521.com:35455/yy/21092633
+http://www.zhch682022.cn:35455/yy/21092633
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
 http://home.kuaidi521.com:35455/yy/1355652820
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
-http://t8622699o8.vicp.fun:60024/yy/21092633
+http://home.kuaidi521.com:35455/yy/21092633
+#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
+http://t8622699o8.vicp.fun:60024/yy/1355652820
+#EXTINF:-1 tvg-name="家有儿女" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/家有儿女.png" group-title="🏛经典剧场",家有儿女
+http://rihou.cc:555/dhy.php?id=11352872
+#EXTINF:-1 tvg-name="家有儿女" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/家有儿女.png" group-title="🏛经典剧场",家有儿女
+http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352872
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🏛经典剧场",铁齿铜牙纪晓岚
 http://yc.myds.me:35455/yy/1354143978
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🏛经典剧场",铁齿铜牙纪晓岚
 http://yc.myds.me:35455/yy/1382701828
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🏛经典剧场",铁齿铜牙纪晓岚
 http://120.77.28.4:8648/yy.php?id=1354143978
-#EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🏛经典剧场",铁齿铜牙纪晓岚
-http://8.218.190.107/yy/1354143978
-#EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🏛经典剧场",铁齿铜牙纪晓岚
-http://8.218.190.107/yy/1382701828
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🏛经典剧场",铁齿铜牙纪晓岚
 http://www.douzhicloud.site:35455/yy/1354143978
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🏛经典剧场",铁齿铜牙纪晓岚
@@ -3344,6 +3448,10 @@ http://www.xzbn.site:35455/yy/1354143978
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🏛经典剧场",铁齿铜牙纪晓岚
 http://www.xzbn.site:35455/yy/1382701828
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🏛经典剧场",铁齿铜牙纪晓岚
+http://www.zhch682022.cn:35455/yy/1354143978
+#EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🏛经典剧场",铁齿铜牙纪晓岚
+http://www.zhch682022.cn:35455/yy/1382701828
+#EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🏛经典剧场",铁齿铜牙纪晓岚
 http://home.kuaidi521.com:35455/yy/1354143978
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🏛经典剧场",铁齿铜牙纪晓岚
 http://home.kuaidi521.com:35455/yy/1382701828
@@ -3356,8 +3464,6 @@ http://1.94.31.214:35455/yy/1352475619
 #EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/隋唐英雄传.png" group-title="🏛经典剧场",隋唐英雄传
 http://120.77.28.4:8648/yy.php?id=1352475619
 #EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/隋唐英雄传.png" group-title="🏛经典剧场",隋唐英雄传
-http://8.218.190.107/yy/1352475619
-#EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/隋唐英雄传.png" group-title="🏛经典剧场",隋唐英雄传
 http://www.douzhicloud.site:35455/yy/1352475619
 #EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/隋唐英雄传.png" group-title="🏛经典剧场",隋唐英雄传
 http://3501776.xyz:35455/yy/1352475619
@@ -3368,15 +3474,21 @@ http://227w9f5104.zicp.fun:35455/yy/1352475619
 #EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/隋唐英雄传.png" group-title="🏛经典剧场",隋唐英雄传
 http://www.xzbn.site:35455/yy/1352475619
 #EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/隋唐英雄传.png" group-title="🏛经典剧场",隋唐英雄传
+http://www.zhch682022.cn:35455/yy/1352475619
+#EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/隋唐英雄传.png" group-title="🏛经典剧场",隋唐英雄传
 http://home.kuaidi521.com:35455/yy/1352475619
 #EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/隋唐英雄传.png" group-title="🏛经典剧场",隋唐英雄传
 http://t8622699o8.vicp.fun:60024/yy/1352475619
+#EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/隋唐英雄传.png" group-title="🏛经典剧场",隋唐英雄传
+http://cfss.cc/cdn/yy/1352475619.flv
+#EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/隋唐英雄传.png" group-title="🏛经典剧场",隋唐英雄传
+https://lunbo.freetv.top/yy/1352475619
+#EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/隋唐英雄传.png" group-title="🏛经典剧场",隋唐英雄传
+https://live.metshop.top/yy/1352475619
 #EXTINF:-1 tvg-name="新三国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新三国.png" group-title="🏛经典剧场",新三国
 http://yc.myds.me:35455/yy/1356051105
 #EXTINF:-1 tvg-name="新三国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新三国.png" group-title="🏛经典剧场",新三国
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-name="新三国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新三国.png" group-title="🏛经典剧场",新三国
-http://8.218.190.107/yy/1356051105
 #EXTINF:-1 tvg-name="新三国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新三国.png" group-title="🏛经典剧场",新三国
 http://www.douzhicloud.site:35455/yy/1356051105
 #EXTINF:-1 tvg-name="新三国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新三国.png" group-title="🏛经典剧场",新三国
@@ -3390,15 +3502,21 @@ http://227w9f5104.zicp.fun:35455/yy/1356051105
 #EXTINF:-1 tvg-name="新三国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新三国.png" group-title="🏛经典剧场",新三国
 http://www.xzbn.site:35455/yy/1356051105
 #EXTINF:-1 tvg-name="新三国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新三国.png" group-title="🏛经典剧场",新三国
+http://www.zhch682022.cn:35455/yy/1356051105
+#EXTINF:-1 tvg-name="新三国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新三国.png" group-title="🏛经典剧场",新三国
 http://home.kuaidi521.com:35455/yy/1356051105
 #EXTINF:-1 tvg-name="新三国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新三国.png" group-title="🏛经典剧场",新三国
 http://t8622699o8.vicp.fun:60024/yy/1356051105
 #EXTINF:-1 tvg-name="新三国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新三国.png" group-title="🏛经典剧场",新三国
 http://live.metshop.top/huya/11352944
+#EXTINF:-1 tvg-name="新三国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新三国.png" group-title="🏛经典剧场",新三国
+http://jiaojirentv.top/2020/yy.php?id=26744898
+#EXTINF:-1 tvg-name="新三国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新三国.png" group-title="🏛经典剧场",新三国
+https://lunbo.freetv.top/yy/26744898
+#EXTINF:-1 tvg-name="新三国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新三国.png" group-title="🏛经典剧场",新三国
+https://live.metshop.top/yy/26744898
 #EXTINF:-1 tvg-name="师落" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/师落.png" group-title="🏛经典剧场",师落
 http://yc.myds.me:35455/douyu/6911044
-#EXTINF:-1 tvg-name="师落" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/师落.png" group-title="🏛经典剧场",师落
-http://8.218.190.107/douyu/6911044
 #EXTINF:-1 tvg-name="师落" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/师落.png" group-title="🏛经典剧场",师落
 http://www.douzhicloud.site:35455/douyu/6911044
 #EXTINF:-1 tvg-name="师落" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/师落.png" group-title="🏛经典剧场",师落
@@ -3412,13 +3530,13 @@ http://227w9f5104.zicp.fun:35455/douyu/6911044
 #EXTINF:-1 tvg-name="师落" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/师落.png" group-title="🏛经典剧场",师落
 http://www.xzbn.site:35455/douyu/6911044
 #EXTINF:-1 tvg-name="师落" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/师落.png" group-title="🏛经典剧场",师落
+http://www.zhch682022.cn:35455/douyu/6911044
+#EXTINF:-1 tvg-name="师落" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/师落.png" group-title="🏛经典剧场",师落
 http://home.kuaidi521.com:35455/douyu/6911044
 #EXTINF:-1 tvg-name="师落" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/师落.png" group-title="🏛经典剧场",师落
 http://t8622699o8.vicp.fun:60024/douyu/6911044
 #EXTINF:-1 tvg-name="makimaning" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/makimaning.png" group-title="🏛经典剧场",makimaning
 http://yc.myds.me:35455/douyu/12432399
-#EXTINF:-1 tvg-name="makimaning" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/makimaning.png" group-title="🏛经典剧场",makimaning
-http://8.218.190.107/douyu/12432399
 #EXTINF:-1 tvg-name="makimaning" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/makimaning.png" group-title="🏛经典剧场",makimaning
 http://www.douzhicloud.site:35455/douyu/12432399
 #EXTINF:-1 tvg-name="makimaning" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/makimaning.png" group-title="🏛经典剧场",makimaning
@@ -3432,13 +3550,13 @@ http://227w9f5104.zicp.fun:35455/douyu/12432399
 #EXTINF:-1 tvg-name="makimaning" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/makimaning.png" group-title="🏛经典剧场",makimaning
 http://www.xzbn.site:35455/douyu/12432399
 #EXTINF:-1 tvg-name="makimaning" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/makimaning.png" group-title="🏛经典剧场",makimaning
+http://www.zhch682022.cn:35455/douyu/12432399
+#EXTINF:-1 tvg-name="makimaning" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/makimaning.png" group-title="🏛经典剧场",makimaning
 http://home.kuaidi521.com:35455/douyu/12432399
 #EXTINF:-1 tvg-name="makimaning" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/makimaning.png" group-title="🏛经典剧场",makimaning
 http://t8622699o8.vicp.fun:60024/douyu/12432399
 #EXTINF:-1 tvg-name="v刺猬猪v" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/v刺猬猪v.png" group-title="🏛经典剧场",v刺猬猪v
 http://yc.myds.me:35455/douyu/2436390
-#EXTINF:-1 tvg-name="v刺猬猪v" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/v刺猬猪v.png" group-title="🏛经典剧场",v刺猬猪v
-http://8.218.190.107/douyu/2436390
 #EXTINF:-1 tvg-name="v刺猬猪v" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/v刺猬猪v.png" group-title="🏛经典剧场",v刺猬猪v
 http://www.douzhicloud.site:35455/douyu/2436390
 #EXTINF:-1 tvg-name="v刺猬猪v" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/v刺猬猪v.png" group-title="🏛经典剧场",v刺猬猪v
@@ -3452,13 +3570,13 @@ http://227w9f5104.zicp.fun:35455/douyu/2436390
 #EXTINF:-1 tvg-name="v刺猬猪v" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/v刺猬猪v.png" group-title="🏛经典剧场",v刺猬猪v
 http://www.xzbn.site:35455/douyu/2436390
 #EXTINF:-1 tvg-name="v刺猬猪v" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/v刺猬猪v.png" group-title="🏛经典剧场",v刺猬猪v
+http://www.zhch682022.cn:35455/douyu/2436390
+#EXTINF:-1 tvg-name="v刺猬猪v" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/v刺猬猪v.png" group-title="🏛经典剧场",v刺猬猪v
 http://home.kuaidi521.com:35455/douyu/2436390
 #EXTINF:-1 tvg-name="v刺猬猪v" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/v刺猬猪v.png" group-title="🏛经典剧场",v刺猬猪v
 http://t8622699o8.vicp.fun:60024/douyu/2436390
 #EXTINF:-1 tvg-name="老卓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老卓电影.png" group-title="🏛经典剧场",老卓电影
 http://yc.myds.me:35455/yy/1354770516
-#EXTINF:-1 tvg-name="老卓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老卓电影.png" group-title="🏛经典剧场",老卓电影
-http://8.218.190.107/yy/1354770516
 #EXTINF:-1 tvg-name="老卓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老卓电影.png" group-title="🏛经典剧场",老卓电影
 http://www.douzhicloud.site:35455/yy/1354770516
 #EXTINF:-1 tvg-name="老卓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老卓电影.png" group-title="🏛经典剧场",老卓电影
@@ -3472,13 +3590,13 @@ http://227w9f5104.zicp.fun:35455/yy/1354770516
 #EXTINF:-1 tvg-name="老卓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老卓电影.png" group-title="🏛经典剧场",老卓电影
 http://www.xzbn.site:35455/yy/1354770516
 #EXTINF:-1 tvg-name="老卓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老卓电影.png" group-title="🏛经典剧场",老卓电影
+http://www.zhch682022.cn:35455/yy/1354770516
+#EXTINF:-1 tvg-name="老卓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老卓电影.png" group-title="🏛经典剧场",老卓电影
 http://home.kuaidi521.com:35455/yy/1354770516
 #EXTINF:-1 tvg-name="老卓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/老卓电影.png" group-title="🏛经典剧场",老卓电影
 http://t8622699o8.vicp.fun:60024/yy/1354770516
 #EXTINF:-1 tvg-name="万事通熊猫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万事通熊猫.png" group-title="🏛经典剧场",万事通熊猫
 http://yc.myds.me:35455/douyu/7812810
-#EXTINF:-1 tvg-name="万事通熊猫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万事通熊猫.png" group-title="🏛经典剧场",万事通熊猫
-http://8.218.190.107/douyu/7812810
 #EXTINF:-1 tvg-name="万事通熊猫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万事通熊猫.png" group-title="🏛经典剧场",万事通熊猫
 http://www.douzhicloud.site:35455/douyu/7812810
 #EXTINF:-1 tvg-name="万事通熊猫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万事通熊猫.png" group-title="🏛经典剧场",万事通熊猫
@@ -3492,13 +3610,13 @@ http://227w9f5104.zicp.fun:35455/douyu/7812810
 #EXTINF:-1 tvg-name="万事通熊猫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万事通熊猫.png" group-title="🏛经典剧场",万事通熊猫
 http://www.xzbn.site:35455/douyu/7812810
 #EXTINF:-1 tvg-name="万事通熊猫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万事通熊猫.png" group-title="🏛经典剧场",万事通熊猫
+http://www.zhch682022.cn:35455/douyu/7812810
+#EXTINF:-1 tvg-name="万事通熊猫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万事通熊猫.png" group-title="🏛经典剧场",万事通熊猫
 http://home.kuaidi521.com:35455/douyu/7812810
 #EXTINF:-1 tvg-name="万事通熊猫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万事通熊猫.png" group-title="🏛经典剧场",万事通熊猫
 http://t8622699o8.vicp.fun:60024/douyu/7812810
 #EXTINF:-1 tvg-name="奇缘港台影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/奇缘港台影院.png" group-title="🏛经典剧场",奇缘港台影院
 http://yc.myds.me:35455/yy/1354889234
-#EXTINF:-1 tvg-name="奇缘港台影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/奇缘港台影院.png" group-title="🏛经典剧场",奇缘港台影院
-http://8.218.190.107/yy/1354889234
 #EXTINF:-1 tvg-name="奇缘港台影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/奇缘港台影院.png" group-title="🏛经典剧场",奇缘港台影院
 http://www.douzhicloud.site:35455/yy/1354889234
 #EXTINF:-1 tvg-name="奇缘港台影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/奇缘港台影院.png" group-title="🏛经典剧场",奇缘港台影院
@@ -3512,13 +3630,33 @@ http://227w9f5104.zicp.fun:35455/yy/1354889234
 #EXTINF:-1 tvg-name="奇缘港台影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/奇缘港台影院.png" group-title="🏛经典剧场",奇缘港台影院
 http://www.xzbn.site:35455/yy/1354889234
 #EXTINF:-1 tvg-name="奇缘港台影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/奇缘港台影院.png" group-title="🏛经典剧场",奇缘港台影院
+http://www.zhch682022.cn:35455/yy/1354889234
+#EXTINF:-1 tvg-name="奇缘港台影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/奇缘港台影院.png" group-title="🏛经典剧场",奇缘港台影院
 http://home.kuaidi521.com:35455/yy/1354889234
 #EXTINF:-1 tvg-name="奇缘港台影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/奇缘港台影院.png" group-title="🏛经典剧场",奇缘港台影院
 http://t8622699o8.vicp.fun:60024/yy/1354889234
+#EXTINF:-1 tvg-name="怀旧经典影视汇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧经典影视汇.png" group-title="🏛经典剧场",怀旧经典影视汇
+http://yc.myds.me:35455/douyu/12143022
+#EXTINF:-1 tvg-name="怀旧经典影视汇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧经典影视汇.png" group-title="🏛经典剧场",怀旧经典影视汇
+http://www.douzhicloud.site:35455/douyu/12143022
+#EXTINF:-1 tvg-name="怀旧经典影视汇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧经典影视汇.png" group-title="🏛经典剧场",怀旧经典影视汇
+http://3501776.xyz:35455/douyu/12143022
+#EXTINF:-1 tvg-name="怀旧经典影视汇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧经典影视汇.png" group-title="🏛经典剧场",怀旧经典影视汇
+http://1.94.31.214:35455/douyu/12143022
+#EXTINF:-1 tvg-name="怀旧经典影视汇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧经典影视汇.png" group-title="🏛经典剧场",怀旧经典影视汇
+http://xiaoya.crccxw.top:35455/douyu/12143022
+#EXTINF:-1 tvg-name="怀旧经典影视汇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧经典影视汇.png" group-title="🏛经典剧场",怀旧经典影视汇
+http://227w9f5104.zicp.fun:35455/douyu/12143022
+#EXTINF:-1 tvg-name="怀旧经典影视汇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧经典影视汇.png" group-title="🏛经典剧场",怀旧经典影视汇
+http://www.xzbn.site:35455/douyu/12143022
+#EXTINF:-1 tvg-name="怀旧经典影视汇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧经典影视汇.png" group-title="🏛经典剧场",怀旧经典影视汇
+http://www.zhch682022.cn:35455/douyu/12143022
+#EXTINF:-1 tvg-name="怀旧经典影视汇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧经典影视汇.png" group-title="🏛经典剧场",怀旧经典影视汇
+http://home.kuaidi521.com:35455/douyu/12143022
+#EXTINF:-1 tvg-name="怀旧经典影视汇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧经典影视汇.png" group-title="🏛经典剧场",怀旧经典影视汇
+http://t8622699o8.vicp.fun:60024/douyu/12143022
 #EXTINF:-1 tvg-name="过往1908" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/过往1908.png" group-title="🏛经典剧场",过往1908
 http://yc.myds.me:35455/douyu/8721095
-#EXTINF:-1 tvg-name="过往1908" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/过往1908.png" group-title="🏛经典剧场",过往1908
-http://8.218.190.107/douyu/8721095
 #EXTINF:-1 tvg-name="过往1908" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/过往1908.png" group-title="🏛经典剧场",过往1908
 http://www.douzhicloud.site:35455/douyu/8721095
 #EXTINF:-1 tvg-name="过往1908" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/过往1908.png" group-title="🏛经典剧场",过往1908
@@ -3532,33 +3670,33 @@ http://227w9f5104.zicp.fun:35455/douyu/8721095
 #EXTINF:-1 tvg-name="过往1908" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/过往1908.png" group-title="🏛经典剧场",过往1908
 http://www.xzbn.site:35455/douyu/8721095
 #EXTINF:-1 tvg-name="过往1908" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/过往1908.png" group-title="🏛经典剧场",过往1908
+http://www.zhch682022.cn:35455/douyu/8721095
+#EXTINF:-1 tvg-name="过往1908" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/过往1908.png" group-title="🏛经典剧场",过往1908
 http://home.kuaidi521.com:35455/douyu/8721095
 #EXTINF:-1 tvg-name="过往1908" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/过往1908.png" group-title="🏛经典剧场",过往1908
 http://t8622699o8.vicp.fun:60024/douyu/8721095
-#EXTINF:-1 tvg-name="猫咪电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫咪电影.png" group-title="🏛经典剧场",猫咪电影
-http://yc.myds.me:35455/douyu/11673725
-#EXTINF:-1 tvg-name="猫咪电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫咪电影.png" group-title="🏛经典剧场",猫咪电影
-http://8.218.190.107/douyu/11673725
-#EXTINF:-1 tvg-name="猫咪电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫咪电影.png" group-title="🏛经典剧场",猫咪电影
-http://www.douzhicloud.site:35455/douyu/11673725
-#EXTINF:-1 tvg-name="猫咪电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫咪电影.png" group-title="🏛经典剧场",猫咪电影
-http://3501776.xyz:35455/douyu/11673725
-#EXTINF:-1 tvg-name="猫咪电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫咪电影.png" group-title="🏛经典剧场",猫咪电影
-http://1.94.31.214:35455/douyu/11673725
-#EXTINF:-1 tvg-name="猫咪电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫咪电影.png" group-title="🏛经典剧场",猫咪电影
-http://xiaoya.crccxw.top:35455/douyu/11673725
-#EXTINF:-1 tvg-name="猫咪电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫咪电影.png" group-title="🏛经典剧场",猫咪电影
-http://227w9f5104.zicp.fun:35455/douyu/11673725
-#EXTINF:-1 tvg-name="猫咪电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫咪电影.png" group-title="🏛经典剧场",猫咪电影
-http://www.xzbn.site:35455/douyu/11673725
-#EXTINF:-1 tvg-name="猫咪电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫咪电影.png" group-title="🏛经典剧场",猫咪电影
-http://home.kuaidi521.com:35455/douyu/11673725
-#EXTINF:-1 tvg-name="猫咪电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫咪电影.png" group-title="🏛经典剧场",猫咪电影
-http://t8622699o8.vicp.fun:60024/douyu/11673725
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠剧场.png" group-title="🏛经典剧场",武侠剧场
+http://yc.myds.me:35455/douyu/9285904
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠剧场.png" group-title="🏛经典剧场",武侠剧场
+http://www.douzhicloud.site:35455/douyu/9285904
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠剧场.png" group-title="🏛经典剧场",武侠剧场
+http://3501776.xyz:35455/douyu/9285904
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠剧场.png" group-title="🏛经典剧场",武侠剧场
+http://1.94.31.214:35455/douyu/9285904
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠剧场.png" group-title="🏛经典剧场",武侠剧场
+http://xiaoya.crccxw.top:35455/douyu/9285904
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠剧场.png" group-title="🏛经典剧场",武侠剧场
+http://227w9f5104.zicp.fun:35455/douyu/9285904
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠剧场.png" group-title="🏛经典剧场",武侠剧场
+http://www.xzbn.site:35455/douyu/9285904
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠剧场.png" group-title="🏛经典剧场",武侠剧场
+http://www.zhch682022.cn:35455/douyu/9285904
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠剧场.png" group-title="🏛经典剧场",武侠剧场
+http://home.kuaidi521.com:35455/douyu/9285904
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠剧场.png" group-title="🏛经典剧场",武侠剧场
+http://t8622699o8.vicp.fun:60024/douyu/9285904
 #EXTINF:-1 tvg-name="破案港剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/破案港剧.png" group-title="🏛经典剧场",破案港剧
 http://yc.myds.me:35455/yy/1350670730
-#EXTINF:-1 tvg-name="破案港剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/破案港剧.png" group-title="🏛经典剧场",破案港剧
-http://8.218.190.107/yy/1350670730
 #EXTINF:-1 tvg-name="破案港剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/破案港剧.png" group-title="🏛经典剧场",破案港剧
 http://www.douzhicloud.site:35455/yy/1350670730
 #EXTINF:-1 tvg-name="破案港剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/破案港剧.png" group-title="🏛经典剧场",破案港剧
@@ -3572,13 +3710,19 @@ http://227w9f5104.zicp.fun:35455/yy/1350670730
 #EXTINF:-1 tvg-name="破案港剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/破案港剧.png" group-title="🏛经典剧场",破案港剧
 http://www.xzbn.site:35455/yy/1350670730
 #EXTINF:-1 tvg-name="破案港剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/破案港剧.png" group-title="🏛经典剧场",破案港剧
+http://www.zhch682022.cn:35455/yy/1350670730
+#EXTINF:-1 tvg-name="破案港剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/破案港剧.png" group-title="🏛经典剧场",破案港剧
 http://home.kuaidi521.com:35455/yy/1350670730
 #EXTINF:-1 tvg-name="破案港剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/破案港剧.png" group-title="🏛经典剧场",破案港剧
 http://t8622699o8.vicp.fun:60024/yy/1350670730
+#EXTINF:-1 tvg-name="破案港剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/破案港剧.png" group-title="🏛经典剧场",破案港剧
+http://jiaojirentv.top/2020/yy.php?id=1350670730
+#EXTINF:-1 tvg-name="破案港剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/破案港剧.png" group-title="🏛经典剧场",破案港剧
+https://lunbo.freetv.top/yy/1350670730
+#EXTINF:-1 tvg-name="破案港剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/破案港剧.png" group-title="🏛经典剧场",破案港剧
+https://live.metshop.top/yy/1350670730
 #EXTINF:-1 tvg-name="探秘中华美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探秘中华美食.png" group-title="🏛经典剧场",探秘中华美食
 http://yc.myds.me:35455/yy/1354930954
-#EXTINF:-1 tvg-name="探秘中华美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探秘中华美食.png" group-title="🏛经典剧场",探秘中华美食
-http://8.218.190.107/yy/1354930954
 #EXTINF:-1 tvg-name="探秘中华美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探秘中华美食.png" group-title="🏛经典剧场",探秘中华美食
 http://www.douzhicloud.site:35455/yy/1354930954
 #EXTINF:-1 tvg-name="探秘中华美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探秘中华美食.png" group-title="🏛经典剧场",探秘中华美食
@@ -3592,13 +3736,19 @@ http://227w9f5104.zicp.fun:35455/yy/1354930954
 #EXTINF:-1 tvg-name="探秘中华美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探秘中华美食.png" group-title="🏛经典剧场",探秘中华美食
 http://www.xzbn.site:35455/yy/1354930954
 #EXTINF:-1 tvg-name="探秘中华美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探秘中华美食.png" group-title="🏛经典剧场",探秘中华美食
+http://www.zhch682022.cn:35455/yy/1354930954
+#EXTINF:-1 tvg-name="探秘中华美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探秘中华美食.png" group-title="🏛经典剧场",探秘中华美食
 http://home.kuaidi521.com:35455/yy/1354930954
 #EXTINF:-1 tvg-name="探秘中华美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探秘中华美食.png" group-title="🏛经典剧场",探秘中华美食
 http://t8622699o8.vicp.fun:60024/yy/1354930954
+#EXTINF:-1 tvg-name="探秘中华美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探秘中华美食.png" group-title="🏛经典剧场",探秘中华美食
+http://jiaojirentv.top/2020/yy.php?id=1354930954
+#EXTINF:-1 tvg-name="探秘中华美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探秘中华美食.png" group-title="🏛经典剧场",探秘中华美食
+https://lunbo.freetv.top/yy/1354930954
+#EXTINF:-1 tvg-name="探秘中华美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探秘中华美食.png" group-title="🏛经典剧场",探秘中华美食
+https://live.metshop.top/yy/1354930954
 #EXTINF:-1 tvg-name="萌萌爱追剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萌萌爱追剧.png" group-title="🏛经典剧场",萌萌爱追剧
 http://yc.myds.me:35455/yy/1382745093
-#EXTINF:-1 tvg-name="萌萌爱追剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萌萌爱追剧.png" group-title="🏛经典剧场",萌萌爱追剧
-http://8.218.190.107/yy/1382745093
 #EXTINF:-1 tvg-name="萌萌爱追剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萌萌爱追剧.png" group-title="🏛经典剧场",萌萌爱追剧
 http://www.douzhicloud.site:35455/yy/1382745093
 #EXTINF:-1 tvg-name="萌萌爱追剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萌萌爱追剧.png" group-title="🏛经典剧场",萌萌爱追剧
@@ -3612,13 +3762,13 @@ http://227w9f5104.zicp.fun:35455/yy/1382745093
 #EXTINF:-1 tvg-name="萌萌爱追剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萌萌爱追剧.png" group-title="🏛经典剧场",萌萌爱追剧
 http://www.xzbn.site:35455/yy/1382745093
 #EXTINF:-1 tvg-name="萌萌爱追剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萌萌爱追剧.png" group-title="🏛经典剧场",萌萌爱追剧
+http://www.zhch682022.cn:35455/yy/1382745093
+#EXTINF:-1 tvg-name="萌萌爱追剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萌萌爱追剧.png" group-title="🏛经典剧场",萌萌爱追剧
 http://home.kuaidi521.com:35455/yy/1382745093
 #EXTINF:-1 tvg-name="萌萌爱追剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/萌萌爱追剧.png" group-title="🏛经典剧场",萌萌爱追剧
 http://t8622699o8.vicp.fun:60024/yy/1382745093
 #EXTINF:-1 tvg-name="国外院线动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国外院线动作大片.png" group-title="🏛经典剧场",国外院线动作大片
 http://yc.myds.me:35455/yy/1382735570
-#EXTINF:-1 tvg-name="国外院线动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国外院线动作大片.png" group-title="🏛经典剧场",国外院线动作大片
-http://8.218.190.107/yy/1382735570
 #EXTINF:-1 tvg-name="国外院线动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国外院线动作大片.png" group-title="🏛经典剧场",国外院线动作大片
 http://www.douzhicloud.site:35455/yy/1382735570
 #EXTINF:-1 tvg-name="国外院线动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国外院线动作大片.png" group-title="🏛经典剧场",国外院线动作大片
@@ -3632,93 +3782,105 @@ http://227w9f5104.zicp.fun:35455/yy/1382735570
 #EXTINF:-1 tvg-name="国外院线动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国外院线动作大片.png" group-title="🏛经典剧场",国外院线动作大片
 http://www.xzbn.site:35455/yy/1382735570
 #EXTINF:-1 tvg-name="国外院线动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国外院线动作大片.png" group-title="🏛经典剧场",国外院线动作大片
+http://www.zhch682022.cn:35455/yy/1382735570
+#EXTINF:-1 tvg-name="国外院线动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国外院线动作大片.png" group-title="🏛经典剧场",国外院线动作大片
 http://home.kuaidi521.com:35455/yy/1382735570
 #EXTINF:-1 tvg-name="国外院线动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国外院线动作大片.png" group-title="🏛经典剧场",国外院线动作大片
 http://t8622699o8.vicp.fun:60024/yy/1382735570
-#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
-http://yc.myds.me:35455/yy/1382851599
+#EXTINF:-1 tvg-name="国外院线动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国外院线动作大片.png" group-title="🏛经典剧场",国外院线动作大片
+http://jiaojirentv.top/2020/yy.php?id=1382735570
+#EXTINF:-1 tvg-name="国外院线动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国外院线动作大片.png" group-title="🏛经典剧场",国外院线动作大片
+https://lunbo.freetv.top/yy/1382735570
+#EXTINF:-1 tvg-name="国外院线动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国外院线动作大片.png" group-title="🏛经典剧场",国外院线动作大片
+https://live.metshop.top/yy/1382735570
+#EXTINF:-1 tvg-name="国产大片电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产大片电影.png" group-title="🏛经典剧场",国产大片电影
+http://yc.myds.me:35455/yy/1354926655
+#EXTINF:-1 tvg-name="国产大片电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产大片电影.png" group-title="🏛经典剧场",国产大片电影
+http://www.douzhicloud.site:35455/yy/1354926655
+#EXTINF:-1 tvg-name="国产大片电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产大片电影.png" group-title="🏛经典剧场",国产大片电影
+http://3501776.xyz:35455/yy/1354926655
+#EXTINF:-1 tvg-name="国产大片电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产大片电影.png" group-title="🏛经典剧场",国产大片电影
+http://1.94.31.214:35455/yy/1354926655
+#EXTINF:-1 tvg-name="国产大片电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产大片电影.png" group-title="🏛经典剧场",国产大片电影
+http://xiaoya.crccxw.top:35455/yy/1354926655
+#EXTINF:-1 tvg-name="国产大片电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产大片电影.png" group-title="🏛经典剧场",国产大片电影
+http://227w9f5104.zicp.fun:35455/yy/1354926655
+#EXTINF:-1 tvg-name="国产大片电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产大片电影.png" group-title="🏛经典剧场",国产大片电影
+http://www.xzbn.site:35455/yy/1354926655
+#EXTINF:-1 tvg-name="国产大片电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产大片电影.png" group-title="🏛经典剧场",国产大片电影
+http://www.zhch682022.cn:35455/yy/1354926655
+#EXTINF:-1 tvg-name="国产大片电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产大片电影.png" group-title="🏛经典剧场",国产大片电影
+http://home.kuaidi521.com:35455/yy/1354926655
+#EXTINF:-1 tvg-name="国产大片电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产大片电影.png" group-title="🏛经典剧场",国产大片电影
+http://t8622699o8.vicp.fun:60024/yy/1354926655
+#EXTINF:-1 tvg-name="国产大片电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产大片电影.png" group-title="🏛经典剧场",国产大片电影
+http://jiaojirentv.top/2020/yy.php?id=1354926655
+#EXTINF:-1 tvg-name="国产大片电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产大片电影.png" group-title="🏛经典剧场",国产大片电影
+https://lunbo.freetv.top/yy/1354926655
+#EXTINF:-1 tvg-name="国产大片电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产大片电影.png" group-title="🏛经典剧场",国产大片电影
+https://live.metshop.top/yy/1354926655
 #EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
 http://yc.myds.me:35455/yy/1354930939
 #EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
 http://120.77.28.4:8648/yy.php?id=1382736802
 #EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
-http://8.218.190.107/yy/1382851599
-#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
-http://8.218.190.107/yy/1354930939
-#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
-http://www.douzhicloud.site:35455/yy/1382851599
-#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
 http://www.douzhicloud.site:35455/yy/1354930939
-#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
-http://3501776.xyz:35455/yy/1382851599
 #EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
 http://3501776.xyz:35455/yy/1354930939
 #EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
-http://1.94.31.214:35455/yy/1382851599
-#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
 http://1.94.31.214:35455/yy/1354930939
-#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
-http://xiaoya.crccxw.top:35455/yy/1382851599
 #EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
 http://xiaoya.crccxw.top:35455/yy/1354930939
 #EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
-http://227w9f5104.zicp.fun:35455/yy/1382851599
-#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
 http://227w9f5104.zicp.fun:35455/yy/1354930939
-#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
-http://www.xzbn.site:35455/yy/1382851599
 #EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
 http://www.xzbn.site:35455/yy/1354930939
 #EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
-http://home.kuaidi521.com:35455/yy/1382851599
+http://www.zhch682022.cn:35455/yy/1354930939
 #EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
 http://home.kuaidi521.com:35455/yy/1354930939
 #EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
-http://t8622699o8.vicp.fun:60024/yy/1382851599
-#EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
-http://yc.myds.me:35455/yy/1382851597
+http://t8622699o8.vicp.fun:60024/yy/1354930939
+#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
+http://jiaojirentv.top/2020/yy.php?id=1354930939
+#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
+http://jiaojirentv.top/2020/yy.php?id=1354930965
+#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
+https://lunbo.freetv.top/yy/1354930939
+#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
+https://lunbo.freetv.top/yy/1354930965
+#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
+https://live.metshop.top/yy/1354930939
+#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
+https://live.metshop.top/yy/1354930965
 #EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
 http://yc.myds.me:35455/yy/1354888736
 #EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
-http://8.218.190.107/yy/1382851597
-#EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
-http://8.218.190.107/yy/1354888736
-#EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
-http://www.douzhicloud.site:35455/yy/1382851597
-#EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
 http://www.douzhicloud.site:35455/yy/1354888736
-#EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
-http://3501776.xyz:35455/yy/1382851597
 #EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
 http://3501776.xyz:35455/yy/1354888736
 #EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
-http://1.94.31.214:35455/yy/1382851597
-#EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
 http://1.94.31.214:35455/yy/1354888736
-#EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
-http://xiaoya.crccxw.top:35455/yy/1382851597
 #EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
 http://xiaoya.crccxw.top:35455/yy/1354888736
 #EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
-http://227w9f5104.zicp.fun:35455/yy/1382851597
-#EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
 http://227w9f5104.zicp.fun:35455/yy/1354888736
-#EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
-http://www.xzbn.site:35455/yy/1382851597
 #EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
 http://www.xzbn.site:35455/yy/1354888736
 #EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
-http://home.kuaidi521.com:35455/yy/1382851597
+http://www.zhch682022.cn:35455/yy/1354888736
 #EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
 http://home.kuaidi521.com:35455/yy/1354888736
 #EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
-http://t8622699o8.vicp.fun:60024/yy/1382851597
-#EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
 http://t8622699o8.vicp.fun:60024/yy/1354888736
+#EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
+http://jiaojirentv.top/2020/yy.php?id=1354888736
+#EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
+https://lunbo.freetv.top/yy/1354888736
+#EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
+https://live.metshop.top/yy/1354888736
 #EXTINF:-1 tvg-name="法证先锋Ⅲ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅲ.png" group-title="🏛经典剧场",法证先锋Ⅲ
 http://yc.myds.me:35455/yy/1382736802
-#EXTINF:-1 tvg-name="法证先锋Ⅲ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅲ.png" group-title="🏛经典剧场",法证先锋Ⅲ
-http://8.218.190.107/yy/1382736802
 #EXTINF:-1 tvg-name="法证先锋Ⅲ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅲ.png" group-title="🏛经典剧场",法证先锋Ⅲ
 http://www.douzhicloud.site:35455/yy/1382736802
 #EXTINF:-1 tvg-name="法证先锋Ⅲ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅲ.png" group-title="🏛经典剧场",法证先锋Ⅲ
@@ -3732,13 +3894,19 @@ http://227w9f5104.zicp.fun:35455/yy/1382736802
 #EXTINF:-1 tvg-name="法证先锋Ⅲ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅲ.png" group-title="🏛经典剧场",法证先锋Ⅲ
 http://www.xzbn.site:35455/yy/1382736802
 #EXTINF:-1 tvg-name="法证先锋Ⅲ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅲ.png" group-title="🏛经典剧场",法证先锋Ⅲ
+http://www.zhch682022.cn:35455/yy/1382736802
+#EXTINF:-1 tvg-name="法证先锋Ⅲ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅲ.png" group-title="🏛经典剧场",法证先锋Ⅲ
 http://home.kuaidi521.com:35455/yy/1382736802
 #EXTINF:-1 tvg-name="法证先锋Ⅲ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅲ.png" group-title="🏛经典剧场",法证先锋Ⅲ
 http://t8622699o8.vicp.fun:60024/yy/1382736802
+#EXTINF:-1 tvg-name="法证先锋Ⅲ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅲ.png" group-title="🏛经典剧场",法证先锋Ⅲ
+http://jiaojirentv.top/2020/yy.php?id=1382736802
+#EXTINF:-1 tvg-name="法证先锋Ⅲ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅲ.png" group-title="🏛经典剧场",法证先锋Ⅲ
+https://lunbo.freetv.top/yy/1382736802
+#EXTINF:-1 tvg-name="法证先锋Ⅲ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅲ.png" group-title="🏛经典剧场",法证先锋Ⅲ
+https://live.metshop.top/yy/1382736802
 #EXTINF:-1 tvg-name="陪你一起看好剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陪你一起看好剧.png" group-title="🏛经典剧场",陪你一起看好剧
 http://yc.myds.me:35455/yy/1354932359
-#EXTINF:-1 tvg-name="陪你一起看好剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陪你一起看好剧.png" group-title="🏛经典剧场",陪你一起看好剧
-http://8.218.190.107/yy/1354932359
 #EXTINF:-1 tvg-name="陪你一起看好剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陪你一起看好剧.png" group-title="🏛经典剧场",陪你一起看好剧
 http://www.douzhicloud.site:35455/yy/1354932359
 #EXTINF:-1 tvg-name="陪你一起看好剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陪你一起看好剧.png" group-title="🏛经典剧场",陪你一起看好剧
@@ -3752,55 +3920,53 @@ http://227w9f5104.zicp.fun:35455/yy/1354932359
 #EXTINF:-1 tvg-name="陪你一起看好剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陪你一起看好剧.png" group-title="🏛经典剧场",陪你一起看好剧
 http://www.xzbn.site:35455/yy/1354932359
 #EXTINF:-1 tvg-name="陪你一起看好剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陪你一起看好剧.png" group-title="🏛经典剧场",陪你一起看好剧
+http://www.zhch682022.cn:35455/yy/1354932359
+#EXTINF:-1 tvg-name="陪你一起看好剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陪你一起看好剧.png" group-title="🏛经典剧场",陪你一起看好剧
 http://home.kuaidi521.com:35455/yy/1354932359
 #EXTINF:-1 tvg-name="陪你一起看好剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陪你一起看好剧.png" group-title="🏛经典剧场",陪你一起看好剧
 http://t8622699o8.vicp.fun:60024/yy/1354932359
 #EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
-http://yc.myds.me:35455/yy/1354930926
-#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
 http://yc.myds.me:35455/yy/1354888739
-#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
-http://8.218.190.107/yy/1354930926
-#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
-http://8.218.190.107/yy/1354888739
-#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
-http://www.douzhicloud.site:35455/yy/1354930926
 #EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
 http://www.douzhicloud.site:35455/yy/1354888739
 #EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
-http://3501776.xyz:35455/yy/1354930926
-#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
 http://3501776.xyz:35455/yy/1354888739
-#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
-http://1.94.31.214:35455/yy/1354930926
 #EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
 http://1.94.31.214:35455/yy/1354888739
 #EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
-http://xiaoya.crccxw.top:35455/yy/1354930926
-#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
 http://xiaoya.crccxw.top:35455/yy/1354888739
-#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
-http://227w9f5104.zicp.fun:35455/yy/1354930926
 #EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
 http://227w9f5104.zicp.fun:35455/yy/1354888739
 #EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
-http://www.xzbn.site:35455/yy/1354930926
-#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
 http://www.xzbn.site:35455/yy/1354888739
 #EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
-http://home.kuaidi521.com:35455/yy/1354930926
+http://www.zhch682022.cn:35455/yy/1354888739
 #EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
 http://home.kuaidi521.com:35455/yy/1354888739
 #EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
-http://t8622699o8.vicp.fun:60024/yy/1354930926
-#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
 http://t8622699o8.vicp.fun:60024/yy/1354888739
+#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
+http://jiaojirentv.top/2020/yy.php?id=1354888739
+#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
+http://jiaojirentv.top/2020/yy.php?id=1354930887
+#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
+http://jiaojirentv.top/2020/yy.php?id=1354930816
+#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
+https://lunbo.freetv.top/yy/1354888739
+#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
+https://lunbo.freetv.top/yy/1354930887
+#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
+https://lunbo.freetv.top/yy/1354930816
+#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
+https://live.metshop.top/yy/1354888739
+#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
+https://live.metshop.top/yy/1354930887
+#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
+https://live.metshop.top/yy/1354930816
 #EXTINF:-1 tvg-name="科幻电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/科幻电影.png" group-title="🏛经典剧场",科幻电影
 http://yc.myds.me:35455/yy/1354930209
 #EXTINF:-1 tvg-name="科幻电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/科幻电影.png" group-title="🏛经典剧场",科幻电影
 http://epg.112114.eu.org/douyu/12010522
-#EXTINF:-1 tvg-name="科幻电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/科幻电影.png" group-title="🏛经典剧场",科幻电影
-http://8.218.190.107/yy/1354930209
 #EXTINF:-1 tvg-name="科幻电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/科幻电影.png" group-title="🏛经典剧场",科幻电影
 http://www.douzhicloud.site:35455/yy/1354930209
 #EXTINF:-1 tvg-name="科幻电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/科幻电影.png" group-title="🏛经典剧场",科幻电影
@@ -3814,13 +3980,13 @@ http://227w9f5104.zicp.fun:35455/yy/1354930209
 #EXTINF:-1 tvg-name="科幻电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/科幻电影.png" group-title="🏛经典剧场",科幻电影
 http://www.xzbn.site:35455/yy/1354930209
 #EXTINF:-1 tvg-name="科幻电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/科幻电影.png" group-title="🏛经典剧场",科幻电影
+http://www.zhch682022.cn:35455/yy/1354930209
+#EXTINF:-1 tvg-name="科幻电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/科幻电影.png" group-title="🏛经典剧场",科幻电影
 http://home.kuaidi521.com:35455/yy/1354930209
 #EXTINF:-1 tvg-name="科幻电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/科幻电影.png" group-title="🏛经典剧场",科幻电影
 http://t8622699o8.vicp.fun:60024/yy/1354930209
 #EXTINF:-1 tvg-name="经典电影重温" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影重温.png" group-title="🏛经典剧场",经典电影重温
 http://yc.myds.me:35455/yy/1382793140
-#EXTINF:-1 tvg-name="经典电影重温" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影重温.png" group-title="🏛经典剧场",经典电影重温
-http://8.218.190.107/yy/1382793140
 #EXTINF:-1 tvg-name="经典电影重温" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影重温.png" group-title="🏛经典剧场",经典电影重温
 http://www.douzhicloud.site:35455/yy/1382793140
 #EXTINF:-1 tvg-name="经典电影重温" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影重温.png" group-title="🏛经典剧场",经典电影重温
@@ -3834,13 +4000,13 @@ http://227w9f5104.zicp.fun:35455/yy/1382793140
 #EXTINF:-1 tvg-name="经典电影重温" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影重温.png" group-title="🏛经典剧场",经典电影重温
 http://www.xzbn.site:35455/yy/1382793140
 #EXTINF:-1 tvg-name="经典电影重温" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影重温.png" group-title="🏛经典剧场",经典电影重温
+http://www.zhch682022.cn:35455/yy/1382793140
+#EXTINF:-1 tvg-name="经典电影重温" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影重温.png" group-title="🏛经典剧场",经典电影重温
 http://home.kuaidi521.com:35455/yy/1382793140
 #EXTINF:-1 tvg-name="经典电影重温" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影重温.png" group-title="🏛经典剧场",经典电影重温
 http://t8622699o8.vicp.fun:60024/yy/1382793140
 #EXTINF:-1 tvg-name="国产喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产喜剧.png" group-title="🏛经典剧场",国产喜剧
 http://yc.myds.me:35455/yy/1382735584
-#EXTINF:-1 tvg-name="国产喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产喜剧.png" group-title="🏛经典剧场",国产喜剧
-http://8.218.190.107/yy/1382735584
 #EXTINF:-1 tvg-name="国产喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产喜剧.png" group-title="🏛经典剧场",国产喜剧
 http://www.douzhicloud.site:35455/yy/1382735584
 #EXTINF:-1 tvg-name="国产喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产喜剧.png" group-title="🏛经典剧场",国产喜剧
@@ -3854,13 +4020,21 @@ http://227w9f5104.zicp.fun:35455/yy/1382735584
 #EXTINF:-1 tvg-name="国产喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产喜剧.png" group-title="🏛经典剧场",国产喜剧
 http://www.xzbn.site:35455/yy/1382735584
 #EXTINF:-1 tvg-name="国产喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产喜剧.png" group-title="🏛经典剧场",国产喜剧
+http://www.zhch682022.cn:35455/yy/1382735584
+#EXTINF:-1 tvg-name="国产喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产喜剧.png" group-title="🏛经典剧场",国产喜剧
 http://home.kuaidi521.com:35455/yy/1382735584
 #EXTINF:-1 tvg-name="国产喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产喜剧.png" group-title="🏛经典剧场",国产喜剧
 http://t8622699o8.vicp.fun:60024/yy/1382735584
+#EXTINF:-1 tvg-name="国产喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产喜剧.png" group-title="🏛经典剧场",国产喜剧
+http://rihou.cc:555/huyad.php?id=11602044
+#EXTINF:-1 tvg-name="国产喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产喜剧.png" group-title="🏛经典剧场",国产喜剧
+http://jiaojirentv.top/2020/yy.php?id=1382735584
+#EXTINF:-1 tvg-name="国产喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产喜剧.png" group-title="🏛经典剧场",国产喜剧
+https://lunbo.freetv.top/yy/1382735584
+#EXTINF:-1 tvg-name="国产喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产喜剧.png" group-title="🏛经典剧场",国产喜剧
+https://live.metshop.top/yy/1382735584
 #EXTINF:-1 tvg-name="高分港剧合集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高分港剧合集.png" group-title="🏛经典剧场",高分港剧合集
 http://yc.myds.me:35455/yy/1382735542
-#EXTINF:-1 tvg-name="高分港剧合集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高分港剧合集.png" group-title="🏛经典剧场",高分港剧合集
-http://8.218.190.107/yy/1382735542
 #EXTINF:-1 tvg-name="高分港剧合集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高分港剧合集.png" group-title="🏛经典剧场",高分港剧合集
 http://www.douzhicloud.site:35455/yy/1382735542
 #EXTINF:-1 tvg-name="高分港剧合集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高分港剧合集.png" group-title="🏛经典剧场",高分港剧合集
@@ -3874,13 +4048,13 @@ http://227w9f5104.zicp.fun:35455/yy/1382735542
 #EXTINF:-1 tvg-name="高分港剧合集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高分港剧合集.png" group-title="🏛经典剧场",高分港剧合集
 http://www.xzbn.site:35455/yy/1382735542
 #EXTINF:-1 tvg-name="高分港剧合集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高分港剧合集.png" group-title="🏛经典剧场",高分港剧合集
+http://www.zhch682022.cn:35455/yy/1382735542
+#EXTINF:-1 tvg-name="高分港剧合集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高分港剧合集.png" group-title="🏛经典剧场",高分港剧合集
 http://home.kuaidi521.com:35455/yy/1382735542
 #EXTINF:-1 tvg-name="高分港剧合集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高分港剧合集.png" group-title="🏛经典剧场",高分港剧合集
 http://t8622699o8.vicp.fun:60024/yy/1382735542
 #EXTINF:-1 tvg-name="烧脑悬疑电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/烧脑悬疑电影.png" group-title="🏛经典剧场",烧脑悬疑电影
 http://yc.myds.me:35455/yy/1382735571
-#EXTINF:-1 tvg-name="烧脑悬疑电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/烧脑悬疑电影.png" group-title="🏛经典剧场",烧脑悬疑电影
-http://8.218.190.107/yy/1382735571
 #EXTINF:-1 tvg-name="烧脑悬疑电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/烧脑悬疑电影.png" group-title="🏛经典剧场",烧脑悬疑电影
 http://www.douzhicloud.site:35455/yy/1382735571
 #EXTINF:-1 tvg-name="烧脑悬疑电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/烧脑悬疑电影.png" group-title="🏛经典剧场",烧脑悬疑电影
@@ -3893,6 +4067,8 @@ http://xiaoya.crccxw.top:35455/yy/1382735571
 http://227w9f5104.zicp.fun:35455/yy/1382735571
 #EXTINF:-1 tvg-name="烧脑悬疑电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/烧脑悬疑电影.png" group-title="🏛经典剧场",烧脑悬疑电影
 http://www.xzbn.site:35455/yy/1382735571
+#EXTINF:-1 tvg-name="烧脑悬疑电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/烧脑悬疑电影.png" group-title="🏛经典剧场",烧脑悬疑电影
+http://www.zhch682022.cn:35455/yy/1382735571
 #EXTINF:-1 tvg-name="烧脑悬疑电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/烧脑悬疑电影.png" group-title="🏛经典剧场",烧脑悬疑电影
 http://home.kuaidi521.com:35455/yy/1382735571
 #EXTINF:-1 tvg-name="烧脑悬疑电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/烧脑悬疑电影.png" group-title="🏛经典剧场",烧脑悬疑电影

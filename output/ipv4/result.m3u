@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-03-18 13:26:00
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-03-18 18:34:46
 http://yc.myds.me:35455/gaoma/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://yc.myds.me:35455/gaoma/cctv1.m3u8
@@ -118,17 +118,19 @@ http://yc.myds.me:35455/yy/1354143938
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
 http://yc.myds.me:35455/yy/1382747970
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
+http://yc.myds.me:35455/yy/25055036
+#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
+http://yc.myds.me:35455/yy/1354768831
+#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
 http://yc.myds.me:35455/yy/22777075
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
 http://yc.myds.me:35455/yy/23993334
 #EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
-http://yc.myds.me:35455/yy/25055036
-#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
 http://yc.myds.me:35455/yy/1382788679
-#EXTINF:-1 tvg-name="动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫.png" group-title="🪁动画频道",动漫
-http://yc.myds.me:35455/yy/1354768831
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="🪁动画频道",卡酷少儿
 http://yc.myds.me:35455/bptv/10000100000000050000000003904597.m3u8
+#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
+http://yc.myds.me:35455/yy/24180320
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://yc.myds.me:35455/bptv/10000100000000050000000004796942.m3u8
 #EXTINF:-1 tvg-name="魔术师丶西索" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魔术师丶西索.png" group-title="🪁动画频道",魔术师丶西索
@@ -168,15 +170,11 @@ http://yc.myds.me:35455/yy/1351762426
 #EXTINF:-1 tvg-name="神探狄仁杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神探狄仁杰.png" group-title="🏛经典剧场",神探狄仁杰
 http://yc.myds.me:35455/yy/38338029
 #EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
-http://yc.myds.me:35455/yy/1354755003
-#EXTINF:-1 tvg-name="倚天屠龙记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/倚天屠龙记.png" group-title="🏛经典剧场",倚天屠龙记
 http://yc.myds.me:35455/yy/33300793
 #EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
-http://yc.myds.me:35455/yy/1382745191
-#EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
 http://yc.myds.me:35455/yy/1353892468
-#EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
-http://yc.myds.me:35455/yy/1382851594
+#EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宰相刘罗锅.png" group-title="🏛经典剧场",宰相刘罗锅
+http://yc.myds.me:35455/yy/1382745191
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
 http://yc.myds.me:35455/yy/1354926650
 #EXTINF:-1 tvg-name="父母爱情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/父母爱情.png" group-title="🏛经典剧场",父母爱情
@@ -194,9 +192,9 @@ http://yc.myds.me:35455/yy/1353392400
 #EXTINF:-1 tvg-name="爱情公寓vip" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓vip.png" group-title="🏛经典剧场",爱情公寓vip
 http://yc.myds.me:35455/douyu/6863367
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
-http://yc.myds.me:35455/yy/21092633
-#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
 http://yc.myds.me:35455/yy/1355652820
+#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🏛经典剧场",武林外传
+http://yc.myds.me:35455/yy/21092633
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🏛经典剧场",铁齿铜牙纪晓岚
 http://yc.myds.me:35455/yy/1354143978
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🏛经典剧场",铁齿铜牙纪晓岚
@@ -217,10 +215,12 @@ http://yc.myds.me:35455/yy/1354770516
 http://yc.myds.me:35455/douyu/7812810
 #EXTINF:-1 tvg-name="奇缘港台影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/奇缘港台影院.png" group-title="🏛经典剧场",奇缘港台影院
 http://yc.myds.me:35455/yy/1354889234
+#EXTINF:-1 tvg-name="怀旧经典影视汇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧经典影视汇.png" group-title="🏛经典剧场",怀旧经典影视汇
+http://yc.myds.me:35455/douyu/12143022
 #EXTINF:-1 tvg-name="过往1908" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/过往1908.png" group-title="🏛经典剧场",过往1908
 http://yc.myds.me:35455/douyu/8721095
-#EXTINF:-1 tvg-name="猫咪电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/猫咪电影.png" group-title="🏛经典剧场",猫咪电影
-http://yc.myds.me:35455/douyu/11673725
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠剧场.png" group-title="🏛经典剧场",武侠剧场
+http://yc.myds.me:35455/douyu/9285904
 #EXTINF:-1 tvg-name="破案港剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/破案港剧.png" group-title="🏛经典剧场",破案港剧
 http://yc.myds.me:35455/yy/1350670730
 #EXTINF:-1 tvg-name="探秘中华美食" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探秘中华美食.png" group-title="🏛经典剧场",探秘中华美食
@@ -229,20 +229,16 @@ http://yc.myds.me:35455/yy/1354930954
 http://yc.myds.me:35455/yy/1382745093
 #EXTINF:-1 tvg-name="国外院线动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国外院线动作大片.png" group-title="🏛经典剧场",国外院线动作大片
 http://yc.myds.me:35455/yy/1382735570
-#EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
-http://yc.myds.me:35455/yy/1382851599
+#EXTINF:-1 tvg-name="国产大片电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产大片电影.png" group-title="🏛经典剧场",国产大片电影
+http://yc.myds.me:35455/yy/1354926655
 #EXTINF:-1 tvg-name="法证先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋.png" group-title="🏛经典剧场",法证先锋
 http://yc.myds.me:35455/yy/1354930939
-#EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
-http://yc.myds.me:35455/yy/1382851597
 #EXTINF:-1 tvg-name="法证先锋Ⅱ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅱ.png" group-title="🏛经典剧场",法证先锋Ⅱ
 http://yc.myds.me:35455/yy/1354888736
 #EXTINF:-1 tvg-name="法证先锋Ⅲ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法证先锋Ⅲ.png" group-title="🏛经典剧场",法证先锋Ⅲ
 http://yc.myds.me:35455/yy/1382736802
 #EXTINF:-1 tvg-name="陪你一起看好剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陪你一起看好剧.png" group-title="🏛经典剧场",陪你一起看好剧
 http://yc.myds.me:35455/yy/1354932359
-#EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
-http://yc.myds.me:35455/yy/1354930926
 #EXTINF:-1 tvg-name="动作大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作大片.png" group-title="🏛经典剧场",动作大片
 http://yc.myds.me:35455/yy/1354888739
 #EXTINF:-1 tvg-name="科幻电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/科幻电影.png" group-title="🏛经典剧场",科幻电影
