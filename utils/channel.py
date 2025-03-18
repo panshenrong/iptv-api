@@ -496,9 +496,9 @@ def append_data_to_info_data(info_data, cate, name, data, origin=None, check=Tru
                     if ipv_type_data:
                         ipv_type = ipv_type_data.get(host, None)
                     if not ipv_type:
-                        ipv_type = "ipv6" if check_url_ipv6(pure_url) else "ipv6"
+                        ipv_type = "ipv6" if check_url_ipv6(pure_url) else "ipv4"
                         if ipv_type_data:
-                            ipv_type_data[host] = ipv_type
+                            ipv_type_data[host] = "ipv4"
                 # if not white_info:
                 #     if host in url_hosts:
                 #         for p_url in urls:
