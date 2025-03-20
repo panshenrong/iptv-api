@@ -60,3 +60,4 @@ https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u
 http://so.owo.vin/cctv
 http://so.owo.vin/卫视
 https://cccimg.com/down.php/4deb6aff9477cc57f91cee16522a32ca.txt&xsjcm
+https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/bjtv.txt
