@@ -4,3 +4,4 @@
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 # http://yc.myds.me:35455/tv.m3u
 # http://yc.myds.me:35455
+https://gdcucc.v1.mk
