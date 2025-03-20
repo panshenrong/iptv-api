@@ -18,3 +18,5 @@ https://p2.bdstatic.com
 2409:8087
 chinamobile
 txmov2.a.kwimgs.com
+tv.bfsu.edu.cn
+php.jdshipin.com
