@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-20 18:40:12,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2025-03-21 07:50:01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -215,7 +215,6 @@ CCTV-16,http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV-16,http://yc.myds.me:35455/gaoma/cctv16.m3u8
 CCTV-16,http://yc.myds.me:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV-16,http://z.b.bkpcp.top/m.php?id=cctv16
-CCTV-16,https://ldcctvwbcdhwy.cntv.myhwcdn.cn/ldcctvwbcd/cdrmldcctv16_1/index.m3u8
 CCTV-17,http://iptv.huuc.edu.cn/hls/cctv17hd.m3u8
 CCTV-17,http://ip.lpop.cn:35455/gaoma/cctv17.m3u8
 CCTV-17,http://nas.suntao.online:35455/gaoma/cctv17.m3u8
@@ -249,11 +248,9 @@ CCTV-17,https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv17_1/index.m
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://goo.bkpcp.top/mg/zjws
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江卫视,http://lu.wqwqwq.sbs/itv/1000000005000265031.m3u8?cdn=ystenlive
 浙江卫视,http://tvbox6.com/tv/bfgd.php?id=094
@@ -261,10 +258,6 @@ CCTV-17,https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv17_1/index.m
 浙江卫视,http://yc.myds.me:35455/itv/5000000004000007275.m3u8?cdn=bestzb
 浙江卫视,http://yc.myds.me:35455/itv/1000000001000014260.m3u8?cdn=ystenlive
 浙江卫视,http://yc.myds.me:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
 湖南卫视,http://j.x.bkpcp.top/jx/HUNANHD
@@ -391,6 +384,7 @@ CCTV-17,https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv17_1/index.m
 河南卫视,http://tvbox6.com/tv/bfgd.php?id=104
 河南卫视,http://alvin.ergotron.net:8000/udp/239.77.1.229:5146
 河南卫视,http://yc.myds.me:35455/itv/5000000011000031119.m3u8?cdn=bestzb
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=97b71663d51e38d6a26135f0bec91a53&wsTime=1742490112
 吉林卫视,http://iptv.huuc.edu.cn/hls/jlhd.m3u8
 吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
 吉林卫视,http://j.x.bkpcp.top/jx/JILHD
@@ -516,12 +510,12 @@ BTV-重温经典,http://yc.myds.me:35455/bptv/10000100000000050000000003887494.m
 
 🪁动画频道,#genre#
 动漫,http://yc.myds.me:35455/yy/26664495
-动漫,http://yc.myds.me:35455/yy/1382747970
-动漫,http://yc.myds.me:35455/yy/22777075
-动漫,http://yc.myds.me:35455/yy/25055036
-动漫,http://yc.myds.me:35455/yy/1382788679
 动漫,http://yc.myds.me:35455/yy/1354768831
 动漫,http://yc.myds.me:35455/yy/23993334
+动漫,http://yc.myds.me:35455/yy/1382747970
+动漫,http://yc.myds.me:35455/yy/1382788679
+动漫,http://yc.myds.me:35455/yy/22777075
+动漫,http://yc.myds.me:35455/yy/25055036
 卡酷少儿,http://iptv.huuc.edu.cn/hls/btv5hd.m3u8
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 经典动漫,http://yc.myds.me:35455/yy/24180320
@@ -587,16 +581,17 @@ BTV-重温经典,http://yc.myds.me:35455/bptv/10000100000000050000000003887494.m
 倚天屠龙记,http://yc.myds.me:35455/yy/1354755003
 倚天屠龙记,http://yc.myds.me:35455/yy/33300793
 倚天屠龙记,https://live.metshop.top/yy/1449856066
-宰相刘罗锅,http://yc.myds.me:35455/yy/1382745191
 宰相刘罗锅,http://yc.myds.me:35455/yy/1353892468
+宰相刘罗锅,http://yc.myds.me:35455/yy/1382745191
 宰相刘罗锅,http://cfss.cc/cdn/yy/1382745191.flv
 宰相刘罗锅,https://live.metshop.top/yy/1382745191
 宰相刘罗锅,https://live.metshop.top/yy/1353892468
 父母爱情,http://yc.myds.me:35455/yy/1354926650
+父母爱情,http://yc.myds.me:35455/yy/1382851594
 父母爱情,http://yc.myds.me:35455/yy/1382746276
 父母爱情,https://live.metshop.top/yy/1354926650
-士兵突击,http://yc.myds.me:35455/yy/1382828766
 士兵突击,http://yc.myds.me:35455/yy/1382851600
+士兵突击,http://yc.myds.me:35455/yy/1382828766
 士兵突击,https://live.metshop.top/yy/1382828766
 林正英-经典电影,http://yc.myds.me:35455/yy/34229877
 林正英-经典电影,http://yc.myds.me:35455/yy/1461666695
@@ -608,8 +603,8 @@ BTV-重温经典,http://yc.myds.me:35455/bptv/10000100000000050000000003887494.m
 武林外传,https://live.metshop.top/yy/1355914397
 武林外传,https://live.metshop.top/yy/1353852605
 武林外传,https://live.metshop.top/yy/1394000563
-铁齿铜牙纪晓岚,http://yc.myds.me:35455/yy/1382701828
 铁齿铜牙纪晓岚,http://yc.myds.me:35455/yy/1354143978
+铁齿铜牙纪晓岚,http://yc.myds.me:35455/yy/1382701828
 隋唐英雄传,http://yc.myds.me:35455/yy/1352475619
 隋唐英雄传,http://cfss.cc/cdn/yy/1352475619.flv
 隋唐英雄传,https://live.metshop.top/yy/1352475619
@@ -633,8 +628,10 @@ v刺猬猪v,http://yc.myds.me:35455/douyu/2436390
 国产大片电影,http://yc.myds.me:35455/yy/1354926655
 国产大片电影,https://live.metshop.top/yy/1354926655
 法证先锋,http://yc.myds.me:35455/yy/1354930939
+法证先锋,http://yc.myds.me:35455/yy/1382851599
 法证先锋,https://live.metshop.top/yy/1354930939
 法证先锋,https://live.metshop.top/yy/1354930965
+法证先锋Ⅱ,http://yc.myds.me:35455/yy/1382851597
 法证先锋Ⅱ,http://yc.myds.me:35455/yy/1354888736
 法证先锋Ⅱ,https://live.metshop.top/yy/1354888736
 法证先锋Ⅲ,http://yc.myds.me:35455/yy/1382736802
