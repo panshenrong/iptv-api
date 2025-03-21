@@ -20,3 +20,4 @@ chinamobile
 txmov2.a.kwimgs.com
 tv.bfsu.edu.cn
 php.jdshipin.com
+lu.wqwqwq.sbs
