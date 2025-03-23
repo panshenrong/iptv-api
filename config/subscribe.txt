@@ -31,9 +31,9 @@ http://www.douzhicloud.site:35455/douyuyqk.m3u
 http://3501776.xyz:35455/tv.m3u
 http://3501776.xyz:35455/yylunbo.m3u
 http://3501776.xyz:35455/douyuyqk.m3u
-http://1.94.31.214:35455/tv.m3u
-http://1.94.31.214:35455/yylunbo.m3u
-http://1.94.31.214:35455/douyuyqk.m3u
+http://nas.suntao.online:35455/tv.m3u
+http://nas.suntao.online:35455/yylunbo.m3u
+http://nas.suntao.online:35455/douyuyqk.m3u
 http://xiaoya.crccxw.top:35455/tv.m3u
 http://xiaoya.crccxw.top:35455/yylunbo.m3u
 http://xiaoya.crccxw.top:35455/douyuyqk.m3u
