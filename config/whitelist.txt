@@ -5,4 +5,3 @@
 # http://yc.myds.me:35455/tv.m3u
 # http://yc.myds.me:35455
 https://gdcucc.v1.mk
-http://nas.suntao.online:35455/gaoma
