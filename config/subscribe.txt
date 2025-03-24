@@ -22,9 +22,6 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 http://yc.myds.me:35455/tv.m3u
 http://yc.myds.me:35455/douyuyqk.m3u
 http://yc.myds.me:35455/yylunbo.m3u
-http://8.218.190.107:80/tv.m3u
-http://8.218.190.107:80/yylunbo.m3u
-http://8.218.190.107:80/douyuyqk.m3u
 http://www.douzhicloud.site:35455/tv.m3u
 http://www.douzhicloud.site:35455/yylunbo.m3u
 http://www.douzhicloud.site:35455/douyuyqk.m3u
@@ -37,9 +34,6 @@ http://nas.suntao.online:35455/douyuyqk.m3u
 http://xiaoya.crccxw.top:35455/tv.m3u
 http://xiaoya.crccxw.top:35455/yylunbo.m3u
 http://xiaoya.crccxw.top:35455/douyuyqk.m3u
-http://allinone.1436789.xyz:6006/tv.m3u
-http://allinone.1436789.xyz:6006/yylunbo.m3u
-http://allinone.1436789.xyz:6006/douyuyqk.m3u
 http://227w9f5104.zicp.fun:35455/tv.m3u
 http://227w9f5104.zicp.fun:35455/yylunbo.m3u
 http://227w9f5104.zicp.fun:35455/douyuyqk.m3u
