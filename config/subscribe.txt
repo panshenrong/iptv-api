@@ -18,7 +18,6 @@ https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
 # 自定义
-# http://www.freetv.top/migu.m3u
 http://yc.myds.me:35455/tv.m3u
 http://yc.myds.me:35455/douyuyqk.m3u
 http://yc.myds.me:35455/yylunbo.m3u
@@ -48,8 +47,11 @@ http://t8622699o8.vicp.fun:60024/yylunbo.m3u
 http://t8622699o8.vicp.fun:60024/douyuyqk.m3u
 https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
 https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u
-http://so.owo.vin/cctv
-http://so.owo.vin/卫视
 https://cccimg.com/down.php/4deb6aff9477cc57f91cee16522a32ca.txt&xsjcm
 https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/bjtv.txt
 http://8.138.7.223/2025.txt
+
+# 备用
+# http://so.owo.vin/cctv
+# http://so.owo.vin/卫视
+# http://www.freetv.top/migu.m3u
