@@ -46,9 +46,6 @@ http://227w9f5104.zicp.fun:35455/douyuyqk.m3u
 http://www.xzbn.site:35455/tv.m3u
 http://www.xzbn.site:35455/yylunbo.m3u
 http://www.xzbn.site:35455/douyuyqk.m3u
-http://www.zhch682022.cn:35455/tv.m3u
-http://www.zhch682022.cn:35455/yylunbo.m3u
-http://www.zhch682022.cn:35455/douyuyqk.m3u
 http://home.kuaidi521.com:35455//tv.m3u
 http://home.kuaidi521.com:35455//yylunbo.m3u
 http://home.kuaidi521.com:35455//douyuyqk.m3u
@@ -61,3 +58,4 @@ http://so.owo.vin/cctv
 http://so.owo.vin/卫视
 https://cccimg.com/down.php/4deb6aff9477cc57f91cee16522a32ca.txt&xsjcm
 https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/bjtv.txt
+http://8.138.7.223/2025.txt
