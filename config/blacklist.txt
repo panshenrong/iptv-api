@@ -28,3 +28,4 @@ https://api.olelive.com/
 /udp
 http://tvbox6.com/tv
 http://kkk.jjjj.jiduo.me
+/itv/
