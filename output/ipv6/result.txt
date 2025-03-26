@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-26 07:40:46,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2025-03-26 18:33:36,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -8,7 +8,6 @@ CCTV-1,http://nas.suntao.online:35455/gaoma/cctv1.m3u8
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV-1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV-1,https://tv.iill.top/migu/cctv1
-CCTV-1,http://zjzcf.synology.me:35455/gaoma/cctv1.m3u8
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
@@ -16,7 +15,6 @@ CCTV-2,http://goo.bkpcp.top/mg/CCTV2
 CCTV-2,http://yc.myds.me:35455/gaoma/cctv2.m3u8
 CCTV-2,http://nas.suntao.online:35455/gaoma/cctv2.m3u8
 CCTV-2,https://tv.iill.top/migu/cctv2
-CCTV-2,http://zjzcf.synology.me:35455/gaoma/cctv2.m3u8
 CCTV-2,http://goo.bkpcp.top/mg/cctv2
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
@@ -57,8 +55,6 @@ CCTV-5+,http://goo.bkpcp.top/mg/cctv5p
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV-6,http://13937899.xyz:35455/gaoma/cctv6.m3u8
-CCTV-6,https://live.iill.top/1905/cctv6
-CCTV-6,http://nas.suntao.online:35455/gaoma/cctv6.m3u8
 CCTV-6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV-6,https://tv.iill.top/migu/cctv6
 CCTV-6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
@@ -86,7 +82,6 @@ CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 CCTV-9,http://yc.myds.me:35455/gaoma/cctv9.m3u8
 CCTV-9,http://nas.suntao.online:35455/gaoma/cctv9.m3u8
 CCTV-9,https://tv.iill.top/migu/cctv9
-CCTV-9,http://zjzcf.synology.me:35455/gaoma/cctv9.m3u8
 CCTV-9,http://goo.bkpcp.top/mg/cctv9
 CCTV-9,https://www.nettvpro.xyz/player/videojs.php?url=http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/012/2024078603.m3u8
 CCTV-9,https://www.nettvpro.xyz/player/videojs.php?url=http://117.161.12.116/live/program/live/cctv9hd8m/8000000/mnf.m3u8
@@ -101,7 +96,6 @@ CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10
 CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV-11,http://yc.myds.me:35455/gaoma/cctv11.m3u8
 CCTV-11,http://nas.suntao.online:35455/gaoma/cctv11.m3u8
-CCTV-11,https://tv.iill.top/migu/cctv11
 CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
 CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV-12,http://z.b.bkpcp.top/m.php?id=CCTV-12社会与法社会与法
@@ -195,6 +189,7 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 广西卫视,http://iptv.huuc.edu.cn/hls/gxhd.m3u8
 广西卫视,http://z.b.bkpcp.top/m.php?id=gxws
 广西卫视,http://goo.bkpcp.top/mg/gxws
+广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8
 贵州卫视,http://222.222.168.124:8000/hls/48/index.m3u8
 贵州卫视,http://iptv.huuc.edu.cn/hls/gzhd.m3u8
 贵州卫视,http://z.b.bkpcp.top/m.php?id=gzws
@@ -205,7 +200,6 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 海南卫视,http://z.b.bkpcp.top/m.php?id=hinws
 海南卫视,http://j.x.bkpcp.top/jx/HAINHD
 海南卫视,http://goo.bkpcp.top/mg/hinws
-海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=7b9872731742921637
 河北卫视,http://222.222.168.124:8000/hls/22/index.m3u8
 河北卫视,http://iptv.huuc.edu.cn/hls/hebtv.m3u8
 河北卫视,http://z.b.bkpcp.top/m.php?id=hbws
@@ -216,13 +210,11 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
 河南卫视,http://j.x.bkpcp.top/jx/HENHD
 河南卫视,http://goo.bkpcp.top/mg/hnws
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6197e0934da0b0fc314c7e6c7b74ac5d&wsTime=1742878524
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=b592455ab277f09b1fdc5858aace9929&wsTime=1742706024
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=4c81919024ee206d6c6f291c7597b67e&wsTime=1742533226
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9059e2b22cb412178e5bf9c1bf817284&wsTime=1742965221
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f3879a20b8154a59e9c231f08af1f72f&wsTime=1742792118
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=02a94d9298a19aa2216d98e90a7d26b3&wsTime=1742014827
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=04e32a3bd883f58fb71ed009a6a8b7c6&wsTime=1740891619
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e4d37ab1c90aa54f7004dc1adc5e2bf7&wsTime=1740805221
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=103f23d8624e0fdbb7c9605327a25dba&wsTime=1742929390
 吉林卫视,http://iptv.huuc.edu.cn/hls/jlhd.m3u8
 吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
 吉林卫视,http://j.x.bkpcp.top/jx/JILHD
@@ -292,11 +284,13 @@ BTV-重温经典,http://nas.suntao.online:35455/bptv/100001000000000500000000038
 动漫,http://yc.myds.me:35455/yy/22777075
 动漫,http://yc.myds.me:35455/yy/23993334
 动漫,http://yc.myds.me:35455/yy/25055036
+动漫,http://yc.myds.me:35455/yy/1382788679
 动漫,http://nas.suntao.online:35455/yy/26664495
 动漫,http://nas.suntao.online:35455/yy/1382747970
 动漫,http://nas.suntao.online:35455/yy/22777075
 动漫,http://nas.suntao.online:35455/yy/23993334
 动漫,http://nas.suntao.online:35455/yy/25055036
+动漫,http://nas.suntao.online:35455/yy/1382788679
 卡酷少儿,http://iptv.huuc.edu.cn/hls/btv10hd.m3u8
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 经典动漫,http://yc.myds.me:35455/yy/24180320
@@ -314,20 +308,20 @@ BTV-重温经典,http://nas.suntao.online:35455/bptv/100001000000000500000000038
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
-火影忍者,http://live.iill.top/douyu.php?id=1997723
 火影忍者,https://live.iill.top/douyu/1997723
+火影忍者,http://live.iill.top/douyu.php?id=1997723
 
 🏛YY斗鱼,#genre#
 师落,http://yc.myds.me:35455/douyu/6911044
 师落,http://nas.suntao.online:35455/douyu/6911044
-v刺猬猪v,http://yc.myds.me:35455/douyu/2436390
-v刺猬猪v,http://nas.suntao.online:35455/douyu/2436390
 老卓电影,http://yc.myds.me:35455/yy/1354770516
 老卓电影,http://nas.suntao.online:35455/yy/1354770516
 万事通熊猫,http://yc.myds.me:35455/douyu/7812810
 万事通熊猫,http://nas.suntao.online:35455/douyu/7812810
 奇缘港台影院,http://yc.myds.me:35455/yy/1354889234
 奇缘港台影院,http://nas.suntao.online:35455/yy/1354889234
+怀旧经典影视汇,http://yc.myds.me:35455/douyu/12143022
+怀旧经典影视汇,http://nas.suntao.online:35455/douyu/12143022
 武侠剧场,http://yc.myds.me:35455/douyu/9285904
 武侠剧场,http://nas.suntao.online:35455/douyu/9285904
 破案港剧,http://yc.myds.me:35455/yy/1350670730
@@ -345,14 +339,10 @@ v刺猬猪v,http://nas.suntao.online:35455/douyu/2436390
 国产大片电影,http://nas.suntao.online:35455/yy/1354926655
 国产大片电影,https://live.metshop.top/yy/1354926655
 法证先锋,http://yc.myds.me:35455/yy/1354930939
-法证先锋,http://yc.myds.me:35455/yy/1382851599
 法证先锋,http://nas.suntao.online:35455/yy/1354930939
-法证先锋,http://nas.suntao.online:35455/yy/1382851599
 法证先锋,https://live.metshop.top/yy/1354930939
 法证先锋,https://live.metshop.top/yy/1354930965
-法证先锋Ⅱ,http://yc.myds.me:35455/yy/1382851597
 法证先锋Ⅱ,http://yc.myds.me:35455/yy/1354888736
-法证先锋Ⅱ,http://nas.suntao.online:35455/yy/1382851597
 法证先锋Ⅱ,http://nas.suntao.online:35455/yy/1354888736
 法证先锋Ⅱ,https://live.metshop.top/yy/1354888736
 法证先锋Ⅲ,http://yc.myds.me:35455/yy/1382736802
