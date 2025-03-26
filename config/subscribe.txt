@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
 https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u
 https://cccimg.com/down.php/4deb6aff9477cc57f91cee16522a32ca.txt&xsjcm
 https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/bjtv.txt
-http://8.138.7.223/2025.txt
+http://zhibo.feylen.top/fltv/users/user_channel.txt
 
 # 备用
 # http://so.owo.vin/cctv
