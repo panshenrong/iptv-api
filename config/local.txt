@@ -57,7 +57,6 @@ CCTV17,http://iptv.huuc.edu.cn/hls/cctv17hd.m3u8
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 星空卫视,http://iptv.huuc.edu.cn//hls/startv.m3u8
 金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
-甘肃卫视,http://iptv.huuc.edu.cn/hls/gshd.m3u8
 山西卫视,http://iptv.huuc.edu.cn/hls/sxrtv.m3u8
 CHC动作电影,http://iptv.huuc.edu.cn/hls/chcatv.m3u8
 CHC家庭影院,http://iptv.huuc.edu.cn/hls/chctv.m3u8
