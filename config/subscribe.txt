@@ -55,3 +55,4 @@ http://zhibo.feylen.top/fltv/users/user_channel.txt
 # http://so.owo.vin/cctv
 # http://so.owo.vin/卫视
 # http://www.freetv.top/migu.m3u
+# http://8.138.7.223/live.txt
