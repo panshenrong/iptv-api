@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-31 20:45:16,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2025-04-01 07:34:50,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -85,6 +85,7 @@ CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-13,http://j.x.bkpcp.top/jx/CCTV13HD
+CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-13,http://yc.myds.me:35455/gaoma/cctv13.m3u8
 CCTV-13,http://nas.suntao.online:35455/gaoma/cctv13.m3u8
@@ -125,10 +126,16 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://goo.bkpcp.top/mg/zjws
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
 湖南卫视,http://j.x.bkpcp.top/jx/HUNANHD
@@ -176,6 +183,7 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 海南卫视,http://z.b.bkpcp.top/m.php?id=hinws
 海南卫视,http://j.x.bkpcp.top/jx/HAINHD
 海南卫视,http://goo.bkpcp.top/mg/hinws
+海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=51d3b7491743440308
 河北卫视,http://222.222.168.124:8000/hls/22/index.m3u8
 河北卫视,http://iptv.huuc.edu.cn/hls/hebtv.m3u8
 河北卫视,http://z.b.bkpcp.top/m.php?id=hbws
@@ -260,23 +268,24 @@ BTV-重温经典,http://nas.suntao.online:35455/bptv/100001000000000500000000038
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 
 🪁动画频道,#genre#
-动漫,http://yc.myds.me:35455/yy/1382747970
 动漫,http://yc.myds.me:35455/yy/26664495
+动漫,http://yc.myds.me:35455/yy/1382747970
 动漫,http://yc.myds.me:35455/yy/22777075
 动漫,http://yc.myds.me:35455/yy/25055036
-动漫,http://yc.myds.me:35455/yy/1382788679
 动漫,http://yc.myds.me:35455/yy/23993334
-动漫,http://nas.suntao.online:35455/yy/1382747970
+动漫,http://yc.myds.me:35455/yy/1382788679
 动漫,http://nas.suntao.online:35455/yy/26664495
+动漫,http://nas.suntao.online:35455/yy/1382747970
 动漫,http://nas.suntao.online:35455/yy/22777075
 动漫,http://nas.suntao.online:35455/yy/25055036
-动漫,http://nas.suntao.online:35455/yy/1382788679
 动漫,http://nas.suntao.online:35455/yy/23993334
+动漫,http://nas.suntao.online:35455/yy/1382788679
 卡酷少儿,http://iptv.huuc.edu.cn/hls/btv10hd.m3u8
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 经典动漫,http://yc.myds.me:35455/yy/24180320
 经典动漫,http://nas.suntao.online:35455/yy/24180320
 经典动漫,https://live.metshop.top/yy/22777075
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
@@ -292,8 +301,6 @@ BTV-重温经典,http://nas.suntao.online:35455/bptv/100001000000000500000000038
 师落,http://nas.suntao.online:35455/douyu/6911044
 v刺猬猪v,http://yc.myds.me:35455/douyu/2436390
 v刺猬猪v,http://nas.suntao.online:35455/douyu/2436390
-老卓电影,http://yc.myds.me:35455/yy/1354770516
-老卓电影,http://nas.suntao.online:35455/yy/1354770516
 万事通熊猫,http://yc.myds.me:35455/douyu/7812810
 万事通熊猫,http://nas.suntao.online:35455/douyu/7812810
 奇缘港台影院,http://yc.myds.me:35455/yy/1354889234
@@ -316,10 +323,10 @@ v刺猬猪v,http://nas.suntao.online:35455/douyu/2436390
 国产大片电影,http://yc.myds.me:35455/yy/1354926655
 国产大片电影,http://nas.suntao.online:35455/yy/1354926655
 国产大片电影,https://live.metshop.top/yy/1354926655
-法证先锋,http://yc.myds.me:35455/yy/1382851599
 法证先锋,http://yc.myds.me:35455/yy/1354930939
-法证先锋,http://nas.suntao.online:35455/yy/1382851599
+法证先锋,http://yc.myds.me:35455/yy/1382851599
 法证先锋,http://nas.suntao.online:35455/yy/1354930939
+法证先锋,http://nas.suntao.online:35455/yy/1382851599
 法证先锋,https://live.metshop.top/yy/1354930939
 法证先锋,https://live.metshop.top/yy/1354930965
 法证先锋Ⅱ,http://yc.myds.me:35455/yy/1382851597
