@@ -51,6 +51,7 @@ https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/bjtv.txt
 http://zhibo.feylen.top/fltv/users/user_channel.txt
 https://tv.iill.top/m3u/Live
 https://tv.iill.top/m3u/Gather
+https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 
 # 备用
 # http://so.owo.vin/cctv
