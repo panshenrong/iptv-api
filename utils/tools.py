@@ -178,7 +178,7 @@ def get_total_urls(info_list: list[ChannelData], ipv_type_prefer, origin_type_pr
             if open_url_info:
                 w_info_value = w_info.partition("!")[2] or "白名单"
                 w_url = add_url_info(w_url, w_info_value)
-            info.url = w_url
+            info["url"] = w_url
             total_urls.append(info)
             continue
 
