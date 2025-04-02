@@ -84,7 +84,7 @@ def get_channel_data_from_file(channels, file, whitelist, open_local=config.open
                 if live_data and name in live_data:
                     for live_url in live_data[name]:
                         category_dict[name].append(format_channel_data(live_url, "live"))
-                if hls_data and  name in hls_data:
+                if hls_data and name in hls_data:
                     for hls_url in hls_data[name]:
                         category_dict[name].append(format_channel_data(hls_url, "hls"))
                 if open_local:
@@ -956,6 +956,7 @@ def get_channel_data_cache_with_compare(data, new_data):
                     if base_url in new_urls:
                         resolution = new_urls[base_url]
                         updated_data.append({
+                            "id": info["id"],
                             "url": url,
                             "date": info["date"],
                             "resolution": resolution,
@@ -963,19 +964,3 @@ def get_channel_data_cache_with_compare(data, new_data):
                             "ipv_type": info["ipv_type"]
                         })
                 data[cate][name] = updated_data
-
-
-def format_channel_url_info(data):
-    """
-    Format channel url info, remove cache, add resolution to url
-    """
-    for obj in data.values():
-        for url_info in obj.values():
-            for i, info in enumerate(url_info):
-                url_info[i] = {
-                    "url": remove_cache_info(info["url"]),
-                    "date": info["date"],
-                    "resolution": info["resolution"],
-                    "origin": info["origin"],
-                    "ipv_type": info["ipv_type"]
-                }
