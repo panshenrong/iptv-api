@@ -15,7 +15,6 @@ https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
 # 自定义
 http://yc.myds.me:35455/tv.m3u
@@ -50,6 +49,8 @@ https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u
 https://cccimg.com/down.php/4deb6aff9477cc57f91cee16522a32ca.txt&xsjcm
 https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/bjtv.txt
 http://zhibo.feylen.top/fltv/users/user_channel.txt
+https://tv.iill.top/m3u/Live
+https://tv.iill.top/m3u/Gather
 
 # 备用
 # http://so.owo.vin/cctv
