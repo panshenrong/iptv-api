@@ -349,7 +349,7 @@ def get_ip_address():
     Get the IP address
     """
     host = os.getenv("APP_HOST", config.app_host)
-    port = os.getenv("SERVER_PORT", config.app_port)
+    port = os.getenv("APP_PORT", config.app_port)
     return f"{host}:{port}"
 
 
