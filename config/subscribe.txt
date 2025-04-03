@@ -1,0 +1,60 @@
+# 这是订阅源列表，每行一个订阅地址
+# This is a list of subscription sources, with one subscription address per line
+
+https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+https://gh-proxy.com/raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://gh-proxy.com/raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://gh-proxy.com/raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+https://gh-proxy.com/raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
+https://gh-proxy.com/raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
+https://gh-proxy.com/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+https://gh-proxy.com/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+https://gh-proxy.com/raw.githubusercontent.com/hero1898/tv/main/IPTV.m3u
+https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://gh-proxy.com/raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+
+# 自定义
+http://yc.myds.me:35455/tv.m3u
+http://yc.myds.me:35455/douyuyqk.m3u
+http://yc.myds.me:35455/yylunbo.m3u
+http://www.douzhicloud.site:35455/tv.m3u
+http://www.douzhicloud.site:35455/yylunbo.m3u
+http://www.douzhicloud.site:35455/douyuyqk.m3u
+http://3501776.xyz:35455/tv.m3u
+http://3501776.xyz:35455/yylunbo.m3u
+http://3501776.xyz:35455/douyuyqk.m3u
+http://nas.suntao.online:35455/tv.m3u
+http://nas.suntao.online:35455/yylunbo.m3u
+http://nas.suntao.online:35455/douyuyqk.m3u
+http://xiaoya.crccxw.top:35455/tv.m3u
+http://xiaoya.crccxw.top:35455/yylunbo.m3u
+http://xiaoya.crccxw.top:35455/douyuyqk.m3u
+http://227w9f5104.zicp.fun:35455/tv.m3u
+http://227w9f5104.zicp.fun:35455/yylunbo.m3u
+http://227w9f5104.zicp.fun:35455/douyuyqk.m3u
+http://www.xzbn.site:35455/tv.m3u
+http://www.xzbn.site:35455/yylunbo.m3u
+http://www.xzbn.site:35455/douyuyqk.m3u
+http://home.kuaidi521.com:35455//tv.m3u
+http://home.kuaidi521.com:35455//yylunbo.m3u
+http://home.kuaidi521.com:35455//douyuyqk.m3u
+http://t8622699o8.vicp.fun:60024/tv.m3u
+http://t8622699o8.vicp.fun:60024/yylunbo.m3u
+http://t8622699o8.vicp.fun:60024/douyuyqk.m3u
+https://gh-proxy.com/raw.githubusercontent.com/wwb521/live/main/tv.m3u
+https://gh-proxy.com/raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u
+https://cccimg.com/down.php/c53d0978167a27d7b3db66e28fe4c3fe.txt
+https://gh-proxy.com/raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/bjtv.txt
+http://zhibo.feylen.top/fltv/users/user_channel.txt
+https://tv.iill.top/m3u/Live
+https://tv.iill.top/m3u/Gather
+https://gh-proxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+
+# 备用
+# http://so.owo.vin/cctv
+# http://so.owo.vin/卫视
+# http://www.freetv.top/migu.m3u
+# http://8.138.7.223/live.txt
