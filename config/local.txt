@@ -186,5 +186,5 @@ CCTV第一剧场,http://222.222.168.124:8000/hls/71/index.m3u8
 
 
 #自定义白名单
-广西卫视,https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8$!
+广西卫视,https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8$!
