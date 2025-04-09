@@ -159,7 +159,7 @@ CCTV17,http://222.222.168.124:8000/hls/16/index.m3u8$!
 四川卫视,http://222.222.168.124:8000/hls/44/index.m3u8
 重庆卫视,http://222.222.168.124:8000/hls/45/index.m3u8
 河南卫视,http://222.222.168.124:8000/hls/46/index.m3u8
-广西卫视,http://222.222.168.124:8000/hls/47/index.m3u8
+广西卫视,http://222.222.168.124:8000/hls/47/index.m3u8$!
 贵州卫视,http://222.222.168.124:8000/hls/48/index.m3u8$!
 江西卫视,http://222.222.168.124:8000/hls/49/index.m3u8
 吉林卫视,http://222.222.168.124:8000/hls/50/index.m3u8
@@ -186,5 +186,5 @@ CCTV第一剧场,http://222.222.168.124:8000/hls/71/index.m3u8
 
 
 #自定义白名单
-广西卫视,https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8
+甘肃卫视,https://hls.gstv.com.cn/skt649/w0w7k2.m3u8$!
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8$!
