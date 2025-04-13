@@ -186,5 +186,7 @@ CCTV第一剧场,http://222.222.168.124:8000/hls/71/index.m3u8
 
 
 #自定义白名单
+山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8$!
+云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8$!
 甘肃卫视,https://hls.gstv.com.cn/skt649/w0w7k2.m3u8$!
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8$!
