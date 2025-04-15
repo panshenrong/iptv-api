@@ -168,7 +168,7 @@ CCTV17,http://222.222.168.124:8000/hls/16/index.m3u8$!
 金鹰卡通,http://222.222.168.124:8000/hls/53/index.m3u8
 山东教育,http://222.222.168.124:8000/hls/54/index.m3u8
 中国交通,http://222.222.168.124:8000/hls/55/index.m3u8
-云南卫视,http://222.222.168.124:8000/hls/56/index.m3u8$!
+云南卫视,http://222.222.168.124:8000/hls/56/index.m3u8
 环球奇观,http://222.222.168.124:8000/hls/58/index.m3u8
 国学频道,http://222.222.168.124:8000/hls/59/index.m3u8
 早期教育,http://222.222.168.124:8000/hls/60/index.m3u8
@@ -186,6 +186,7 @@ CCTV第一剧场,http://222.222.168.124:8000/hls/71/index.m3u8
 
 
 #自定义白名单
+广西卫视,http://47.122.125.40:6666/hls/gxhd.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8$!
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8$!
 甘肃卫视,https://hls.gstv.com.cn/skt649/w0w7k2.m3u8$!
