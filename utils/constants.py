@@ -41,21 +41,26 @@ log_path = os.path.join(output_dir, "log/log.log")
 
 url_host_pattern = re.compile(r"((https?|rtmp|rtsp)://)?([^:@/]+(:[^:@/]*)?@)?(\[[0-9a-fA-F:]+]|([\w-]+\.)+[\w-]+)")
 
-url_pattern = re.compile(url_host_pattern.pattern + r"(.*)?")
+url_pattern = re.compile(r"(?P<url>" + url_host_pattern.pattern + r"(.*)?)")
 
 rt_url_pattern = re.compile(r"^(rtmp|rtsp)://.*$")
 
-rtp_pattern = re.compile(r"^([^,，]+)[,，]?(rtp://.*)$")
+rtp_pattern = re.compile(r"^(?P<name>[^,，]+)[,，]?(?P<url>rtp://.*)$")
 
-demo_txt_pattern = re.compile(r"^([^,，]+)[,，]?(?!#genre#)" + r"(" + url_pattern.pattern + r")?")
+demo_txt_pattern = re.compile(r"^(?P<name>[^,，]+)[,，]?(?!#genre#)" + r"(" + url_pattern.pattern + r")?")
 
-txt_pattern = re.compile(r"^([^,，]+)[,，](?!#genre#)" + r"(" + url_pattern.pattern + r")")
+txt_pattern = re.compile(r"^(?P<name>[^,，]+)[,，](?!#genre#)" + r"(" + url_pattern.pattern + r")")
 
-multiline_txt_pattern = re.compile(r"^([^,，]+)[,，](?!#genre#)" + r"(" + url_pattern.pattern + r")", re.MULTILINE)
+multiline_txt_pattern = re.compile(r"^(?P<name>[^,，]+)[,，](?!#genre#)" + r"(" + url_pattern.pattern + r")",
+                                   re.MULTILINE)
 
-m3u_pattern = re.compile(r"^#EXTINF:-1.*?[，,](.*?)\n" + r"(" + url_pattern.pattern + r")")
+m3u_pattern = re.compile(r"^#EXTINF:-1\s+(?P<attributes>[^,，]+)[，,](?P<name>.*?)\n" + r"(" + url_pattern.pattern + r")")
 
-multiline_m3u_pattern = re.compile(r"^#EXTINF:-1(?:[^\n]*?)(?:，|,)([^,]+)\s*\n" + r"(" + url_pattern.pattern + r")", re.MULTILINE)
+multiline_m3u_pattern = re.compile(
+    r"^#EXTINF:-1\s+(?P<attributes>[^,，]+)[，,](?P<name>.*?)\n(?P<options>(#EXTVLCOPT:.*\n)*?)" + r"(" + url_pattern.pattern + r")",
+    re.MULTILINE)
+
+key_value_pattern = re.compile(r'(?P<key>\w+)=(?P<value>\S+)')
 
 sub_pattern = re.compile(
     r"NewTV-|iHOT-|-BPTV|-HEVC|-50-FPS|-AVS|-|_|\((.*?)\)|（(.*?)）|\[(.*?)]|「(.*?)」| "
