@@ -38,3 +38,4 @@ jwplay.hebyun.com.cn
 live.zohi.tv
 /audio/
 rtsp://
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
