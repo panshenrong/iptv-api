@@ -17,9 +17,7 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://gh-proxy.com/raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 
 # 自定义
-http://www.douzhicloud.site:35455/tv.m3u
-http://www.douzhicloud.site:35455/yylunbo.m3u
-http://www.douzhicloud.site:35455/douyuyqk.m3u
+http://www.zhch682022.cn:35455/tv.m3u
 http://3501776.xyz:35455/tv.m3u
 http://3501776.xyz:35455/yylunbo.m3u
 http://3501776.xyz:35455/douyuyqk.m3u
