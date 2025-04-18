@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-18 06:42:19,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2025-04-18 18:54:25,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -10,7 +10,6 @@ CCTV-1,http://zjzcf.synology.me:35455/gaoma/cctv1.m3u8
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV-1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
-CCTV-1,https://event.pull.hebtv.com/jishi/cp3.m3u8
 CCTV-1,http://yc.myds.me:35455/gaoma/cctv2.m3u8
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
@@ -67,7 +66,6 @@ CCTV-6,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227325/index.m3u
 CCTV-6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV-6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV-6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
-CCTV-6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=4155
 CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-6,http://goo.bkpcp.top/mg/cctv6
 CCTV-7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
@@ -125,7 +123,6 @@ CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-13,http://j.x.bkpcp.top/jx/CCTV13HD
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-13,http://dsj.motem.top:8880/gaoma/cctv13.m3u8
 CCTV-13,http://nas.suntao.online:35455/gaoma/cctv13.m3u8
@@ -175,11 +172,17 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://goo.bkpcp.top/mg/zjws
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
 湖南卫视,http://j.x.bkpcp.top/jx/HUNANHD
@@ -263,7 +266,7 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
 河南卫视,http://j.x.bkpcp.top/jx/HENHD
 河南卫视,http://goo.bkpcp.top/mg/hnws
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7e7dea14a2f811538b8b25cf74e2cc11&wsTime=1744866030
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=c33c5ed2f54af667619446f444f75aa4&wsTime=1744952432
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e65e571b81747adaf1b4198ee57af848&wsTime=1743598817&wsSession=e01c5450b223b80ddc3f0811-174358441798695&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=b74ffe1ad4c0523f21b09290404a3ad8&wsTime=1744704033
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=68880313c473a39d63e97297f6613e92&wsTime=1744693228
@@ -272,7 +275,6 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=04e32a3bd883f58fb71ed009a6a8b7c6&wsTime=1740891619
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e4d37ab1c90aa54f7004dc1adc5e2bf7&wsTime=1740805221
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=72fc99b1e8d925eddcd1655e177157d5&wsTime=1744779628
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=4aa1827dd1b80eec0b88bb5e4b8af2bc&wsTime=1744913562
 吉林卫视,http://iptv.huuc.edu.cn/hls/jlhd.m3u8
 吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
@@ -313,7 +315,6 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 山西卫视,http://39.164.180.36:19901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://iptv.huuc.edu.cn/hls/sxrtv.m3u8
 山西卫视,http://j.x.bkpcp.top/jx/SXWS
-山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 山西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227191/index.m3u8
 陕西卫视,http://iptv.huuc.edu.cn/hls/sxhd.m3u8
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
