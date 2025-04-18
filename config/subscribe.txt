@@ -49,6 +49,7 @@ http://zhibo.feylen.top/fltv/users/user_channel.txt
 https://tv.iill.top/m3u/Live
 https://tv.iill.top/m3u/Gather
 https://gh-proxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+https://gh-proxy.com/raw.githubusercontent.com/250992941/iptv/main/st1.txt
 
 # 备用
 # http://so.owo.vin/cctv
