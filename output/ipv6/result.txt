@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-19 18:44:43,http://222.222.168.124:8000/hls/1/index.m3u8
+2025-04-20 06:42:37,http://222.222.168.124:8000/hls/1/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://222.222.168.124:8000/hls/1/index.m3u8
@@ -232,6 +232,7 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 海南卫视,http://goo.bkpcp.top/mg/hinws
 海南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226562/index.m3u8
 海南卫视,http://tvh.990066.xyz/stream/channelid/974420194?profile=pass
+海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=6f9cf91c1745084730
 河北卫视,http://222.222.168.124:8000/hls/22/index.m3u8
 河北卫视,http://iptv.huuc.edu.cn/hls/hebtv.m3u8
 河北卫视,http://z.b.bkpcp.top/m.php?id=hbws
@@ -258,6 +259,7 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=04e32a3bd883f58fb71ed009a6a8b7c6&wsTime=1740891619
 河南卫视,http://tvh.990066.xyz/stream/channelid/1375956460?profile=pass
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e4d37ab1c90aa54f7004dc1adc5e2bf7&wsTime=1740805221
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=fc8e78eed14714172a48ab6695830df1&wsTime=1745092871
 吉林卫视,http://222.222.168.124:8000/hls/50/index.m3u8
 吉林卫视,http://iptv.huuc.edu.cn/hls/jlhd.m3u8
 吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
