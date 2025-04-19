@@ -40,3 +40,4 @@ live.zohi.tv
 rtsp://
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 http://cntv.dfkj.live
+/gaoma/
