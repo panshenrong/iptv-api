@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-20 06:42:37,http://222.222.168.124:8000/hls/1/index.m3u8
+2025-04-20 08:22:51,http://222.222.168.124:8000/hls/1/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://222.222.168.124:8000/hls/1/index.m3u8
@@ -8,7 +8,6 @@ CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV-1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
 CCTV-1,http://tvh.990066.xyz/stream/channelid/267738118?profile=pass
-CCTV-1,https://event.pull.hebtv.com/jishi/cp3.m3u8
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
 CCTV-2,http://222.222.168.124:8000/hls/2/index.m3u8
@@ -100,7 +99,6 @@ CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV-12,http://goo.bkpcp.top/mg/cctv12
 CCTV-13,http://222.222.168.124:8000/hls/74/index.m3u8
 CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-13,http://j.x.bkpcp.top/jx/CCTV13HD
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
@@ -108,7 +106,6 @@ CCTV-13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227266/index.m3
 CCTV-13,http://tvh.990066.xyz/stream/channelid/881958927?profile=pass
 CCTV-13,http://goo.bkpcp.top/mg/cctv13
 CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227173/index.m3u8
 CCTV-14,http://tvh.990066.xyz/stream/channelid/1711109433?profile=pass
 CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
@@ -373,4 +370,3 @@ BTV-重温经典,http://yc.myds.me:35455/bptv/10000100000000050000000003887494.m
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
