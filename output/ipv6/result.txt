@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-20 08:22:51,http://222.222.168.124:8000/hls/1/index.m3u8
+2025-04-20 18:47:37,http://222.222.168.124:8000/hls/1/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://222.222.168.124:8000/hls/1/index.m3u8
@@ -139,12 +139,18 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://goo.bkpcp.top/mg/zjws
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
 浙江卫视,http://tvh.990066.xyz/stream/channelid/112875440?profile=pass
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 湖南卫视,http://222.222.168.124:8000/hls/30/index.m3u8
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
@@ -209,7 +215,6 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 广西卫视,http://z.b.bkpcp.top/m.php?id=gxws
 广西卫视,https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8
 广西卫视,http://goo.bkpcp.top/mg/gxws
-广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227242/index.m3u8
@@ -229,7 +234,6 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 海南卫视,http://goo.bkpcp.top/mg/hinws
 海南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226562/index.m3u8
 海南卫视,http://tvh.990066.xyz/stream/channelid/974420194?profile=pass
-海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=6f9cf91c1745084730
 河北卫视,http://222.222.168.124:8000/hls/22/index.m3u8
 河北卫视,http://iptv.huuc.edu.cn/hls/hebtv.m3u8
 河北卫视,http://z.b.bkpcp.top/m.php?id=hbws
@@ -256,7 +260,6 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=04e32a3bd883f58fb71ed009a6a8b7c6&wsTime=1740891619
 河南卫视,http://tvh.990066.xyz/stream/channelid/1375956460?profile=pass
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e4d37ab1c90aa54f7004dc1adc5e2bf7&wsTime=1740805221
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=fc8e78eed14714172a48ab6695830df1&wsTime=1745092871
 吉林卫视,http://222.222.168.124:8000/hls/50/index.m3u8
 吉林卫视,http://iptv.huuc.edu.cn/hls/jlhd.m3u8
 吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
@@ -355,10 +358,8 @@ CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f368602447269195
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC动作电影,http://data.3g.yy.com/live/hls/1382735573/1382735573
 BTV-重温经典,http://yc.myds.me:35455/bptv/10000100000000050000000003887494.m3u8
-淘BABY,http://yc.myds.me:35455/bptv/10000100000000050000000003887496.m3u8
 淘电影,http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
 淘电影,http://nas.suntao.online:35455/bptv/10000100000000050000000003887498.m3u8
-淘剧场,http://yc.myds.me:35455/bptv/10000100000000050000000003887497.m3u8
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 
 🪁动画频道,#genre#
