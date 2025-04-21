@@ -25,7 +25,7 @@ tv.bfsu.edu.cn
 jdshipin
 sb
 alvin.ergotron.net
-/rtp
+rtp://
 52tb.xyz
 https://api.olelive.com/
 /udp
