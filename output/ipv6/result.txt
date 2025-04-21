@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-21 18:43:55,http://60.26.15.7:9901/tsfile/live/16008_1.m3u8?key=txiptv&playlive=1&authid=0
+2025-04-22 06:48:59,http://60.26.15.7:9901/tsfile/live/16008_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
 CCTV-1,http://60.26.15.7:9901/tsfile/live/16008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -8,6 +8,7 @@ CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV-1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
 CCTV-1,http://tvh.990066.xyz/stream/channelid/267738118?profile=pass
+CCTV-1,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
 CCTV-2,http://60.26.15.7:9901/tsfile/live/16009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -30,17 +31,17 @@ CCTV-4,http://z.b.bkpcp.top/m.php?id=CCTV-4国际
 CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8
 CCTV-4,http://tvh.990066.xyz/stream/channelid/56105852?profile=pass
-CCTV-4,https://www.nettvpro.xyz/player/videojs.php?url=http://117.161.12.116/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-4,https://www.nettvpro.xyz/player/videojs.php?url=http://117.161.12.116/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 CCTV-4,http://goo.bkpcp.top/mg/cctv4
 CCTV-5,http://60.26.15.7:9901/tsfile/live/16012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-5,http://webmail.axxe.top:4022/rtp/239.3.1.173:8001
 CCTV-5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227323/index.m3u8
 CCTV-5,http://tvh.990066.xyz/stream/channelid/1808923791?profile=pass
+CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV-5,https://ldcctvwbcdcnc.v.wscdns.com/ldcctvwbcd/cdrmldcctv5plus_1_720P/playlist.m3u8?wsApp=HLS
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
-CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 CCTV-5,http://goo.bkpcp.top/mg/cctv5
 CCTV-5+,http://60.26.15.7:9901/tsfile/live/16025_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -80,9 +81,9 @@ CCTV-9,http://60.26.15.7:9901/tsfile/live/16016_1.m3u8?key=txiptv&playlive=1&aut
 CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 CCTV-9,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227182/index.m3u8
 CCTV-9,http://tvh.990066.xyz/stream/channelid/284019033?profile=pass
+CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV-9,https://www.nettvpro.xyz/player/videojs.php?url=http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/012/2024078603.m3u8
 CCTV-9,https://www.nettvpro.xyz/player/videojs.php?url=http://117.161.12.116/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV-9,http://goo.bkpcp.top/mg/cctv9
 CCTV-10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教
 CCTV-10,http://goo.bkpcp.top/mg/cctv10
@@ -154,6 +155,7 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
 浙江卫视,http://tvh.990066.xyz/stream/channelid/112875440?profile=pass
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 湖南卫视,http://60.26.15.7:9901/tsfile/live/16026_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
 湖南卫视,http://j.x.bkpcp.top/jx/HUNANHD
@@ -180,6 +182,7 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 黑龙江卫视,http://z.b.bkpcp.top/m.php?id=hljws
 黑龙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227207/index.m3u8
 黑龙江卫视,http://tvh.990066.xyz/stream/channelid/1823206562?profile=pass
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 安徽卫视,http://60.26.15.7:9901/tsfile/live/16042_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://j.x.bkpcp.top/jx/ANHUIHD
 安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
@@ -201,6 +204,7 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1744563606-d01eb60436f341fb8f1836f372642b6b-0-986a6b8b5fc3f3a2b6ed9cebc7f38f48
 东方卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227199/index.m3u8
 东方卫视,http://tvh.990066.xyz/stream/channelid/805172986?profile=pass
+东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
 东南卫视,http://z.b.bkpcp.top/m.php?id=dnws
 东南卫视,http://j.x.bkpcp.top/jx/DONGNHD
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
@@ -212,6 +216,9 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 甘肃卫视,http://z.b.bkpcp.top/m.php?id=gsws
 甘肃卫视,http://j.x.bkpcp.top/jx/GSWS
 甘肃卫视,http://goo.bkpcp.top/mg/gsws
+甘肃卫视,https://hlss.gstv.com.cn/49048r/6e1sy2.m3u8
+甘肃卫视,https://hlss.gstv.com.cn/49048r/y3nga4.flv
+甘肃卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gsws_4000.m3u8
 甘肃卫视,http://iptv.huuc.edu.cn/hls/gstv.m3u8
 广西卫视,http://60.26.15.7:9901/tsfile/live/16043_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://47.122.125.40:6666/hls/gxhd.m3u8
@@ -246,6 +253,8 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 河北卫视,http://webmail.axxe.top:4022/rtp/239.3.1.148:8072
 河北卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227222/index.m3u8
 河北卫视,http://tvh.990066.xyz/stream/channelid/1124170961?profile=pass
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
+河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
 河南卫视,http://60.26.15.7:9901/tsfile/live/16036_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
@@ -264,6 +273,7 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
 河南卫视,http://tvh.990066.xyz/stream/channelid/1375956460?profile=pass
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0ed3deeecd46eb00daf2a2047953ac9e&wsTime=1745247348
 吉林卫视,http://60.26.15.7:9901/tsfile/live/16033_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
 吉林卫视,http://j.x.bkpcp.top/jx/JILHD
@@ -311,6 +321,7 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 山东卫视,http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
 山东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227234/index.m3u8
 山东卫视,http://tvh.990066.xyz/stream/channelid/1392916884?profile=pass
+山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 山西卫视,http://60.26.15.7:9901/tsfile/live/16047_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://39.164.180.36:19901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://j.x.bkpcp.top/jx/SXWS
@@ -359,12 +370,17 @@ CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC动作电影,http://data.3g.yy.com/live/hls/1382735573/1382735573
+BTV-重温经典,http://yc.myds.me:35455/bptv/10000100000000050000000003887494.m3u8
+萌宠TV,http://yc.myds.me:35455/bptv/10000100000000050000000003887495.m3u8
+淘BABY,http://yc.myds.me:35455/bptv/10000100000000050000000003887496.m3u8
 淘电影,http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
 淘电影,http://nas.suntao.online:35455/bptv/10000100000000050000000003887498.m3u8
+淘剧场,http://yc.myds.me:35455/bptv/10000100000000050000000003887497.m3u8
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 
 🪁动画频道,#genre#
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
+金鹰卡通,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-5.m3u8
 哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226596/index.m3u8
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
