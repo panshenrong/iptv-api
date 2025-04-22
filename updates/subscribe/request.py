@@ -61,6 +61,8 @@ async def get_channels_by_subscribe_urls(
         try:
             response = None
             try:
+                if subscribe_url.endswith('token'):
+                    subscribe_url=subscribe_url+"=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjI0NDUxOTY1NjY5MjEwMjEsImlhdCI6MTc0NTEwMzMzOCwiZXhwIjoxNzc3OTM1MzM4fQ.BpuPhEQHdVTGBswzVLZTVX5oUJO_gsGu68a39FnK2M4"
                 response = (
                     retry_func(
                         lambda: session.get(
