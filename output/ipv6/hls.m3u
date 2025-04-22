@@ -1,91 +1,91 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-22 15:13:40
-http://localhost:8000/hls/6939365268446368814
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-22 16:44:03
+http://localhost:8000/hls/6870081603827128072
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
-http://localhost:8000/hls/6939365268446368814
+http://localhost:8000/hls/6870081603827128072
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
-http://localhost:8000/hls/-1790728900091097107
+http://localhost:8000/hls/351142231919544559
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央视频道",CCTV-3
-http://localhost:8000/hls/-8083301932363260045
+http://localhost:8000/hls/-1267183425215895626
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
-http://localhost:8000/hls/8276768819604385526
+http://localhost:8000/hls/4092824585861036494
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
-http://localhost:8000/hls/-8960344037265223807
+http://localhost:8000/hls/-3370525578180922272
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
-http://localhost:8000/hls/7649890425263793305
+http://localhost:8000/hls/-600064329986096536
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
-http://localhost:8000/hls/7322541521109221824
+http://localhost:8000/hls/6247044181113649415
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
-http://localhost:8000/hls/-89652790242193363
+http://localhost:8000/hls/8392724037176587205
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
-http://localhost:8000/hls/-6144403046337041183
+http://localhost:8000/hls/4132982854528076239
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
-http://localhost:8000/hls/-7820743324151671193
+http://localhost:8000/hls/2479429929013147236
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
-http://localhost:8000/hls/-7774387889545372535
+http://localhost:8000/hls/3871095412090164303
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
-http://localhost:8000/hls/5138386304848192518
+http://localhost:8000/hls/-208819923681542781
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-http://localhost:8000/hls/-8646683971341235543
+http://localhost:8000/hls/1233301334152245526
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
-http://localhost:8000/hls/-6690018782118986802
+http://localhost:8000/hls/4079899220593013161
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
-http://localhost:8000/hls/-2156065619916582828
+http://localhost:8000/hls/-4242857427339748121
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
-http://localhost:8000/hls/8916967329575370747
+http://localhost:8000/hls/-5444232929683393158
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
-http://localhost:8000/hls/-3730410895086272920
+http://localhost:8000/hls/917409285487287960
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://localhost:8000/hls/-1142496906512467796
+http://localhost:8000/hls/3964772542765756081
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://localhost:8000/hls/7610438445481705617
+http://localhost:8000/hls/7688607749292142379
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
-http://localhost:8000/hls/-456563267924684411
+http://localhost:8000/hls/-3582890987069058965
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
-http://localhost:8000/hls/6410186537281961432
+http://localhost:8000/hls/4835223833081299005
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="📡卫视频道",安徽卫视
-http://localhost:8000/hls/2634020577330396288
+http://localhost:8000/hls/3787625151729340079
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="📡卫视频道",重庆卫视
-http://localhost:8000/hls/-4707701389022010646
+http://localhost:8000/hls/7866836226505517477
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
-http://localhost:8000/hls/78721923880798617
+http://localhost:8000/hls/2009959339631466709
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
-http://localhost:8000/hls/-4792127082712910853
+http://localhost:8000/hls/6787684883267950458
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
-http://localhost:8000/hls/4176892604785558742
+http://localhost:8000/hls/-2835647811923400780
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
-http://localhost:8000/hls/-4084978905121949369
+http://localhost:8000/hls/4766303948151489721
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
-http://localhost:8000/hls/-4280217378593643830
+http://localhost:8000/hls/-6529307712748241194
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="📡卫视频道",贵州卫视
-http://localhost:8000/hls/-3583966244296755840
+http://localhost:8000/hls/6423900302435479822
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
-http://localhost:8000/hls/899453235282710845
+http://localhost:8000/hls/4773751934232089157
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
-http://localhost:8000/hls/2860130529270743610
+http://localhost:8000/hls/3770537427917963946
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
-http://localhost:8000/hls/-8176438867530989386
+http://localhost:8000/hls/1979523421885979463
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
-http://localhost:8000/hls/3467474904391611177
+http://localhost:8000/hls/-8580797010160644654
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
-http://localhost:8000/hls/-8470845650757502656
+http://localhost:8000/hls/-2065489306191418243
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
-http://localhost:8000/hls/7052153801402283874
+http://localhost:8000/hls/5445645031224086963
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
-http://localhost:8000/hls/-8476184460110769629
+http://localhost:8000/hls/5619697519407052344
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
-http://localhost:8000/hls/7726404431619831881
+http://localhost:8000/hls/-8717115877325464736
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
-http://localhost:8000/hls/3958424808010013515
+http://localhost:8000/hls/-6090810932630470803
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
-http://localhost:8000/hls/-6299508523512083107
+http://localhost:8000/hls/-3093127167291168898
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
-http://localhost:8000/hls/7297525623724176921
+http://localhost:8000/hls/2310375545217548936
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="📡卫视频道",四川卫视
-http://localhost:8000/hls/4476642936459361819
+http://localhost:8000/hls/8025593640117779236
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
-http://localhost:8000/hls/-2407612009811689214
+http://localhost:8000/hls/1422435146891866825
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
-http://localhost:8000/hls/-7718528788597612519
+http://localhost:8000/hls/-6793795860575250644
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
-http://localhost:8000/hls/7367111290402095597
+http://localhost:8000/hls/67621863684150421
