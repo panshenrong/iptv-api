@@ -55,24 +55,29 @@ CCTV-17
 云南卫视
 
 🎬数字电视,#genre#
+NewTV潮妈辣婆
+NewTV中国功夫
+NewTV军事评论
+NewTV军旅剧场
+NewTV农业致富
+NewTV动作电影
+NewTV古装剧场
+NewTV家庭剧场
+NewTV惊悚悬疑
+NewTV武搏世界
+NewTV爱情喜剧
+NewTV精品体育
+NewTV精品大剧
+NewTV精品纪录
+NewTV金牌综艺
+NewTV明星大片
+黑莓电影
 CHC家庭影院
 CHC动作电影
 CHC影迷电影
-IPTV热播剧场
-IPTV少儿动画
-IPTV谍战剧场
-PTV相声小品
-IPTV法治
-IPTV经典电影
-IPTV热播剧场
-萌宠TV
-淘BABY
-淘电影
-淘剧场
-淘娱乐
 
 🪁动画频道,#genre#
-新动漫
+黑莓动画
 嘉佳卡通
 金鹰卡通
 哈哈炫动
@@ -81,6 +86,7 @@ IPTV热播剧场
 河北少儿科教
 动漫秀场
 卡酷少儿
+南京少儿
 
 
 🏛YY斗鱼,#genre#
