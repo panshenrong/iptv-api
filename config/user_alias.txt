@@ -2,7 +2,7 @@
 # 格式：模板频道名称,别名1,别名2,别名3
 # This is the alias list for channel names, used to map multiple names to a single name when fetching from the interface, improving the fetch volume and accuracy.
 # Format: TemplateChannelName,Alias1,Alias2,Alias3
-
+#央视频道
 CCTV-1,CCTV1综合
 CCTV-2,CCTV2财经
 CCTV-3,CCTV3综艺
@@ -27,6 +27,7 @@ CCTV-17,CCTV17农业农村,CCTV17农业
 怀旧剧场,怀旧剧场HD,怀旧剧场高清,CCTV怀旧剧场,CCTV-怀旧剧场
 兵器科技,兵器科技HD,兵器科技高清,CCTV兵器科技,CCTV-兵器科技
 央视文化精品,央视文化精品HD,央视文化精品高清,CCTV央视文化精品,CCTV-兵器科技
+#卫视频道
 广东卫视,广东卫视HD,广东卫视超清,广东卫视高清
 浙江卫视,浙江卫视高清,浙江卫视高清 (CAVS),浙江卫视高清,浙江卫视高清 (CAVS)
 湖南卫视,湖南卫视HD,湖南卫视高清,湖南卫视超清 (CAVS),湖南卫视高清 (CAVS) ,湖南卫视超高清
@@ -56,6 +57,11 @@ CCTV-17,CCTV17农业农村,CCTV17农业
 深圳卫视,深圳卫视HD,深圳卫视高清,深圳卫视超清 (CAVS),深圳卫视高清 (CAVS) ,深圳卫视超高清
 天津卫视,天津卫视HD,天津卫视高清,天津卫视超清 (CAVS),天津卫视高清 (CAVS) ,天津卫视超高清
 云南卫视,云南卫视HD,云南卫视高清,云南卫视超清 (CAVS),云南卫视高清 (CAVS) ,云南卫视超高清
+凤凰中文,凤凰中文
+凤凰香港,凤凰香港
+凤凰资讯,凤凰资讯
+#数字电视
+CHC家庭影院,CHC家庭影院高清,CHC家庭电影HD,CHC家庭
 CHC家庭影院,CHC家庭影院高清,CHC家庭电影HD,CHC家庭
 CHC动作电影,CHC动作电影高清,CHC动作电影HD,CHC动作
 CHC影迷电影,CHC影迷电影高清,CHC影迷电影HD,CHC影迷
@@ -75,7 +81,21 @@ NewTV精品大剧,NewTV精品大剧
 NewTV精品纪录,NewTV精品纪录
 NewTV金牌综艺,NewTV金牌综艺
 NewTV明星大片,NewTV明星大片
+欢笑剧场,SiTV欢笑剧场
+都市剧场,SiTV都市剧场
+咪咕怀旧剧场,咪咕怀旧剧场
+咪咕视频,咪咕怀旧剧场
+咪咕视频1,咪咕视频1
+咪咕视频2,咪咕视频2
+咪咕视频3,咪咕视频3
+咪咕视频4,咪咕视频4
+咪咕视频5,咪咕视频5
+咪咕视频6,咪咕视频6
+咪咕视频7,咪咕视频7
+南京影视,南京影视
+江苏影视,江苏影视
 黑莓电影,黑莓电影
+# 动画频道
 黑莓动画,黑莓动画
 新动漫,新动漫频道
 嘉佳卡通,嘉佳卡通高清,嘉佳卡通SD,广东嘉佳卡通
@@ -84,6 +104,7 @@ NewTV明星大片,NewTV明星大片
 炫动卡通,炫动卡通
 浙江少儿,浙江少儿
 河北少儿科教,河北少儿科教
-动漫秀场,动漫秀场HD
+动漫秀场,动漫秀场HD,SiTV动漫秀场
 卡酷少儿,BRTV卡酷少儿[高清],北京卡酷少儿
 南京少儿,南京少儿
+优漫卡通,江苏优漫卡通
