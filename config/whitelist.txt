@@ -6,3 +6,4 @@
 # http://yc.myds.me:35455
 # https://gdcucc.v1.mk
 # http://222.222.168.124:8000/hls
+https://gyssi.link/live/安徽.m3u

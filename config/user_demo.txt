@@ -57,6 +57,7 @@ CCTV-17
 🎬数字电视,#genre#
 CHC家庭影院
 CHC动作电影
+CHC影迷电影
 IPTV热播剧场
 IPTV少儿动画
 IPTV谍战剧场
