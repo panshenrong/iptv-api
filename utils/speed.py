@@ -137,10 +137,7 @@ async def get_result(url: str, headers: dict = None, resolution: str = None,
         async with ClientSession(connector=TCPConnector(ssl=False), trust_env=True) as session:
             res_headers = await get_headers(url, headers, session)
             location = res_headers.get('Location')
-            if not res_headers.get('Content-Length') or res_headers['Content-Length']=='0':
-                res_info = await get_speed_with_download(url, headers, session, timeout)
-                info.update({'speed': res_info['speed'], 'delay': res_info['delay']})
-            elif location:
+            if location:
                 info.update(await get_result(location, headers, resolution, filter_resolution, timeout))
             else:
                 url_content = await get_url_content(url, headers, session, timeout)
@@ -397,7 +394,7 @@ def sort_urls(name, data, supply=open_supply, filter_speed=open_filter_speed, mi
                 try:
                     if logger:
                         logger.info(
-                            f"Name: {name}, URL: {result['url']}, IPv_Type: {ipv_type}, Date: {date}, Delay: {avg_delay} ms, Speed: {avg_speed:.2f} M/s, Resolution: {resolution}"
+                            f"Name: {name}, URL: {result["url"]}, IPv_Type: {ipv_type}, Date: {date}, Delay: {avg_delay} ms, Speed: {avg_speed:.2f} M/s, Resolution: {resolution}"
                         )
                 except Exception as e:
                     print(e)
