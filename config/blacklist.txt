@@ -42,3 +42,4 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/play
 http://cntv.dfkj.live
 /gaoma/
 https://event.pull.hebtv
+icu
