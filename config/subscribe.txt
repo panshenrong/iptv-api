@@ -18,6 +18,7 @@ https://gh-proxy.com/raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://gh-proxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
 # 自定义
+https://gh-proxy.com/raw.githubusercontent.com/wcb1969/iptv/main/重庆有线.txt
 https://gyssi.link/live/广东2.m3u
 https://gyssi.link/live/辽宁.m3u
 https://gyssi.link/live/广东3.m3u
@@ -39,4 +40,4 @@ https://gyssi.link/live/天津.m3u
 https://gyssi.link/live/江苏.m3u
 https://gyssi.link/live/上海.m3u
 https://gyssi.link/live/北京.m3u
-https://gyssi.link/live/live-vip.m3u8
+https://gyssi.link/live/vip.m3u8
