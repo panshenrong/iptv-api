@@ -10,7 +10,6 @@ https://gh-proxy.com/raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
 https://gh-proxy.com/raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
 https://gh-proxy.com/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
 https://gh-proxy.com/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://gh-proxy.com/raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
@@ -19,6 +18,7 @@ https://gh-proxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
 # 自定义
 https://gh-proxy.com/raw.githubusercontent.com/wcb1969/iptv/main/重庆有线.txt
+http://yc.myds.me:35455/tv.m3u
 https://gyssi.link/live/广东2.m3u
 https://gyssi.link/live/辽宁.m3u
 https://gyssi.link/live/广东3.m3u
