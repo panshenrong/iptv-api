@@ -41,7 +41,7 @@ hls_ipv4_result_path = os.path.join(output_dir, "ipv4/hls.txt")
 
 hls_ipv6_result_path = os.path.join(output_dir, "ipv6/hls.txt")
 
-cache_path = os.path.join(output_dir, "data/cache.pkl")
+cache_path = os.path.join(output_dir, "data/cache.pkl.gz")
 
 sort_log_path = os.path.join(output_dir, "log/sort.log")
 
@@ -49,7 +49,7 @@ log_path = os.path.join(output_dir, "log/log.log")
 
 url_host_pattern = re.compile(r"((https?|rtmp|rtsp)://)?([^:@/]+(:[^:@/]*)?@)?(\[[0-9a-fA-F:]+]|([\w-]+\.)+[\w-]+)")
 
-url_pattern = re.compile(r"(?P<url>" + url_host_pattern.pattern + r"(.*)?)")
+url_pattern = re.compile(r"(?P<url>" + url_host_pattern.pattern + r"[^\s]*)")
 
 rt_url_pattern = re.compile(r"^(rtmp|rtsp)://.*$")
 

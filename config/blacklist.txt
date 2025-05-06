@@ -43,3 +43,4 @@ http://cntv.dfkj.live
 /gaoma/
 https://event.pull.hebtv
 icu
+satellitepull.cnr.cn

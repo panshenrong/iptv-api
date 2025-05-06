@@ -254,8 +254,8 @@ class ConfigManager:
         return self.config.getboolean("Settings", "open_history", fallback=True)
 
     @property
-    def open_sort(self):
-        return self.config.getboolean("Settings", "open_sort", fallback=True)
+    def open_speed_test(self):
+        return self.config.getboolean("Settings", "open_speed_test", fallback=True)
 
     @property
     def open_update_time(self):
@@ -286,8 +286,8 @@ class ConfigManager:
         return self.config.getint("Settings", "request_timeout", fallback=10)
 
     @property
-    def sort_timeout(self):
-        return self.config.getint("Settings", "sort_timeout", fallback=10)
+    def speed_test_timeout(self):
+        return self.config.getint("Settings", "speed_test_timeout", fallback=10)
 
     @property
     def open_driver(self):
@@ -321,7 +321,7 @@ class ConfigManager:
 
     @property
     def open_supply(self):
-        return self.config.getboolean("Settings", "open_supply", fallback=True)
+        return self.config.getboolean("Settings", "open_supply", fallback=False)
 
     @property
     def update_time_position(self):
@@ -344,8 +344,8 @@ class ConfigManager:
         return self.config.getint("Settings", "local_num", fallback=10)
 
     @property
-    def sort_duplicate_limit(self):
-        return self.config.getint("Settings", "sort_duplicate_limit", fallback=1)
+    def speed_test_filter_host(self):
+        return self.config.getboolean("Settings", "speed_test_filter_host", fallback=False)
 
     @property
     def cdn_url(self):
@@ -362,6 +362,10 @@ class ConfigManager:
     @property
     def open_epg(self):
         return self.config.getboolean("Settings", "open_epg", fallback=True)
+
+    @property
+    def speed_test_limit(self):
+        return self.config.getint("Settings", "speed_test_limit", fallback=10)
 
     def load(self):
         """

@@ -1,5 +1,6 @@
 import os
 import tkinter as tk
+import webbrowser
 from tkinter import filedialog, messagebox, ttk
 
 import utils.constants as constants
@@ -410,6 +411,7 @@ class DefaultUI:
             command=self.edit_whitelist_file,
         )
         self.whitelist_file_button.pack(side=tk.LEFT, padx=4, pady=0)
+
         self.url_keywords_blacklist_label = tk.Label(
             frame_default_url_keywords_column2, text="黑名单:", width=12
         )
@@ -420,6 +422,35 @@ class DefaultUI:
             command=self.edit_blacklist_file,
         )
         self.blacklist_file_button.pack(side=tk.LEFT, padx=4, pady=0)
+
+        frame_channel_alias = tk.Frame(root)
+        frame_channel_alias.pack(fill=tk.X)
+        frame_channel_alias_column1 = tk.Frame(frame_channel_alias)
+        frame_channel_alias_column1.pack(side=tk.LEFT, fill=tk.Y)
+        frame_channel_alias_column2 = tk.Frame(frame_channel_alias)
+        frame_channel_alias_column2.pack(side=tk.RIGHT, fill=tk.Y)
+
+        self.channel_alias_label = tk.Label(
+            frame_channel_alias_column1, text="频道别名:", width=12
+        )
+        self.channel_alias_label.pack(side=tk.LEFT, padx=4, pady=8)
+        self.channel_alias_file_button = tk.ttk.Button(
+            frame_channel_alias_column1,
+            text="编辑",
+            command=self.edit_channel_alias_file,
+        )
+        self.channel_alias_file_button.pack(side=tk.LEFT, padx=4, pady=0)
+
+        self.rtmp_stat_label = tk.Label(
+            frame_channel_alias_column2, text="推流统计:", width=12
+        )
+        self.rtmp_stat_label.pack(side=tk.LEFT, padx=4, pady=8)
+        self.rtmp_stat_button = tk.ttk.Button(
+            frame_channel_alias_column2,
+            text="查看",
+            command=self.view_rtmp_stat,
+        )
+        self.rtmp_stat_button.pack(side=tk.LEFT, padx=4, pady=0)
 
     def update_open_update(self):
         config.set("Settings", "open_update", str(self.open_update_var.get()))
@@ -521,6 +552,12 @@ class DefaultUI:
     def edit_blacklist_file(self):
         self.edit_file(constants.blacklist_path)
 
+    def edit_channel_alias_file(self):
+        self.edit_file(constants.alias_path)
+
+    def view_rtmp_stat(self):
+        webbrowser.open_new_tab("http://localhost:8080/stat")
+
     def change_entry_state(self, state):
         for entry in [
             "open_update_checkbutton",
@@ -551,5 +588,7 @@ class DefaultUI:
             "ipv6_support_checkbutton",
             "whitelist_file_button",
             "blacklist_file_button",
+            "channel_alias_file_button",
+            "rtmp_stat_button",
         ]:
             getattr(self, entry).config(state=state)

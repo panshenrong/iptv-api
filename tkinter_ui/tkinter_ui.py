@@ -23,6 +23,7 @@ from online_search import OnlineSearchUI
 from epg import EpgUI
 from utils.speed import check_ffmpeg_installed_status
 import pystray
+from service.app import run_service
 
 
 class TkinterUI:
@@ -293,7 +294,7 @@ def get_root_location(root):
     screen_width = root.winfo_screenwidth()
     screen_height = root.winfo_screenheight()
     width = 620
-    height = 600
+    height = 650
     x = (screen_width / 2) - (width / 2)
     y = (screen_height / 2) - (height / 2)
     return (width, height, x, y)
@@ -309,4 +310,7 @@ if __name__ == "__main__":
     root.iconbitmap(resource_path("static/images/favicon.ico"))
     root.after(0, config.copy)
     root.after(0, config.copy("utils/nginx-rtmp-win32"))
+    root.after(0, config.copy("output"))
+    if config.open_service:
+        root.after(0, threading.Thread(target=run_service, daemon=True).start())
     root.mainloop()
