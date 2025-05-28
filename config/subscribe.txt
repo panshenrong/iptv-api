@@ -17,7 +17,7 @@ https://gh-proxy.com/raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://gh-proxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
 # 自定义
-https://gh-proxy.com/raw.githubusercontent.com/wcb1969/iptv/main/北京BPTV.txt
+https://gh-proxy.com/raw.githubusercontent.com/q1017673817/iptvz/main/zubo.txt
 https://www.cloudplains.cn/result.txt
 https://gh-proxy.com/raw.githubusercontent.com/hero1898/tv/main/IPTV.m3u
 # http://yc.myds.me:35455/tv.m3u
