@@ -1,25 +1,25 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-https://gh-proxy.com/raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://gh-proxy.com/raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://gh-proxy.com/raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-https://gh-proxy.com/raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
-https://gh-proxy.com/raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
-https://gh-proxy.com/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
-https://gh-proxy.com/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
-https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-https://gh-proxy.com/raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-https://gh-proxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+# https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+# https://gh-proxy.com/raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+# https://gh-proxy.com/raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+# https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+# https://gh-proxy.com/raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+# https://gh-proxy.com/raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
+# https://gh-proxy.com/raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
+# https://gh-proxy.com/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+# https://gh-proxy.com/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+# https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+# https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+# https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+# https://gh-proxy.com/raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+# https://gh-proxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
 # 自定义
 https://gh-proxy.com/raw.githubusercontent.com/q1017673817/iptvz/main/zubo_all.txt
-https://www.cloudplains.cn/result.txt
-https://gh-proxy.com/raw.githubusercontent.com/hero1898/tv/main/IPTV.m3u
+# https://www.cloudplains.cn/result.txt
+# https://gh-proxy.com/raw.githubusercontent.com/hero1898/tv/main/IPTV.m3u
 # http://yc.myds.me:35455/tv.m3u
 # https://gyssi.link/live/广东2.m3u
 # https://gyssi.link/live/辽宁.m3u
@@ -44,24 +44,24 @@ https://gh-proxy.com/raw.githubusercontent.com/hero1898/tv/main/IPTV.m3u
 # https://gyssi.link/live/北京.m3u
 https://gyssi.link/live/vip.m3u8
 https://gyssi.link/iptv/chinaiptv/天津市.m3u
-https://gyssi.link/iptv/chinaiptv/安徽省.m3u
-https://gyssi.link/iptv/chinaiptv/上海市.m3u
-https://gyssi.link/iptv/chinaiptv/吉林省.m3u
-https://gyssi.link/iptv/chinaiptv/山西省.m3u
-https://gyssi.link/iptv/chinaiptv/广西壮族自治区.m3u
-https://gyssi.link/iptv/chinaiptv/湖南省.m3u
-https://gyssi.link/iptv/chinaiptv/河北省.m3u
-https://gyssi.link/iptv/chinaiptv/江西省.m3u
-https://gyssi.link/iptv/chinaiptv/内蒙古自治区.m3u
-https://gyssi.link/iptv/chinaiptv/江苏省.m3u
-https://gyssi.link/iptv/chinaiptv/云南省.m3u
-https://gyssi.link/iptv/chinaiptv/浙江省.m3u
-https://gyssi.link/iptv/chinaiptv/广东省.m3u
-https://gyssi.link/iptv/chinaiptv/河南省.m3u
-https://gyssi.link/iptv/chinaiptv/福建省.m3u
-https://gyssi.link/iptv/chinaiptv/海南省.m3u
-https://gyssi.link/iptv/chinaiptv/重庆市.m3u
-https://gyssi.link/iptv/chinaiptv/湖北省.m3u
-https://gyssi.link/iptv/chinaiptv/陕西省.m3u
-https://gyssi.link/iptv/chinaiptv/山东省.m3u
-https://gyssi.link/iptv/chinaiptv/辽宁省.m3u
+# https://gyssi.link/iptv/chinaiptv/安徽省.m3u
+# https://gyssi.link/iptv/chinaiptv/上海市.m3u
+# https://gyssi.link/iptv/chinaiptv/吉林省.m3u
+# https://gyssi.link/iptv/chinaiptv/山西省.m3u
+# https://gyssi.link/iptv/chinaiptv/广西壮族自治区.m3u
+# https://gyssi.link/iptv/chinaiptv/湖南省.m3u
+# https://gyssi.link/iptv/chinaiptv/河北省.m3u
+# https://gyssi.link/iptv/chinaiptv/江西省.m3u
+# https://gyssi.link/iptv/chinaiptv/内蒙古自治区.m3u
+# https://gyssi.link/iptv/chinaiptv/江苏省.m3u
+# https://gyssi.link/iptv/chinaiptv/云南省.m3u
+# https://gyssi.link/iptv/chinaiptv/浙江省.m3u
+# https://gyssi.link/iptv/chinaiptv/广东省.m3u
+# https://gyssi.link/iptv/chinaiptv/河南省.m3u
+# https://gyssi.link/iptv/chinaiptv/福建省.m3u
+# https://gyssi.link/iptv/chinaiptv/海南省.m3u
+# https://gyssi.link/iptv/chinaiptv/重庆市.m3u
+# https://gyssi.link/iptv/chinaiptv/湖北省.m3u
+# https://gyssi.link/iptv/chinaiptv/陕西省.m3u
+# https://gyssi.link/iptv/chinaiptv/山东省.m3u
+# https://gyssi.link/iptv/chinaiptv/辽宁省.m3u
