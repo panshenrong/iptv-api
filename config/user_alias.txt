@@ -36,7 +36,7 @@ CCTV-8K,CCTV8K,CCTV8K 超高清,CCTV-8K超高清[3840*2160],cctv8k_120m,cctv8k_3
 高尔夫网球,CCTV高尔夫球,CCTV高尔夫·网球,CCTV-高尔夫网琿,CCTV高尔夫网球,CCTV-高尔夫网球,CCTV高尔夫网球HD,CCTV-央视高网
 怀旧剧场,CCTV怀旧剧场,CCTV-怀旧剧场,CCTV怀旧剧场HD,CCTV怀旧剧圿,CCTV-怀旧剧圿
 老故事,CCTV老故事,CCTV-老故事,CCTV老故亿,中央新影-老故事,中央新影-老故亿,重温经典,中央新影老故事
-女性时尚,CCTV女性时尿,CCTV-女性时尿,CCTV女性时尚,CCTV-女性时尚,CCTV女性时尚HD
+女性时尚,CCTV女性时尚,CCTV-女性时尚,CCTV女性时尚,CCTV-女性时尚,CCTV女性时尚HD
 世界地理,CCTV世界地理,CCTV-世界地理,CCTV世界地理HD
 文化精品,CCTV文化精品,CCTV-文化精品,CCTV央视文化精品,CCTV-央视文化精品,CCTV央视文化精品HD
 百姓健康,CCTV卫生健康,CCTV-卫生健康,CCTV卫生与健康
@@ -75,9 +75,9 @@ CCTV-8K,CCTV8K,CCTV8K 超高清,CCTV-8K超高清[3840*2160],cctv8k_120m,cctv8k_3
 凤凰香港,凤凰香港
 凤凰资讯,凤凰资讯
 #数字电视
-CHC家庭影院,CHC家庭影院高清,CHC家庭电影HD,CHC家庭
-CHC动作电影,CHC动作电影高清,CHC动作电影HD,CHC动作
-CHC影迷电影,CHC影迷电影高清,CHC影迷电影HD,CHC影迷,CHC高清电影,CHC高清电影HD,CHC高清
+CHC家庭影院,CHC家庭影院高清,CHC家庭电影HD,CHC家庭,CHC-家庭影院
+CHC动作电影,CHC动作电影高清,CHC动作电影HD,CHC动作,CHC-动作电影
+CHC影迷电影,CHC影迷电影高清,CHC影迷电影HD,CHC影迷,CHC高清电影,CHC高清电影HD,CHC高清,CHC-影迷电影
 淘电影,北京IPTV淘电影
 淘剧场,北京IPTV淘剧场
 淘娱乐,北京IPTV淘娱乐
